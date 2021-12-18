@@ -1,0 +1,1 @@
+powershell ". 'Convert-FolderContentToMarkdownTableOfContents.ps1'; Convert-FolderContentToMarkdownTableOfContents -BaseFolder  "C:\Users\mars9\Documents\mars9n9.github.io\docs" -BaseURL "https://mars9n9.github.io" -FiletypeFilter "*.md""
