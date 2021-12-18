@@ -42,5 +42,5 @@
 
 Вылейте шоколадный соус на пирог и затем натрите немного шоколада сверху.
 
-[_https://www.playfulcooking.com/cakes-cupcakes-and-muffins/yogurt-banana-chocolate-cake/_](https://www.playfulcooking.com/cakes-cupcakes-and-muffins/yogurt-banana-chocolate-cake/)\_\_
+[_https://www.playfulcooking.com/cakes-cupcakes-and-muffins/yogurt-banana-chocolate-cake/_](https://www.playfulcooking.com/cakes-cupcakes-and-muffins/yogurt-banana-chocolate-cake/)
 
