@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/7e/a6/ce/7ea6ce5e9d60574bde1b948c8e00423f.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на 20 булочек
 
@@ -24,7 +24,7 @@
 
 Разогреть духовку до 180 гр. Тесто разделить на 2 части. Каждую часть разделить на 10 частей и того получится 20. На слегка присыпанной мукой доске сформировать из каждой части круглые булочки. Положить их на противень выстланный бумагой для выпечки, оставляя между булочками небольшое расстояние. Кисточкой смазать каждую булочку сливками и посыпать кунжутом. Дать постоять ещё 5 минут. После поставить противень в духовку и выпекать 20 минут.
 
-[_http://elena-fialka.livejournal.com/164635.html_](http://elena-fialka.livejournal.com/164635.html)\_\_
+[_http://elena-fialka.livejournal.com/164635.html_](http://elena-fialka.livejournal.com/164635.html)
 
-[_http://sonja-ksu.livejournal.com/69780.html_](http://sonja-ksu.livejournal.com/69780.html)\_\_
+[_http://sonja-ksu.livejournal.com/69780.html_](http://sonja-ksu.livejournal.com/69780.html)
 

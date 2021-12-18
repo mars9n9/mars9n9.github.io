@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/5c/71/f1/5c71f16f2664e8be3ed6e128c9bdb634.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 1 порция
 
@@ -18,5 +18,5 @@
 
 Банош подавать с шкварками и брынзой
 
-\_\_[_http://world-cuisine.livejournal.com/342107.html_](http://world-cuisine.livejournal.com/342107.html)\_\_
+[_http://world-cuisine.livejournal.com/342107.html_](http://world-cuisine.livejournal.com/342107.html)
 

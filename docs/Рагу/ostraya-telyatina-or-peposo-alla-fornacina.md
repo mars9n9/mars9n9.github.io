@@ -24,5 +24,5 @@
 
 Готовую телятину подавать в горячем виде.
 
-\_\_[_http://elladkin.livejournal.com/417107.html_](http://elladkin.livejournal.com/417107.html)\_\_
+[_http://elladkin.livejournal.com/417107.html_](http://elladkin.livejournal.com/417107.html)
 

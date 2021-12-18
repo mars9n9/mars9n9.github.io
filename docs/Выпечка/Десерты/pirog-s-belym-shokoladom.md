@@ -38,5 +38,5 @@
 
 Сразу же вытащить из духовки. Когда пирог немного останет, посыпать сахарной пудрой.
 
-[_https://sonata.livejournal.com/323376.html_](https://sonata.livejournal.com/323376.html)\_\_
+[_https://sonata.livejournal.com/323376.html_](https://sonata.livejournal.com/323376.html)
 

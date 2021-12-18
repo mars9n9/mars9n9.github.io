@@ -24,5 +24,5 @@
 
 Нагреть духовку до 200С. Смазать каждую лепешку оливковым маслом, посыпать кунжутными семечками и наколоть лепешки вилкой. Печь 20-25 минут или до золотистого цвета. Лепешки при постукивании по ним пальцами должны издавать "пустой" звук.
 
-\_\_[_https://world-cuisine.livejournal.com/31643.html_](https://world-cuisine.livejournal.com/31643.html)\_\_
+[_https://world-cuisine.livejournal.com/31643.html_](https://world-cuisine.livejournal.com/31643.html)
 

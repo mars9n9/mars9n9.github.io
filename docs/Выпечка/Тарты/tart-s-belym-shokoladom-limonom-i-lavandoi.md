@@ -22,5 +22,5 @@
 
 Разложить на основе для тарта кусочки лимона, залить шоколадной начинкой, убрать в холодильник до полного застывания.
 
-[_https://laperla-foto.livejournal.com/122531.html_](https://laperla-foto.livejournal.com/122531.html)\_\_
+[_https://laperla-foto.livejournal.com/122531.html_](https://laperla-foto.livejournal.com/122531.html)
 

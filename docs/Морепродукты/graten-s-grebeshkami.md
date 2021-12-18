@@ -2,7 +2,7 @@
 
 ![](../pics/maxresdefault-1.jpg)
 
-#### Ингредиенты :
+###### Ингредиенты:
 
 * 6 ст. л. сливочного масла комнатной температуры
 * 6 больших зубчиков чеснока
@@ -25,5 +25,5 @@
 
 При подаче сбрызнуть лимонным соком и подать хрустящий французский батон.
 
-[_https://home-chef.livejournal.com/75731.html_](https://home-chef.livejournal.com/75731.html)\_\_
+[_https://home-chef.livejournal.com/75731.html_](https://home-chef.livejournal.com/75731.html)
 

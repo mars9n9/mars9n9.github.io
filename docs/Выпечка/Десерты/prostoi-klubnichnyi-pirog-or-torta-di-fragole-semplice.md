@@ -27,5 +27,5 @@
 
 Подавать посыпав сахарной пудрой и украсив свежими ягодами.
 
-\_\_[_http://elladkin.livejournal.com/475210.html_](http://elladkin.livejournal.com/475210.html)\_\_
+[_http://elladkin.livejournal.com/475210.html_](http://elladkin.livejournal.com/475210.html)
 

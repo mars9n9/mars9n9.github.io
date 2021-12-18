@@ -8,7 +8,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/5b/40/26/5b402623d895e6da59d18e929d401cf8.jpg)
 
-## Ингредиенты:
+#### Ингредиенты:
 
 6 порций \| 1 ч. 20 мин
 
@@ -19,7 +19,7 @@
 * Винный уксус - 2 ст. ложки
 * Молотый кориандр - 1 ч. ложка
 
-## Приготовление:
+#### Приготовление:
 
 Курицу помыть, разделать и порезать на куски, не снимая кожи. Вырезать из-под кожи куриный жир — он пригодится для тушения курицы.
 
@@ -49,5 +49,5 @@
 
 Разлить суп по тарелкам и украсить зеленью кинзы. Подавать с рюмкой крепкого алкоголя.
 
-[_http://www.the-village.ru/village/food/chief-at-home/125293-shef-doma-gruzin-i-italyanets-gotovyat-po-retseptam-babushek_](http://www.the-village.ru/village/food/chief-at-home/125293-shef-doma-gruzin-i-italyanets-gotovyat-po-retseptam-babushek)\_\_
+[_http://www.the-village.ru/village/food/chief-at-home/125293-shef-doma-gruzin-i-italyanets-gotovyat-po-retseptam-babushek_](http://www.the-village.ru/village/food/chief-at-home/125293-shef-doma-gruzin-i-italyanets-gotovyat-po-retseptam-babushek)
 

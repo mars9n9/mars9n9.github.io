@@ -2,7 +2,7 @@
 
 ![](../../../pics/14a6dedc2abe9db7f689465f448b7312-1.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на форму 28 см
 
@@ -27,5 +27,5 @@
 
 Выпекать 35-40 минут при 180 градусах.
 
-[_https://www.aberdeenskitchen.com/2017/03/cheesy-spinach-mushroom-tomato-quiche/_](https://www.aberdeenskitchen.com/2017/03/cheesy-spinach-mushroom-tomato-quiche/)\_\_
+[_https://www.aberdeenskitchen.com/2017/03/cheesy-spinach-mushroom-tomato-quiche/_](https://www.aberdeenskitchen.com/2017/03/cheesy-spinach-mushroom-tomato-quiche/)
 

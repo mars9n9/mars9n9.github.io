@@ -2,7 +2,7 @@
 
 ![](../pics/unnamed.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * говяжья печень
 * кориандр
@@ -29,5 +29,5 @@
 
 Есть можно, когда печень теплая, но остывшей она будет еще лучше
 
-_Максим Тарусин, шеф-повар ресторана «Восход»_ [_https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya_](https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya)\_\_
+_Максим Тарусин, шеф-повар ресторана «Восход»_ [_https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya_](https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya)
 

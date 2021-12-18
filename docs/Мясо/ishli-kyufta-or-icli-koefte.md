@@ -34,5 +34,5 @@
 
 Подавать сразу.
 
-[_http://www.fasol.tv/recepty/_](http://www.fasol.tv/recepty/detail.php?ID=3960)\_\_
+[_http://www.fasol.tv/recepty/_](http://www.fasol.tv/recepty/detail.php?ID=3960)
 

@@ -32,5 +32,5 @@
 
 _Лепешки можно заморозить. Слои проложить пергаментом, убрать в морозилку. На следующий день лепешки можно сложить в стопку и замотать пленкой. Доставать потом по одной и печь_
 
-\_\_[_https://t.me/thatchickenstock_](https://t.me/thatchickenstock)\_\_
+[_https://t.me/thatchickenstock_](https://t.me/thatchickenstock)
 

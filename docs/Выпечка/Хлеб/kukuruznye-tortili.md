@@ -19,5 +19,5 @@
 
 Скатать тесто в шар, накрыть и оставить на 20 минут. После чего разделить тесто на 6 частей и тонко раскатать. Обжарить на сухой раскаленой сковороде с двух сторон по 30 секунд. Оставить в теплом месте, прикрыв полотенцем
 
-[_http://elena-fialka.livejournal.com/165619.html_](http://elena-fialka.livejournal.com/165619.html)\_\_
+[_http://elena-fialka.livejournal.com/165619.html_](http://elena-fialka.livejournal.com/165619.html)
 

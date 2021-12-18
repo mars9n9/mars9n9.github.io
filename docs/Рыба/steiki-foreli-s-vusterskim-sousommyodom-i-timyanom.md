@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/5c/dd/9a/5cdd9a63a6e3be246c2e8f5505faad6d.jpg)
 
-#### Ингридиенты:
+#### Ингредиенты:
 
 * 2 стейка форели по 200 гр
 * 2 ст.л вустерский соус
@@ -21,5 +21,5 @@
 
 В форму для запекания выложить стейки, полить соусом, запекать при 200 гр 25 минут.
 
-[_http://elena-fialka.livejournal.com/244718.html_](http://elena-fialka.livejournal.com/244718.html)\_\_
+[_http://elena-fialka.livejournal.com/244718.html_](http://elena-fialka.livejournal.com/244718.html)
 

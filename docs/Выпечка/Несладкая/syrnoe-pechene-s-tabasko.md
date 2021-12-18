@@ -2,7 +2,7 @@
 
 ![](../../pics/178387039_1116898635472798_3834828181319297055_n%20%281%29.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 160гр муки
 * 150гр тёртого сыра
@@ -20,5 +20,5 @@
 
 Выпекать при 180С 12-15 минут в зависимости от размера \(до лёгкого золотистого цвета\).
 
-\_\_[_https://www.instagram.com/p/CMSCeRAlH87/_](https://www.instagram.com/p/CMSCeRAlH87/)\_\_
+[_https://www.instagram.com/p/CMSCeRAlH87/_](https://www.instagram.com/p/CMSCeRAlH87/)
 

@@ -2,7 +2,7 @@
 
 ![](../../pics/rabbit-pie01-24711.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 [тесто с чеддером](https://mars9n9.gitbooks.io/recipes-book/content/cheddar-crusted-apple-pie.html)
 

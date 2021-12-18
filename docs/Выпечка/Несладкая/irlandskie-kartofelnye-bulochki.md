@@ -22,5 +22,5 @@
 
 На присыпанной мукой поверхности, тесто раскатать и порезать на 5 см квадраты. Выпекать примерно 20 минут.
 
-\_\_[_https://world-cuisine.livejournal.com/105684.html_](https://world-cuisine.livejournal.com/105684.html)\_\_
+[_https://world-cuisine.livejournal.com/105684.html_](https://world-cuisine.livejournal.com/105684.html)
 

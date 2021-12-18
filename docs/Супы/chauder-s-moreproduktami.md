@@ -2,7 +2,7 @@
 
 ![](../pics/nova-scotia-seafood-chowder-21-1-.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * Морепродукты разные какие найдете 500 г
 * Бекон 200 г
@@ -27,5 +27,5 @@
 
 Добавить в суп нарезанные морепродукты, довести до кипения. Влить сливки, перемешать, поварить еще пару минут, посолить и поперчить суп по вкусу.
 
-\_\_[_https://eda.ru/recepty/supy/chauder-93301_](https://eda.ru/recepty/supy/chauder-93301)\_\_
+[_https://eda.ru/recepty/supy/chauder-93301_](https://eda.ru/recepty/supy/chauder-93301)
 

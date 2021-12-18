@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/3e/4d/ce/3e4dcee4793a9bd2ecc770deee45d308.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 250 г слоенного теста
 * 1 желток
@@ -41,5 +41,5 @@
 
 [_http://buxgalter-sofi.livejournal.com/297903.html_](http://buxgalter-sofi.livejournal.com/297903.html) __
 
-\_\_[_http://eatmeblog.com/blog/2015/09/18/blue-cheese-pear-galette/_](http://eatmeblog.com/blog/2015/09/18/blue-cheese-pear-galette/)\_\_
+[_http://eatmeblog.com/blog/2015/09/18/blue-cheese-pear-galette/_](http://eatmeblog.com/blog/2015/09/18/blue-cheese-pear-galette/)
 

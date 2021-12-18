@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/c2/d3/fd/c2d3fd40aae6890073f0ddeb1339bb0d.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 4 порции\| 60 мин
 
@@ -28,7 +28,7 @@
 * 1/2 чашки охлажденного консервированного кокосового молока
 * 1-2 столовые ложки свежего имбиря
 
-## Приготовление:
+#### Приготовление:
 
 Разогреть духовку до 200 °C
 
@@ -44,5 +44,5 @@
 
 Для подачи разлить суп по глубоким мискам, добавить имбирный крем и немного размешать. Украсить нарезанной кинзой, рубленными фисташками, козьим сыром и зернами граната. Подавать с горячими лепешками Naan.
 
-[_http://www.halfbakedharvest.com/moroccan-butternut-squash-goat-cheese-soup-wcoconut-ginger-cream-pistachios/_](http://www.halfbakedharvest.com/moroccan-butternut-squash-goat-cheese-soup-wcoconut-ginger-cream-pistachios/)\_\_
+[_http://www.halfbakedharvest.com/moroccan-butternut-squash-goat-cheese-soup-wcoconut-ginger-cream-pistachios/_](http://www.halfbakedharvest.com/moroccan-butternut-squash-goat-cheese-soup-wcoconut-ginger-cream-pistachios/)
 

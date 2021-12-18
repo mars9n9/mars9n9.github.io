@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/21/32/0f/21320f5373714e752a2849c6947d9d4a.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 4 порции\| 40 мин
 
@@ -22,7 +22,7 @@
 * сок 1/2 лимона
 * 2 столовые ложки чистого кленового сиропа
 
-## Приготовление:
+#### Приготовление:
 
 В кастрюле или сотейнике разогреть 1/2 чашки бульона или воды. Обжарить лук и чеснок в течение 2-3 минут.
 
@@ -38,5 +38,5 @@
 
 Подавать сразу же. Украсить свежими яблокасм, изюмом, семенами тыквы или орехами
 
-[_http://www.theglowingfridge.com/cleansing-carrot-autumn-squash-soup/_](http://www.theglowingfridge.com/cleansing-carrot-autumn-squash-soup/)\_\_
+[_http://www.theglowingfridge.com/cleansing-carrot-autumn-squash-soup/_](http://www.theglowingfridge.com/cleansing-carrot-autumn-squash-soup/)
 

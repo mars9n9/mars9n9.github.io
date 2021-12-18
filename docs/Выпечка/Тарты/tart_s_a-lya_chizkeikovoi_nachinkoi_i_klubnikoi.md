@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/19/bb/9d/19bb9d8c7a1a0a69aacc083b7f364a75.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на тарт диаметром 18 см:
 

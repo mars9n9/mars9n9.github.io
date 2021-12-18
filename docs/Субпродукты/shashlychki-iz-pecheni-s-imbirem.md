@@ -2,7 +2,7 @@
 
 ![](../pics/kouah-liver-brochettes-nada-740x555.jpg.webp)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * говяжья печень
 * 1 яичный белок
@@ -20,5 +20,5 @@
 
 Нанизать печень на шпажки и жарить на хорошо смазанной маслом решетке, хотя можно и на сковороде. Маринад образует поджаристую белковую корочку, которая не даст печени подсохнуть. Для пробы разрезать один из кусочков — внутри должно быть все розовато-серым и сочным
 
-_Алексей Беседин, бренд-шеф ресторнов Il forno_ [_https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya_](https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya)\_\_
+_Алексей Беседин, бренд-шеф ресторнов Il forno_ [_https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya_](https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya)
 

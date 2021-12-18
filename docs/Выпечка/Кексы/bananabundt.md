@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/5f/04/a5/5f04a526235035e569a547a3da97a573.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 форма для кекса на 2.5 литра
 
@@ -41,5 +41,5 @@
 
 Снять кастрюлю с огня и перемешать с солью и виски, немного остудить. Половиной соуса полить кекс, остальное оставить для подачи.
 
-[_http://www.callmecupcake.se/2016/10/bananabundt.html_](http://www.callmecupcake.se/2016/10/bananabundt.html)\_\_
+[_http://www.callmecupcake.se/2016/10/bananabundt.html_](http://www.callmecupcake.se/2016/10/bananabundt.html)
 

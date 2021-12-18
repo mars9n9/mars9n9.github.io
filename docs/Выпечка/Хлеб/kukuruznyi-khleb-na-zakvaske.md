@@ -24,5 +24,5 @@
 
 Разогреть духовку до 240С с камнем. Выпекать 10-15 минут с паром, опустить температуру до 220С и выпекать еще 30-35 минут. 
 
-[_https://t.me/feedthebitch_](https://t.me/feedthebitch)\_\_
+[_https://t.me/feedthebitch_](https://t.me/feedthebitch)
 

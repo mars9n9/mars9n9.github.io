@@ -2,7 +2,7 @@
 
 ![](../../pics/morkovnii-tort-s-maskarpone-i-kokosom-carrot-cake-with-mascarpone-and-coconut.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на 2 формы 16 см
 

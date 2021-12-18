@@ -54,5 +54,5 @@
 * 125 г сыра 
 * красный молотый перец
 
-[_https://laperla-foto.livejournal.com/32123.html_](https://laperla-foto.livejournal.com/32123.html)\_\_
+[_https://laperla-foto.livejournal.com/32123.html_](https://laperla-foto.livejournal.com/32123.html)
 

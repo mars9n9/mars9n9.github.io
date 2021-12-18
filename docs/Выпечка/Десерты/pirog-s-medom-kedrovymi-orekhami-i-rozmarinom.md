@@ -28,5 +28,5 @@
 
 Посыпьте сахарной пудрой и подавайте с маскарпоне, взбитыми сливками, кремом фреш или сметаной.
 
-\_\_[_https://dolphy-tv.livejournal.com/76952.html_](https://dolphy-tv.livejournal.com/76952.html)\_\_
+[_https://dolphy-tv.livejournal.com/76952.html_](https://dolphy-tv.livejournal.com/76952.html)
 

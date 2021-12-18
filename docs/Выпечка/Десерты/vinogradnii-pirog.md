@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/7f/8e/55/7f8e554b30b8042392356dcd74d9cf2b.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на форму 20 см
 
@@ -34,5 +34,5 @@
 
 Аккуратно перевернуть на тарелку, остудить и присыпать сахарной пудрой. Украсить лепестками миндаля и веточками винограда
 
-[http://vredina-22.livejournal.com/61054.html](http://vredina-22.livejournal.com/61054.html)
+[_http://vredina-22.livejournal.com/61054.html_](http://vredina-22.livejournal.com/61054.html)
 

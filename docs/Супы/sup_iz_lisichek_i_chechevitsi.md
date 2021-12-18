@@ -4,7 +4,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/42/a1/9a/42a19a6d7cd2aa4994a161dd3573e231.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 4 порции
 
@@ -17,7 +17,7 @@
 * Вода или овощной бульон – 1 л.
 * Морская соль, свежемолотый перец, сыр Пекорино, свежая петрушка – по вкусу для подачи.
 
-## Приготовление:
+#### Приготовление:
 
 Порезать очищенные грибы вдоль
 
@@ -27,5 +27,5 @@
 
 Добавить приправы по вкусу, подавать с зеленью и тёртым Пекорино.
 
-[_http://www.drinkster.me/food/CogrevajushhieSupy/_](http://www.drinkster.me/food/CogrevajushhieSupy/)\_\_
+[_http://www.drinkster.me/food/CogrevajushhieSupy/_](http://www.drinkster.me/food/CogrevajushhieSupy/)
 

@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/d0/10/d6/d010d6366584a4b1fb6b1cd7d0d431a9.jpg)
 
-## Ингредиенты:
+#### Ингредиенты:
 
 * 1 л овощного бульона
 * 150 г сливочного сыра
@@ -11,7 +11,7 @@
 * 1 пачка шафрана \(0,12 г\)
 * соль, перец по вкусу.
 
-## Приготовление:
+#### Приготовление:
 
 Креветки почистить и порезать, можно оставить целыми.
 
@@ -19,5 +19,5 @@
 
 Дать постоять 5-10 минут и подавать.
 
-[_http://elena-fialka.livejournal.com/66956.html_](http://elena-fialka.livejournal.com/66956.html)\_\_
+[_http://elena-fialka.livejournal.com/66956.html_](http://elena-fialka.livejournal.com/66956.html)
 

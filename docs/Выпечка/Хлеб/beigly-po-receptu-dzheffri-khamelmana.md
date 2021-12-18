@@ -33,5 +33,5 @@
 
 Выложить на противень, посыпать маком, кунжутом или оставить просто так. Печь на 190℃ 15 минут с одной стороны, перевернуть и печь еще 5 минут.
 
-\_\_[_https://t.me/feedthebitch_](https://t.me/feedthebitch)\_\_
+[_https://t.me/feedthebitch_](https://t.me/feedthebitch)
 

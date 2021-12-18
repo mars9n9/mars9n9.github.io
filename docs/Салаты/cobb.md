@@ -6,7 +6,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/ef/8a/e0/ef8ae0d2a296d1c59b64c0f7a520e036.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 на 2 порции
 
@@ -24,7 +24,7 @@
 * 2 ст.л. белого винного уксуса;
 * 4 ст.л. оливкового масла. 
 
-## Приготовление:
+#### Приготовление:
 
 Чеснок пропустить через пресс.
 
@@ -40,5 +40,5 @@
 
 Заправка подается отдельно.
 
-[_http://world-cuisine.livejournal.com/263453.html_](http://world-cuisine.livejournal.com/263453.html)\_\_
+[_http://world-cuisine.livejournal.com/263453.html_](http://world-cuisine.livejournal.com/263453.html)
 

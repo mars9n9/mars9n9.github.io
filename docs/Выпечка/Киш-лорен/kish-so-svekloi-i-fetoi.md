@@ -2,7 +2,7 @@
 
 ![](../../../pics/image-3.png)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на форму 28 см
 
@@ -23,5 +23,5 @@
 
 Подавать с зеленым салатом
 
-[_http://www.sugaretal.com/2014/07/09/beetroot-and-feta-tart/_](http://www.sugaretal.com/2014/07/09/beetroot-and-feta-tart/)\_\_
+[_http://www.sugaretal.com/2014/07/09/beetroot-and-feta-tart/_](http://www.sugaretal.com/2014/07/09/beetroot-and-feta-tart/)
 

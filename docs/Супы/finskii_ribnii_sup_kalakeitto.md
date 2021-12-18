@@ -4,7 +4,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/b2/6d/c4/b26dc45c0a688a8e77fda23ab2439427.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 * 400-500 г красной рыбы \(можно остатки от разделки рыбы\)
 * 100-200 г креветок.
@@ -29,5 +29,5 @@
 
 При подаче посыпать мелко порезанным укропом или другой зеленью, можно добавить немного паприки
 
-[_http://world-cuisine.livejournal.com/220021.html_](http://world-cuisine.livejournal.com/220021.html)\_\_
+[_http://world-cuisine.livejournal.com/220021.html_](http://world-cuisine.livejournal.com/220021.html)
 

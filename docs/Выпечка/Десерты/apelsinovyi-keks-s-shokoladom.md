@@ -31,5 +31,5 @@
 
 Вынуть кекс из духовки, дать ему остыть 5-7 минут, затем вынуть кекс из формы на решетку и дать ему полностью остыть.
 
-\_\_[_https://buxgalter-sofi.livejournal.com/365930.html_](https://buxgalter-sofi.livejournal.com/365930.html)\_\_
+[_https://buxgalter-sofi.livejournal.com/365930.html_](https://buxgalter-sofi.livejournal.com/365930.html)
 

@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/2f/b3/59/2fb359a813a08a3cc1b27bddbac67561.jpg)
 
-## Ингредиенты
+#### Ингредиенты:
 
 2 порции\| 40 мин
 

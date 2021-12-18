@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/b6/3d/3e/b63d3ef48cd8e06aa675d2307e299a1d.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 * 1 цыпленок вес 700 гр
 * 2 ч.л домашний майонез
@@ -14,7 +14,7 @@
 * 1 маленький лимон
 * 1 ст.л оливкового масла для смазки формы
 
-## Приготовление:
+#### Приготовление:
 
 Смешать в миске сметану,майонез,томатный соус,давленый чеснок,соль,перец по вкусу.
 
@@ -24,5 +24,5 @@
 
 Подавать с картофельным пюре
 
-[_http://elena-fialka.livejournal.com/126131.html_](http://elena-fialka.livejournal.com/126131.html)\_\_
+[_http://elena-fialka.livejournal.com/126131.html_](http://elena-fialka.livejournal.com/126131.html)
 

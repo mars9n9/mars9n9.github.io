@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/ad/73/21/ad73213cd8c91e8a9520939277b2bf8d.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 2 порции \| 30 мин
 
@@ -29,5 +29,5 @@ _Добавить куриное филе_
 
 Подавать, украсив долькой лимона и зеленью
 
-[_http://fasol.tv/recipes/avgolemono-avgolemono/_](http://fasol.tv/recipes/avgolemono-avgolemono/)\_\_
+[_http://fasol.tv/recipes/avgolemono-avgolemono/_](http://fasol.tv/recipes/avgolemono-avgolemono/)
 

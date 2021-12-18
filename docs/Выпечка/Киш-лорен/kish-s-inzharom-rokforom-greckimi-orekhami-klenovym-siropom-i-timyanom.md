@@ -2,7 +2,7 @@
 
 ![](../../../pics/feigen-quiche-roquefort-walnuesse-ahornsirup-thymian-1.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на форму 28 см
 
@@ -24,5 +24,5 @@
 
 Выпекать еще 10-15 минут.
 
-\_\_[_https://nicestthings.com/2018/10/feigen-quiche-rezept-roquefort-walnuesse-thymian-ahornsirup/_](https://nicestthings.com/2018/10/feigen-quiche-rezept-roquefort-walnuesse-thymian-ahornsirup/)\_\_
+[_https://nicestthings.com/2018/10/feigen-quiche-rezept-roquefort-walnuesse-thymian-ahornsirup/_](https://nicestthings.com/2018/10/feigen-quiche-rezept-roquefort-walnuesse-thymian-ahornsirup/)
 

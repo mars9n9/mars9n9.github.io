@@ -34,5 +34,5 @@
   
 Жарить пирожки небольшими порциями в достаточном количестве растительного масла на среднем огне. Для того, чтобы в процессе жарки пирожки не разваливались, лучше всего выкладывать их на сковороду швом вниз. __Готовые пирожки положить на бумажные полотенца.   
   
-[_https://laperla-foto.livejournal.com/111261.html_](https://laperla-foto.livejournal.com/111261.html)\_\_
+[_https://laperla-foto.livejournal.com/111261.html_](https://laperla-foto.livejournal.com/111261.html)
 

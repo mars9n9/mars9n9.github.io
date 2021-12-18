@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/51/37/a7/5137a791d5fecf6420686c57b7bf94bd.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 * 2 цыпленка по 1,6 кг
 * 125 мл свежего лимонного сока
@@ -22,7 +22,7 @@
 * 500 мл сухого красного вина
 * 2 чайные ложки кукурузной муки
 
-## Приготовление:
+#### Приготовление:
 
 Порубить цыплять на куски. Разогреть духовку до 210 ° C. Смешайть лимонный сок, масло, чеснок, лимонную цедру, нарезанный розмарин, эстрагон и фенхеля семена в небольшой миске. Приправить солью и перцем.
 
@@ -34,5 +34,5 @@
 
 Подавать курицу с соусом.
 
-[_http://www.taste.com.au/recipes/29387/roast+chicken+with+cherries+in+red+wine_](http://www.taste.com.au/recipes/29387/roast+chicken+with+cherries+in+red+wine)\_\_
+[_http://www.taste.com.au/recipes/29387/roast+chicken+with+cherries+in+red+wine_](http://www.taste.com.au/recipes/29387/roast+chicken+with+cherries+in+red+wine)
 

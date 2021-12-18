@@ -4,7 +4,7 @@
 
 
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 600 г остатков закваски или опары
 * 150 гр. ржаной цельнозерновой муки
@@ -28,5 +28,5 @@
 
 Остудить и дать постоять, дозреть 4-8 часов. 
 
-\_\_[_https://www.hlebomoli.ru/blog/samyy-prostoy-i-vkusnyy-rzhanoy_](https://www.hlebomoli.ru/blog/samyy-prostoy-i-vkusnyy-rzhanoy)\_\_
+[_https://www.hlebomoli.ru/blog/samyy-prostoy-i-vkusnyy-rzhanoy_](https://www.hlebomoli.ru/blog/samyy-prostoy-i-vkusnyy-rzhanoy)
 

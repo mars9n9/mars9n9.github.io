@@ -2,7 +2,7 @@
 
 ![](../pics/0_71020_e65cd8f8_xl-1-.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 1 кг карасей 
 * 1 луковица 
@@ -25,5 +25,5 @@
 
 Посыпать рубленной зеленью и подавать. 
 
-\_\_[_https://world-cuisine.livejournal.com/113855.html_](https://world-cuisine.livejournal.com/113855.html)\_\_
+[_https://world-cuisine.livejournal.com/113855.html_](https://world-cuisine.livejournal.com/113855.html)
 

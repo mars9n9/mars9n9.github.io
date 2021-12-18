@@ -2,7 +2,7 @@
 
 ![](../pics/a7baca40c1754320aae5b6ade894b857.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 200г филе лосося
 * 400г картофеля
@@ -32,5 +32,5 @@
 
 Подавать с соусом.
 
-\_\_[_http://elena-fialka.livejournal.com/146678.html_](http://elena-fialka.livejournal.com/146678.html)\_\_
+[_http://elena-fialka.livejournal.com/146678.html_](http://elena-fialka.livejournal.com/146678.html)
 

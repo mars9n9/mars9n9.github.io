@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/91/63/cb/9163cb913cc3f9faad8c7eecfea1a0c0.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 2 порции
 
@@ -22,11 +22,11 @@
 * 3 столовые ложки дижонской горчицы
 * масло грецкого ореха
 
-## Приготовление:
+#### Приготовление:
 
 Смешать лук-шалот, соль и уксус для винегрета в миске и дать настояться 10 минут. Смешать и взбить горчицу и масло грецкого ореха. Если винегрет слишком острый, добавить чуть больше масла.
 
 Нарезать салат. Очистить яйца и отделить желток от белка. Перемешать салат с зеленью петрушки и вылоить на тарелки. Добавить нарезанное яйцо, хлебные крошки и грецкие орехи. Сверху вылить заправку.
 
-[http://www.dagmarskitchen.se/2014/02/a-vegetable-literacy-lunch-radicchio-salad-with-walnut-vinaigrette-and-toasted-bread-crumbs/](http://www.dagmarskitchen.se/2014/02/a-vegetable-literacy-lunch-radicchio-salad-with-walnut-vinaigrette-and-toasted-bread-crumbs/)
+[_http://www.dagmarskitchen.se/2014/02/a-vegetable-literacy-lunch-radicchio-salad-with-walnut-vinaigrette-and-toasted-bread-crumbs/_](http://www.dagmarskitchen.se/2014/02/a-vegetable-literacy-lunch-radicchio-salad-with-walnut-vinaigrette-and-toasted-bread-crumbs/)
 

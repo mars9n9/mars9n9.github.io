@@ -2,7 +2,7 @@
 
 ![](../pics/47d3293b293f55cb73c94124feff21ad.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на 2 порции
 
@@ -42,7 +42,7 @@
 
 В самом конце выложить обжаренную рыбу, сбрызнуть оливковым маслом и соевым соусом, украсить листьями сельдерея и кресс-салатом и полить медово-бальзамическим дрессингом.
 
-\_\_[_https://eda.ru/recepty/salaty/salat-nisuaz-s-bazilikom-39414_](https://eda.ru/recepty/salaty/salat-nisuaz-s-bazilikom-39414)\_\_
+[_https://eda.ru/recepty/salaty/salat-nisuaz-s-bazilikom-39414_](https://eda.ru/recepty/salaty/salat-nisuaz-s-bazilikom-39414)
 
 
 

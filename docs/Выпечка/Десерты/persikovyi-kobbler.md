@@ -34,5 +34,5 @@
 
 Подавать теплым с мороженым.
 
-[_https://www.thegraciouswife.com/southern-peach-cobbler/_](https://www.thegraciouswife.com/southern-peach-cobbler/)\_\_
+[_https://www.thegraciouswife.com/southern-peach-cobbler/_](https://www.thegraciouswife.com/southern-peach-cobbler/)
 

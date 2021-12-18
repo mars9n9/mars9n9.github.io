@@ -2,7 +2,7 @@
 
 ![](../pics/100064_picture_mk0tpat.jpg)
 
-#### Ингредиенты :
+###### Ингредиенты:
 
 * Креветки 800 г 
 * Масло сливочное 120 г 
@@ -20,5 +20,5 @@
 
 Подавать, украсив розмарином и лимоном.
 
-\_\_[_http://av.ru/index.aspx?sPage=3782_](http://av.ru/index.aspx?sPage=3782)\_\_
+[_http://av.ru/index.aspx?sPage=3782_](http://av.ru/index.aspx?sPage=3782)
 

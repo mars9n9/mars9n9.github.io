@@ -2,7 +2,7 @@
 
 ![](../../../pics/image%20%286%29.png)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на форму 28 см
 
@@ -21,7 +21,7 @@
 
 Выпекать 15-20 минут при 180 градусах.
 
-[_https://laperla-foto.livejournal.com/116507.html_](https://laperla-foto.livejournal.com/116507.html)\_\_
+[_https://laperla-foto.livejournal.com/116507.html_](https://laperla-foto.livejournal.com/116507.html)
 
 [_https://www.vkusnyblog.ru/recipe/tartaletki-s-grushej-i-golubym-syrom/_](https://www.vkusnyblog.ru/recipe/tartaletki-s-grushej-i-golubym-syrom/)
 

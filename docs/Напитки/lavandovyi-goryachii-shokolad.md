@@ -18,5 +18,5 @@
 
 Вскипятить воду. Шоколад поломать на кусочки, залить кипятком, добавить лавандовое молоко и соль, размешивать венчиком до получения гладкой однородной эмульсии. Подогреть, если в процессе перемешивания шоколад остыл.
 
-\_\_[_http://laperla-foto.livejournal.com/130505.html_](http://laperla-foto.livejournal.com/130505.html)\_\_
+[_http://laperla-foto.livejournal.com/130505.html_](http://laperla-foto.livejournal.com/130505.html)
 

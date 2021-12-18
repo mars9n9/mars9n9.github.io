@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/7a/c0/df/7ac0df9967fc6086bb444bc4109f29f3.jpg)
 
-## Ингредиенты :
+#### Ингредиенты:
 
 * курица 1 кг
 
@@ -26,5 +26,5 @@
 
 _Так же можно замариновать,не только целую курицу,но и ножки,крылышки.Отличный маринад для шашлыка из курицы.Только единственное,нужно мариновать не больше чем за 20-30 минут до приготовления_
 
-[_http://elena-fialka.livejournal.com/206540.html_](http://elena-fialka.livejournal.com/206540.html)\_\_
+[_http://elena-fialka.livejournal.com/206540.html_](http://elena-fialka.livejournal.com/206540.html)
 

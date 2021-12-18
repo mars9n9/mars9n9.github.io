@@ -4,7 +4,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/e8/d9/20/e8d9204b04eac59a775ff76e236f1dad.jpg)
 
-## Ингридиенты
+#### Ингредиенты:
 
 2 порции
 
@@ -15,7 +15,7 @@
 * 500 мл крепкого бульона
 * белый молотый перец
 
-## Приготовление:
+#### Приготовление:
 
 Духовку разогреваем до 230 градусов.
 
@@ -35,5 +35,5 @@
 
 Рекомендуется подавать с полнотелыми сухими красными винами
 
-[_https://anticacortepavese.wordpress.com/piatti-tipici/zuppa-alla-pavese/_](https://anticacortepavese.wordpress.com/piatti-tipici/zuppa-alla-pavese/)\_\_
+[_https://anticacortepavese.wordpress.com/piatti-tipici/zuppa-alla-pavese/_](https://anticacortepavese.wordpress.com/piatti-tipici/zuppa-alla-pavese/)
 

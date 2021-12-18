@@ -27,5 +27,5 @@
 
 Утром \(часов через 12-14\) надрезать и отпечь 10 минут в 230℃ и 30-40 минут при 210℃.
 
-[_https://t.me/feedthebitch_](https://t.me/feedthebitch)\_\_
+[_https://t.me/feedthebitch_](https://t.me/feedthebitch)
 

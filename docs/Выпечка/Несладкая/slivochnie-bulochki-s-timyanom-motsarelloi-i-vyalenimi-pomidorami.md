@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/ed/0b/7d/ed0b7d3c76fd8da96cace73b336d902c.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на 12 булочек
 
@@ -31,5 +31,5 @@
 
 Перед подачей немного охладить, украсить веточками тимьяна.
 
-[_http://lillaya.livejournal.com/89648.html_](http://lillaya.livejournal.com/89648.html)\_\_
+[_http://lillaya.livejournal.com/89648.html_](http://lillaya.livejournal.com/89648.html)
 

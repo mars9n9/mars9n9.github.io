@@ -2,7 +2,7 @@
 
 ![](../pics/osminog22-1.jpg)
 
-#### Ингредиенты :
+###### Ингредиенты:
 
 * Осьминоги \(средние по величине 5 шт\) 1кг 500 гр
 * Устричный соус 5-6 ст.л
@@ -27,5 +27,5 @@
 
 Это блюдо вкусное и в горячем и холодном виде.В холодном отличная закуска.
 
-[_http://elena-fialka.livejournal.com/168753.html_](http://elena-fialka.livejournal.com/168753.html)\_\_
+[_http://elena-fialka.livejournal.com/168753.html_](http://elena-fialka.livejournal.com/168753.html)
 

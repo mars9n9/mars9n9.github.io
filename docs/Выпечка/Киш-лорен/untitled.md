@@ -2,7 +2,7 @@
 
 ![](../../../pics/24kitch_span-articlelarge-v2-1.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на форму 28 см
 
@@ -19,5 +19,5 @@
 
 Выпекать 35-40 минут при 180 градусах.
 
-[_https://cooking.nytimes.com/recipes/12883-quiche-with-herbs-and-goat-cheese_](https://cooking.nytimes.com/recipes/12883-quiche-with-herbs-and-goat-cheese)\_\_
+[_https://cooking.nytimes.com/recipes/12883-quiche-with-herbs-and-goat-cheese_](https://cooking.nytimes.com/recipes/12883-quiche-with-herbs-and-goat-cheese)
 

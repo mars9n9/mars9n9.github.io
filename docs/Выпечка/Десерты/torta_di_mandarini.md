@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/19/eb/cb/19ebcbdd156c7f8bdd31b407b6d7eac7.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 8 порций \| 50 мин
 
@@ -32,5 +32,5 @@
 
 Достаньте готовый пирог из духовки, остудите, выньте из формы и разрежьте на порционные куски.
 
-[_http://www.ellamartino.ru/ru/recipes/pirog-s-mandarinami-torta-di-mandarini_](http://www.ellamartino.ru/ru/recipes/pirog-s-mandarinami-torta-di-mandarini)\_\_
+[_http://www.ellamartino.ru/ru/recipes/pirog-s-mandarinami-torta-di-mandarini_](http://www.ellamartino.ru/ru/recipes/pirog-s-mandarinami-torta-di-mandarini)
 

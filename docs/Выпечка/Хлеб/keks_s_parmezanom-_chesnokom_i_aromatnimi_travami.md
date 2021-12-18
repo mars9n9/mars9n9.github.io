@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/fd/81/62/fd816281592a8299c4a979c3a791c7fb.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 150 грамм муки
 * 3 яйца
@@ -24,7 +24,7 @@ _elena-fialka.livejournal.com/241966.html_
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/9e/16/f6/9e16f66fcdbf9b510ffa32e3925e7882.jpg)
 
-### Ингредиенты :
+##### Ингредиенты:
 
 * 250 г спаржи
 * 100 г вяленых томатов

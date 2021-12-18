@@ -52,5 +52,5 @@
 
 Для подачи выложить шантильи ложкой на поверхность тарта и нарисовать галочку. Из мешка выложить капли малинового сиропа
 
-\_\_[_http://www.hintofvanillablog.com/home/2016/2/18/lemon-earl-grey-tart-with-buttermilk-chantilly_](http://www.hintofvanillablog.com/home/2016/2/18/lemon-earl-grey-tart-with-buttermilk-chantilly)\_\_
+[_http://www.hintofvanillablog.com/home/2016/2/18/lemon-earl-grey-tart-with-buttermilk-chantilly_](http://www.hintofvanillablog.com/home/2016/2/18/lemon-earl-grey-tart-with-buttermilk-chantilly)
 

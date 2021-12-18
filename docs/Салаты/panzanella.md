@@ -4,7 +4,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/05/6a/7b/056a7be8f5acd8ba90d7f83dc98599ef.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 6-8 порций
 
@@ -13,9 +13,9 @@
 * гренки
 * соус винегрет
 
-## Приготовление:
+#### Приготовление:
 
-Смочить хлеб в оливковом масле, воде или заправке, слегка отжать. Выложить помидоры, чтобы хлеб пропитался соком. Выложить остальные ингридиенты салата.
+Смочить хлеб в оливковом масле, воде или заправке, слегка отжать. Выложить помидоры, чтобы хлеб пропитался соком. Выложить остальные Ингредиенты салата.
 
-[http://whatsgabycooking.com/burrata-tomato-salad](http://whatsgabycooking.com/burrata-tomato-salad)
+[_http://whatsgabycooking.com/burrata-tomato-salad_](http://whatsgabycooking.com/burrata-tomato-salad)
 

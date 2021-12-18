@@ -38,5 +38,5 @@
 
 Духовку я разогреть за час с камнем до 230. Первые 15 минут выпекать с паром, затем температуру снизить до 200 градусов, выпекать еще примерно 20 минут.
 
-\_\_[_https://www.hlebomoli.ru/blog/grechnevyy-hleb-na-zakvaske_](https://www.hlebomoli.ru/blog/grechnevyy-hleb-na-zakvaske)\_\_
+[_https://www.hlebomoli.ru/blog/grechnevyy-hleb-na-zakvaske_](https://www.hlebomoli.ru/blog/grechnevyy-hleb-na-zakvaske)
 

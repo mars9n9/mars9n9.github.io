@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/09/29/bf/0929bfef4c2c1c6ea026cf38817036b8.jpg)
 
-## Ингредиенты
+#### Ингредиенты:
 
 3 порции \| 10 минут
 
@@ -15,7 +15,7 @@
 * Соль    щепотка
 * Сметана    2 столовые ложки
 
-## Приготовление
+#### Приготовление:
 
 Сварить яйцо вкрутую.
 
@@ -25,5 +25,5 @@
 
 Оставшийся белок натереть на терке. Заправить салат соусом, сверху посыпать тертым белком.
 
-[_http://eda.ru/recepty/salaty/zelenij-salat-s-russkim-sousom-27666_](http://eda.ru/recepty/salaty/zelenij-salat-s-russkim-sousom-27666)\_\_
+[_http://eda.ru/recepty/salaty/zelenij-salat-s-russkim-sousom-27666_](http://eda.ru/recepty/salaty/zelenij-salat-s-russkim-sousom-27666)
 

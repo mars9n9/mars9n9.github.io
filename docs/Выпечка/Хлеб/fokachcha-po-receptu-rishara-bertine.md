@@ -23,7 +23,7 @@
 
 Разогреть духовку до 220 С, выпекать примерно 20 минут до золотистой поверхности. Вынуть и сразу щедро полить маслом.
 
-\_\_[_https://www.instagram.com/richardbertinet/_](https://www.instagram.com/richardbertinet/)\_\_
+[_https://www.instagram.com/richardbertinet/_](https://www.instagram.com/richardbertinet/)
 
 
 

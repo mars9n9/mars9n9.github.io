@@ -28,7 +28,7 @@
 
 Подавать с простоквашей.
 
-[_https://www.playfulcooking.com/bread/potato-and-kale-paratha/_](https://www.playfulcooking.com/bread/potato-and-kale-paratha/)\_\_
+[_https://www.playfulcooking.com/bread/potato-and-kale-paratha/_](https://www.playfulcooking.com/bread/potato-and-kale-paratha/)
 
-\_\_[_https://ais20.livejournal.com/17098.html_](https://ais20.livejournal.com/17098.html)\_\_
+[_https://ais20.livejournal.com/17098.html_](https://ais20.livejournal.com/17098.html)
 

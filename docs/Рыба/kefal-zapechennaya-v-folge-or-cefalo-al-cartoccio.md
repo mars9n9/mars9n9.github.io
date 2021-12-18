@@ -2,7 +2,7 @@
 
 ![](../pics/5531136303_826b4f327d_z-1-.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 2 кефали весом примерно 800 г
 * 4 зубчика чеснока
@@ -23,5 +23,5 @@
 
 Подавать можно как в холодном, так и в горячем виде.
 
-\_\_[_http://elladkin.livejournal.com/426698.html_](http://elladkin.livejournal.com/426698.html)\_\_
+[_http://elladkin.livejournal.com/426698.html_](http://elladkin.livejournal.com/426698.html)
 

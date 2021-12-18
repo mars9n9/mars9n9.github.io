@@ -4,7 +4,7 @@
 
 ![!\[!\[\]\(https://s-media-cache-ak0.pinimg.com/564x/50/43/e1/5043e17683ff29c71fd32424028ff20c.jpg\)\]\(/assets/e18deff1-be8e-4c33-aecf-5bfd2e741475.jpg\) ](../../pics/8fc39a0d8eb2eaa374b6f.jpg) 
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на 3 фугаса
 

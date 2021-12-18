@@ -6,7 +6,7 @@
 
 
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 1л сливок \(10%\) 
 * 160гр нутовой муки 
@@ -22,5 +22,5 @@
 
 Достать тесто из холодильника, нарезать ромбами. Масло для фритюра нагреть до 180С и готовить ромбы 1-2 минуты, откинуть на бумажное полотенце. 
 
-\_\_[_https://www.instagram.com/p/CNaIEC6lFVO/_](https://www.instagram.com/p/CNaIEC6lFVO/)\_\_
+[_https://www.instagram.com/p/CNaIEC6lFVO/_](https://www.instagram.com/p/CNaIEC6lFVO/)
 

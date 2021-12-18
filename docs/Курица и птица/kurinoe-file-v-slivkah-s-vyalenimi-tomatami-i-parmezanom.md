@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/8f/af/ef/8fafef877e0a3071a7c3792540635195.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 на 4 порции
 
@@ -24,7 +24,7 @@
 * 2 ст ложки итальянских трав
 * 2 ст ложки свежего нарезанного базилика
 
-## Приготовление:
+#### Приготовление:
 
 В неглубокой миске смешать муку, сыр пармезан, соль и перец. Обвалять курицу в муке, лишнее стряхнуть.
 
@@ -38,5 +38,5 @@
 
 Посыпать свеженарезанным базиликом и перцем \(по желанию\), подавать с пастой, рисом или овощами
 
-[_https://cafedelites.com/2016/05/19/sun-dried-tomato-parmesan-chicken/_](https://cafedelites.com/2016/05/19/sun-dried-tomato-parmesan-chicken/)\_\_
+[_https://cafedelites.com/2016/05/19/sun-dried-tomato-parmesan-chicken/_](https://cafedelites.com/2016/05/19/sun-dried-tomato-parmesan-chicken/)
 

@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/0a/cf/77/0acf7737c2f503cfe3ef5c636433ff09.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 4 порции \| 1 час 40 минут
 
@@ -17,7 +17,7 @@
 * соль
 * перец чёрный молотый - по вкусу
 
-## Приготовление:
+#### Приготовление:
 
 В толстостенной кастрюле растопить сливочное масло, добавить мелко нарезанный лук и обжарить до мягкости.
 
@@ -29,5 +29,5 @@
 
 Посыпать зелёным луком, подавать с чёрным хлебом.
 
-[_http://fasol.tv/recipes/shotlandskiy-sup-s-nbsp-baraninoy-iz-nbsp-supovoy-smesi/_](http://fasol.tv/recipes/shotlandskiy-sup-s-nbsp-baraninoy-iz-nbsp-supovoy-smesi/)\_\_
+[_http://fasol.tv/recipes/shotlandskiy-sup-s-nbsp-baraninoy-iz-nbsp-supovoy-smesi/_](http://fasol.tv/recipes/shotlandskiy-sup-s-nbsp-baraninoy-iz-nbsp-supovoy-smesi/)
 

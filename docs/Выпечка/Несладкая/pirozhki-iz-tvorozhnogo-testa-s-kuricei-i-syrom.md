@@ -35,5 +35,5 @@
 
 Жарить пирожки в достаточном кол-ве растительного масла, выкладывать стороной с защипом вниз. Готовые пирожки положить на бумажные полотенца. 
 
-\_\_[_http://elena-fialka.livejournal.com/59940.html_](http://elena-fialka.livejournal.com/59940.html)\_\_
+[_http://elena-fialka.livejournal.com/59940.html_](http://elena-fialka.livejournal.com/59940.html)
 

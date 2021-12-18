@@ -2,7 +2,7 @@
 
 ![](../../../pics/tart-s-gribami-i-syrom-1.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на форму 28 см
 
@@ -24,5 +24,5 @@
 
 Выпекать 35-40 минут при 180 градусах.
 
-\_\_[_https://www.vkusnyblog.ru/recipe/tart-s-gribami-i-syrom/_](https://www.vkusnyblog.ru/recipe/tart-s-gribami-i-syrom/)\_\_
+[_https://www.vkusnyblog.ru/recipe/tart-s-gribami-i-syrom/_](https://www.vkusnyblog.ru/recipe/tart-s-gribami-i-syrom/)
 

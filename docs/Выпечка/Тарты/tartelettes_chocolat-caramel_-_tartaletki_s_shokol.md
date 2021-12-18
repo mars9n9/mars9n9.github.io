@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/bc/f7/b5/bcf7b536a7370ff5ea4cd0ea073679f1.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на 4 тарталетки
 

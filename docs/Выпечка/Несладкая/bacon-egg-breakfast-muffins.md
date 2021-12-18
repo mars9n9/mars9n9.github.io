@@ -4,7 +4,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/75/89/de/7589de66e48842b0e4a927b2532ff07b.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 35 мин
 
@@ -29,5 +29,5 @@
 
 Разогреть духовку до 180 градусов и выпекать кексы в течение 20 минут до золотистого цвета. Готовым кексам дать отдохнуть в течение 5 минут, прежде чем вынимать из формочек. Подавать теплыми.
 
-[_http://www.recipetineats.com/bacon-egg-breakfast-muffins/?crlt.pid=camp.YluxNaTqQHdF_](http://www.recipetineats.com/bacon-egg-breakfast-muffins/?crlt.pid=camp.YluxNaTqQHdF)\_\_
+[_http://www.recipetineats.com/bacon-egg-breakfast-muffins/?crlt.pid=camp.YluxNaTqQHdF_](http://www.recipetineats.com/bacon-egg-breakfast-muffins/?crlt.pid=camp.YluxNaTqQHdF)
 

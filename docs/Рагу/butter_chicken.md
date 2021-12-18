@@ -44,5 +44,5 @@
 
 Подавать с рисом басмати
 
-[_http://www.the-village.ru/village/food/chiefs/123903-chiken_](http://www.the-village.ru/village/food/chiefs/123903-chiken)\_\_
+[_http://www.the-village.ru/village/food/chiefs/123903-chiken_](http://www.the-village.ru/village/food/chiefs/123903-chiken)
 

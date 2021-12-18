@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/40/fd/4e/40fd4e5bd7e9a877a786883f0db904ad.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * основа для тарта или для пирога из слоеного теста
 * 5-6 средних помидоров
@@ -32,7 +32,7 @@
 
 Вынуть из духовки и дать остыть не менее часа.
 
-[_http://www.theendlessmeal.com/goat-cheese-and-tomato-tart-with-rosemary-and-mascarpone/_](http://www.theendlessmeal.com/goat-cheese-and-tomato-tart-with-rosemary-and-mascarpone/)\_\_
+[_http://www.theendlessmeal.com/goat-cheese-and-tomato-tart-with-rosemary-and-mascarpone/_](http://www.theendlessmeal.com/goat-cheese-and-tomato-tart-with-rosemary-and-mascarpone/)
 
 ## Томатные тарталетки
 
@@ -40,5 +40,5 @@
 
  ![](https://s-media-cache-ak0.pinimg.com/564x/78/60/8a/78608a807440e8b6c8d3340123d61eaf.jpg)
 
-[_http://www.yellowlemontreeblog.com/tomatentaartjes-geitenkaas/_](http://www.yellowlemontreeblog.com/tomatentaartjes-geitenkaas/)\_\_
+[_http://www.yellowlemontreeblog.com/tomatentaartjes-geitenkaas/_](http://www.yellowlemontreeblog.com/tomatentaartjes-geitenkaas/)
 

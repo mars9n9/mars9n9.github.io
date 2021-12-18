@@ -2,7 +2,7 @@
 
 ![](https://i.pinimg.com/564x/66/b9/51/66b951300e50e57c217368ec2aea15ff.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 * 2-3 3/4-ounce
   * cans boneless
@@ -70,7 +70,7 @@
 
     dry bread crumbs
 
-## Приготовление:
+#### Приготовление:
 
 Preheat the oven to 425 degrees. Oil a 1 1/2 to 2-quart gratin or baking dish. Remove the sardines from the oil and separate them into fillets. Set the oil aside.
 

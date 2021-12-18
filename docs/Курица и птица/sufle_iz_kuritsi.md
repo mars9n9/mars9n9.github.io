@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/0f/04/3e/0f043e42b8a4b45271f8a3934510d705.jpg)
 
-## Ингредиенты:
+#### Ингредиенты:
 
 * 2 ст. л. сливочного масла
 * 500 грамм куриного филе
@@ -13,7 +13,7 @@
 
 _опционально 50 г орехов_ альтернатива маслу и муке: 2 картофелины, кусочкек белого хлеба\*
 
-## Приготовление:
+#### Приготовление:
 
 Картофель натереть на терке.
 
@@ -29,5 +29,5 @@ _опционально 50 г орехов_ альтернатива маслу 
 
 Готовое суфле посыпать молотыми грецкими или миндальными орехами
 
-[_http://volshebnaya-eda.ru/kollekcia-receptov/recepty-iz-kuricy/kurinoe-sufle/_](http://volshebnaya-eda.ru/kollekcia-receptov/recepty-iz-kuricy/kurinoe-sufle/) __[_https://www.instagram.com/p/yRYu9WLuGR/?taken-by=goodenoughcoffee_](https://www.instagram.com/p/yRYu9WLuGR/?taken-by=goodenoughcoffee)\_\_
+[_http://volshebnaya-eda.ru/kollekcia-receptov/recepty-iz-kuricy/kurinoe-sufle/_](http://volshebnaya-eda.ru/kollekcia-receptov/recepty-iz-kuricy/kurinoe-sufle/) __https://www.instagram.com/p/yRYu9WLuGR/?taken-by=goodenoughcoffee_](https://www.instagram.com/p/yRYu9WLuGR/?taken-by=goodenoughcoffee)
 

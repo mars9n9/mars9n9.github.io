@@ -8,7 +8,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/99/ff/49/99ff49a08b05dd93bfdc39dbeabb60e4.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 * 2 щедрых пучка салата Романо
 * 2 чашки чесночных крутонов
@@ -37,7 +37,7 @@ _**заправка альтернативная:**_
 * 1-2 зубчика чеснока
 * соль, перец
 
-## Приготовление:
+#### Приготовление:
 
 Чеснок пропустить через пресс. Смешать с лимонным соком, горчицей, уорчестерским соусом и табаско. Добавить желтки и взбить, постепенно добавляя оливковое масло, пока соус не загустеет. Добавить тертый пармезан и перемешать.
 
@@ -47,5 +47,5 @@ _**заправка альтернативная:**_
 
 Поверх салатных листьев выложить крутоны, полить оставшимся соусом и посыпать пластинками пармезана
 
-[_http://imungu.livejournal.com/80515.html_](http://imungu.livejournal.com/80515.html) __[_https://lyukum.com/caesar-salad-dressing-and-salad-tips/_](https://lyukum.com/caesar-salad-dressing-and-salad-tips/)\_\_
+[_http://imungu.livejournal.com/80515.html_](http://imungu.livejournal.com/80515.html) __https://lyukum.com/caesar-salad-dressing-and-salad-tips/_](https://lyukum.com/caesar-salad-dressing-and-salad-tips/)
 

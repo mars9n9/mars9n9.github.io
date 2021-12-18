@@ -35,5 +35,5 @@
 
 Приготовить салат из трав , подавать клафути с зеленым салатом. 
 
-\_\_[_https://food52.com/recipes/344-cherry-tomato-clafoutis_](https://food52.com/recipes/344-cherry-tomato-clafoutis)\_\_
+[_https://food52.com/recipes/344-cherry-tomato-clafoutis_](https://food52.com/recipes/344-cherry-tomato-clafoutis)
 

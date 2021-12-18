@@ -2,7 +2,7 @@
 
 ![](../pics/201909140921130fa2022608.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * телячья или свиная печень 500 г
 * 150 грамм сливочного масла
@@ -20,5 +20,5 @@
 
 Отправить печенку в разогретую до 100 градусов духовку на 40 минут, полностью остудить и убрать в холодильник. Посыпать тростниковым сахаром и обжечь горелкой до карамельной корочки
 
- _Дмитрий Геращенко, шеф-повар ресторана «Сыроварня» в парке Горького_ [_https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya_](https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya)\_\_
+ _Дмитрий Геращенко, шеф-повар ресторана «Сыроварня» в парке Горького_ [_https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya_](https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya)
 

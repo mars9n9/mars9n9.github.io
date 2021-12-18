@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/39/ba/a2/39baa25141d6ffaada3d8480f6482748.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 3 средних спелых банана + 1/2 шт. для декора\*
 * 120 гр сливочного масла, комн. температуры
@@ -27,5 +27,5 @@
 
 Выпекайте около 40 минут или пока палочка. воткнутая в центр пирога, не станет сухой
 
-[_http://www.eatmeblog.com/2015/05/chocolate-chip-peanut-banana-bread.html_](http://www.eatmeblog.com/2015/05/chocolate-chip-peanut-banana-bread.html)\_\_
+[_http://www.eatmeblog.com/2015/05/chocolate-chip-peanut-banana-bread.html_](http://www.eatmeblog.com/2015/05/chocolate-chip-peanut-banana-bread.html)
 

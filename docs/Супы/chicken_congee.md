@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/0c/b5/6c/0cb56cb16be830ac0fe1f394022b8cf7.jpg)
 
-## Ингредиенты
+#### Ингредиенты:
 
 **для маринада:** 
 
@@ -22,7 +22,7 @@
 * 1 ст.л растительное масло 
 * Рубленый зеленый лук 100 гр 
 
-## Приготовление:
+#### Приготовление:
 
 Смешать все ингредиенты для маринада,оставить на 30 минут.
 
@@ -30,5 +30,5 @@
 
 Добавить рубленый зеленый лук. Подавать с соевым соусом и кунжутным маслом
 
-_Источник: книга Aysha Bahlool\(китайская кухня\)_ [_http://elena-fialka.livejournal.com/109500.html_](http://elena-fialka.livejournal.com/109500.html)\_\_
+_Источник: книга Aysha Bahlool\(китайская кухня\)_ [_http://elena-fialka.livejournal.com/109500.html_](http://elena-fialka.livejournal.com/109500.html)
 

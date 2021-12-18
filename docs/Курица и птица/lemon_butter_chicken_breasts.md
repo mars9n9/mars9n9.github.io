@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/80/68/c2/8068c2dc79f5e168439061a6cfb41da3.jpg)
 
-## Ингредиенты
+#### Ингредиенты:
 
 6 порций
 
@@ -15,7 +15,7 @@
 * 2 столовые ложки лимонного сока
 * зелень \(петрушка или кинза\)
 
-## Приготовление
+#### Приготовление:
 
 Отбить каждую половину куриной грудки между двумя кусками полиэтиленовой пленки.
 
@@ -27,5 +27,5 @@
 
 Перед подачей посыпать зеленью. Подавать с вареным рисом или рисом пилаф
 
-[_http://www.bhg.com/recipe/poultry/lemon-butter-chicken-breasts/_](http://www.bhg.com/recipe/poultry/lemon-butter-chicken-breasts/)\_\_
+[_http://www.bhg.com/recipe/poultry/lemon-butter-chicken-breasts/_](http://www.bhg.com/recipe/poultry/lemon-butter-chicken-breasts/)
 

@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/4f/1b/03/4f1b0379395771b2c38099d37b1b12e0.jpg)
 
-## Ингредиенты
+#### Ингредиенты:
 
 8 порций \| 1,5 часа
 
@@ -19,7 +19,7 @@
 * Молотый черный перец    по вкусу
 * Молоко    2 стакана
 
-## Приготовление
+#### Приготовление:
 
 Запечь тыкву и переработать в пюре.
 
@@ -35,5 +35,5 @@
 
 Подавать горячим с тертым пармезаном.
 
-[_http://eda.ru/recepty/supy/tikvennij-sup-s-parmezanom-koricej-18996_](http://eda.ru/recepty/supy/tikvennij-sup-s-parmezanom-koricej-18996)\_\_
+[_http://eda.ru/recepty/supy/tikvennij-sup-s-parmezanom-koricej-18996_](http://eda.ru/recepty/supy/tikvennij-sup-s-parmezanom-koricej-18996)
 

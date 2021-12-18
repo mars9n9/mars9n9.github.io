@@ -43,5 +43,5 @@
 
 Выпекать при 180 градусах 30 минут.
 
-\_\_[_https://ais20.livejournal.com/23216.html_](https://ais20.livejournal.com/23216.html)\_\_
+[_https://ais20.livejournal.com/23216.html_](https://ais20.livejournal.com/23216.html)
 

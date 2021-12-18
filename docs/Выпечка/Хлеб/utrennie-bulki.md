@@ -17,5 +17,5 @@
 
 Утром достать и разделить на прямоугольники скребком. Выпекать сразу на 200 С 15 минут
 
-\_\_[_https://t.me/feedthebitch_](https://t.me/feedthebitch)\_\_
+[_https://t.me/feedthebitch_](https://t.me/feedthebitch)
 

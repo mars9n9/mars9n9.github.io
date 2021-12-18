@@ -23,5 +23,5 @@
 
 Накрыть полотенцем и дать расстояться ещё час, после чего поставить в разогретую до 210 С духовку и выпекать в течение 30 минут.
 
-\_\_[_https://zen.yandex.ru/media/id/5b863dc047174c00aab19ba6/pan-de-cristal-5c51c9400e369100ada9650f_](https://zen.yandex.ru/media/id/5b863dc047174c00aab19ba6/pan-de-cristal-5c51c9400e369100ada9650f)\_\_
+[_https://zen.yandex.ru/media/id/5b863dc047174c00aab19ba6/pan-de-cristal-5c51c9400e369100ada9650f_](https://zen.yandex.ru/media/id/5b863dc047174c00aab19ba6/pan-de-cristal-5c51c9400e369100ada9650f)
 

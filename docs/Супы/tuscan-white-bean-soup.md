@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/4c/b3/4a/4cb34a21b3177bd04c3923270583a42f.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 на 3 литра
 
@@ -16,7 +16,7 @@
 * 1 чайная ложка оливкового масла
 * соль + перец
 
-## Приготовление:
+#### Приготовление:
 
 Замочите фасоль на ночь в горячей воде
 
@@ -34,5 +34,5 @@
 
 Подавать украшенным сыром пармезан с гренками и хрустящим свежим хлебом
 
-[_http://www.theclevercarrot.com/2014/10/tuscan-white-bean-soup-2-ways/_](http://www.theclevercarrot.com/2014/10/tuscan-white-bean-soup-2-ways/)\_\_
+[_http://www.theclevercarrot.com/2014/10/tuscan-white-bean-soup-2-ways/_](http://www.theclevercarrot.com/2014/10/tuscan-white-bean-soup-2-ways/)
 

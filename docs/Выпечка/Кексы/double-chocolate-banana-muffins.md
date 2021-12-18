@@ -1,7 +1,7 @@
-# Шоколадно-банановые маффины с маскарпоне и карамельным соусом | Double chocolate banana muffins with mascarpone frosting and bourbon caramel sauce
+# Шоколадно-банановые маффины с маскарпоне и карамельным соусом \| Double chocolate banana muffins with mascarpone frosting and bourbon caramel sauce
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/39/57/27/3957273d86f1e4ba493a8318478e45eb.jpg)
-###Ингридиенты:
+#### Ингредиенты:
 на 20 маффинов среднего размера
 * 2 чашки (300 г) все муки общего назначения
 * 3/4 чашки + 1 1/2 ст.л. (80 г) какао-порошок
@@ -28,7 +28,7 @@
 * 1/2 стакана густых сливок
 * щепотка соли
 
-###Приготовление:
+#### Приготовление:
 
 Разогреть духовку до 200 ° C (392 ° F)
 

@@ -2,7 +2,7 @@
 
 ![](../../../pics/geitenkaas_quiche-1.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на форму 28 см
 
@@ -22,5 +22,5 @@
 
 Выпекать 35-40 минут при 180 градусах.
 
-\_\_[_https://www.smulweb.nl/recepten/1406097/Quiche-met-geitenkaas-walnoten-spek-en-honing_](https://www.smulweb.nl/recepten/1406097/Quiche-met-geitenkaas-walnoten-spek-en-honing)\_\_
+[_https://www.smulweb.nl/recepten/1406097/Quiche-met-geitenkaas-walnoten-spek-en-honing_](https://www.smulweb.nl/recepten/1406097/Quiche-met-geitenkaas-walnoten-spek-en-honing)
 

@@ -2,7 +2,7 @@
 
 ![](../pics/71836732_krevetki_v_iogurtovom_souse_s_chesnokom_i_kinzoi_inside.jpg)
 
-#### Ингредиенты :
+###### Ингредиенты:
 
 * 1.8 кг креветок 
 * 300 г натурального йогурта 
@@ -22,5 +22,5 @@
 
 Перед подачей полить йогуртовым соусом, чтобы соус слегка их покрывал, подавать с белым рисом
 
-\_\_[_http://av.ru/index.aspx?sPage=3783_](http://av.ru/index.aspx?sPage=3783)\_\_
+[_http://av.ru/index.aspx?sPage=3783_](http://av.ru/index.aspx?sPage=3783)
 

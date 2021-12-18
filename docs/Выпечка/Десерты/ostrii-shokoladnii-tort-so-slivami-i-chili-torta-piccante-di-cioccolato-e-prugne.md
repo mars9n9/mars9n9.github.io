@@ -2,7 +2,7 @@
 
 ![](../../pics/378e82d281f497b072a27da3839656e1-1.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 на форму 22 см
 
@@ -46,5 +46,5 @@
 
 Готовый и горячий торт посыпать через сито сахарной пудрой и сухим чили.
 
-_Элла Мартино_ [_http://elladkin.livejournal.com_](http://elladkin.livejournal.com)\_\_
+_Элла Мартино_ [_http://elladkin.livejournal.com_](http://elladkin.livejournal.com)
 

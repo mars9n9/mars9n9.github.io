@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/36/86/36/368636d4ce871c9a14809350b3b440f8.jpg)
 
-#### Ингридиенты:
+#### Ингредиенты:
 
 * 1 стакан муки 
 * 4 ст.л кукурузный крахмал
@@ -17,5 +17,5 @@
 
 Смешать муку с крахмалом,специями и солью.Рыбу слегка посолить и обвалять в пряной панировке.Раскалить растительное масло и обжарить рыбу с двух сторон до румяной корочки.
 
-[_http://elena-fialka.livejournal.com/217554.html_](http://elena-fialka.livejournal.com/217554.html)\_\_
+[_http://elena-fialka.livejournal.com/217554.html_](http://elena-fialka.livejournal.com/217554.html)
 

@@ -27,5 +27,5 @@
 
 Перед подачей украсить ягодами ежевики
 
-\_\_[_https://nirvanacakery.com/beetroot-hibiscus-tart/_](https://nirvanacakery.com/beetroot-hibiscus-tart/)\_\_
+[_https://nirvanacakery.com/beetroot-hibiscus-tart/_](https://nirvanacakery.com/beetroot-hibiscus-tart/)
 

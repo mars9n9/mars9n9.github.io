@@ -4,7 +4,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/10/eb/de/10ebde8f44eeae83cfbd6ff86625c623.jpg)
 
-## Ингредиенты
+#### Ингредиенты:
 
 \(Для 4−6 тостов\)
 
@@ -18,7 +18,7 @@
 * Листья корна — 1 большая горсть
 * Белый хлеб для тостов — 2−3 ломтика
 
-## Приготовление
+#### Приготовление:
 
 Выложить курицу в глубокую посуду, добавить тёртый имбирь, куркуму, сок лайма и карри-пасту. Тщательно перемешать и дать постоять пять-семь минут.
 
@@ -30,5 +30,5 @@
 
 Выложить готовый салат на тосты с корном.
 
-[http://www.the-village.ru/village/food/chiefs/173177-retsept-vika](http://www.the-village.ru/village/food/chiefs/173177-retsept-vika)
+[_http://www.the-village.ru/village/food/chiefs/173177-retsept-vika_](http://www.the-village.ru/village/food/chiefs/173177-retsept-vika)
 

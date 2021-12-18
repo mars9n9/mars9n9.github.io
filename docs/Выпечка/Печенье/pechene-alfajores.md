@@ -21,5 +21,5 @@
 
 Остывшее печенье заполнить вареной сгущенкой
 
-\_\_[_https://www.instagram.com/p/B\_xcixLl\_mM/_](https://www.instagram.com/p/B_xcixLl_mM/)\_\_
+[_https://www.instagram.com/p/B\_xcixLl\_mM/_](https://www.instagram.com/p/B_xcixLl_mM/)
 

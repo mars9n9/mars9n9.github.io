@@ -2,7 +2,7 @@
 
 ![](../pics/scale_1200%20%282%29.webp)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * говяжья печень
 * мука
@@ -18,5 +18,5 @@
 
 Можно добавить в бефстроганов грибы, а лучше — чернослив, он дает бефстроганову сладкую оттяжку
 
-_Максим Тарусин, шеф-повар ресторана «Восход»_ [_https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya_](https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya)\_\_
+_Максим Тарусин, шеф-повар ресторана «Восход»_ [_https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya_](https://eda.ru/media/produkt/pechen-govyazhya-telyachya-svinaya)
 

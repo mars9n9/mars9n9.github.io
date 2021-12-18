@@ -28,5 +28,5 @@
 
 Противень смазать сливочным маслом. Выложить на него смесь телячьей печени с виноградом и посыпать крошкой. Запекать в духовке 30 минут при 180 С.
 
-\_\_[_https://laperla-foto.livejournal.com/90440.html_](https://laperla-foto.livejournal.com/90440.html)\_\_
+[_https://laperla-foto.livejournal.com/90440.html_](https://laperla-foto.livejournal.com/90440.html)
 

@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/73/06/5f/73065ff0541eed75b4f1c870581c37aa.jpg)
 
-## Ингридиенты:
+#### Ингредиенты:
 
 6 маленьких порций
 
@@ -24,5 +24,5 @@
 
 Подавать сразу, посыпав зеленым луком
 
-[_http://www.barefeetinthekitchen.com/2013/01/egg-drop-soup.html_](http://www.barefeetinthekitchen.com/2013/01/egg-drop-soup.html)\_\_
+[_http://www.barefeetinthekitchen.com/2013/01/egg-drop-soup.html_](http://www.barefeetinthekitchen.com/2013/01/egg-drop-soup.html)
 

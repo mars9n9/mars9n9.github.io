@@ -32,5 +32,5 @@
 
 Перед подачей достать формочки и погрузите дно каждой на 15 секунд в горячую воду. После этого сразу вынуть семифреддо из формы, удалить пленку, перевернуть на тарелку, подождать 3-4 минуты и подавать.
 
-\_\_[_http://elladkin.livejournal.com/454041.html_](http://elladkin.livejournal.com/454041.html)\_\_
+[_http://elladkin.livejournal.com/454041.html_](http://elladkin.livejournal.com/454041.html)
 

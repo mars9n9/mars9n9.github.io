@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/be/65/be/be65be89eacceb67f2d84442f0238bbd.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 * 300 г малины
 * 200 г муки

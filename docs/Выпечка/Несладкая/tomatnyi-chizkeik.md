@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/fe/88/ce/fe88ced25c4ad5cb96b686fd521cc565.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 **для основы:**
 
@@ -44,13 +44,13 @@
 
 Смешать уксус с маслом и специями. Помидоры нарезать и смешать с заправкой. Выложить помидорный салат на испеченный чизкейк. Украсить песто. Подавать сразу.
 
-[_https://vk.com/wall-48386221\_755_](https://vk.com/wall-48386221_755)\_\_
+[_https://vk.com/wall-48386221\_755_](https://vk.com/wall-48386221_755)
 
 ## Томатный чизкейк без выпечки
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/0f/e3/e2/0fe3e2498410389516ba3dcb4a316fdd.jpg)
 
-### Ингредиенты:
+#### Ингредиенты:
 
 **для начинки:**
 
@@ -58,9 +58,9 @@
 * 300 г сливочного сыра
 * 2 чайных ложки лимонного сока
 
-### Приготовление:
+#### Приготовление:
 
 Смешать сыр маскарпоне с лимонным соком. Выложить на охлажденную основу. Помидоров нарезать, выложить поверх сыра, посыпать солью и перцем. Украсить песто. Подавать сразу.
 
-[h_ttps://food52.com/recipes/5941-heirloom-tomato-and-lemon-mascarpone-tart_](https://food52.com/recipes/5941-heirloom-tomato-and-lemon-mascarpone-tart)\_\_
+[h_ttps://food52.com/recipes/5941-heirloom-tomato-and-lemon-mascarpone-tart_](https://food52.com/recipes/5941-heirloom-tomato-and-lemon-mascarpone-tart)
 

@@ -4,7 +4,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/ae/86/39/ae86394ee1360d166aa12bb7f465e9f3.jpg)
 
-## Ингредиенты:
+#### Ингредиенты:
 
 4 порции
 
@@ -20,7 +20,7 @@
 * Оливковое масло для заправки
 * Крупная соль, перец — по вкусу
 
-## Приготовление:
+#### Приготовление:
 
 Лук выложить в небольшой контейнер, добавить уксус, соль, сахар и хорошо перемешать. Оставить на полчаса-час в холодильнике.
 
@@ -28,5 +28,5 @@
 
 Заправить салат маслом, посолить и поперчить.
 
-[http://www.the-village.ru/village/food/chiefs/173177-retsept-vika](http://www.the-village.ru/village/food/chiefs/173177-retsept-vika)
+[_http://www.the-village.ru/village/food/chiefs/173177-retsept-vika_](http://www.the-village.ru/village/food/chiefs/173177-retsept-vika)
 

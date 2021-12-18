@@ -56,5 +56,5 @@
 
 Украсьте пирог рублеными фисташками.
 
-\_\_[_https://t.me/ktchn\_story_](https://t.me/ktchn_story)\_\_
+[_https://t.me/ktchn\_story_](https://t.me/ktchn_story)
 

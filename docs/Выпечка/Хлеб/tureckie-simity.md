@@ -34,5 +34,5 @@
 
 Выпекать в хорошо разогретой до 250 С духовке 8 – 9 минут до румяности.
 
-\_\_[_https://world-cuisine.livejournal.com/378895.html_](https://world-cuisine.livejournal.com/378895.html)\_\_
+[_https://world-cuisine.livejournal.com/378895.html_](https://world-cuisine.livejournal.com/378895.html)
 

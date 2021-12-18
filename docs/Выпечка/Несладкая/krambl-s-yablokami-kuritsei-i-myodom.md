@@ -2,7 +2,7 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/37/02/cf/3702cf0d8efd755750dea03552e4f219.jpg)
 
-**Ингредиенты:**
+#### Ингредиенты:
 
 6 порций
 
@@ -41,5 +41,5 @@
 
 Запекать в духовке при 180 градусах.
 
-[_http://laperla-foto.livejournal.com/90440.html_](http://laperla-foto.livejournal.com/90440.html)\_\_
+[_http://laperla-foto.livejournal.com/90440.html_](http://laperla-foto.livejournal.com/90440.html)
 
