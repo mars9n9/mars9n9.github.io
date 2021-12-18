@@ -27,5 +27,5 @@
 
 Смешать горчицу \(с целыми зернами\) с оливковым маслом и нарезанными овощами. Выложить их на тарелку, сверху — половинки маринованных перепелиных яиц, шпроты и немного зеленого салата с мелкими листьями — шпината или кресса.
 
-[http://eda.ru/recepty/salaty/salat-so-shprotami-i-korneplodami-36695](http://eda.ru/recepty/salaty/salat-so-shprotami-i-korneplodami-36695)
+_http://eda.ru/recepty/salaty/salat-so-shprotami-i-korneplodami-36695_
 
