@@ -35,11 +35,16 @@ https://claudioessilva.eu/2017/09/18/generate-markdown-table-of-contents-based-o
  
     foreach ($dir in ($repoFolderStructure | Sort-Object -Property Name)) {
 		
-        $TOC += "$(""  ""*$($Level))* $($dir.Name) $nl"
+		if ($Level -eq 0){
+		$suffix = "https://mars9n9.github.io/" + $($dir.Name)}
+		else {
+			$suffix = "https://mars9n9.github.io/" + $($BaseFolder.Split("\")[-1]) + "/" + $($dir.Name)}
+		
+        $TOC += "$(""  ""*$($Level))* [$($dir.Name)]($([uri]::EscapeUriString(""$suffix/$(""ix.md"".Replace("".md"", "".html""))""))) $nl"
 		$TOC += Convert-FolderContentToMarkdownTableOfContents -BaseFolder $dir.FullName -FiletypeFilter $FiletypeFilter -Level $($Level+1)
         $repoStructure = Get-ChildItem -Path $dir.FullName -Filter $FiletypeFilter
  
-        foreach ($md in ($repoStructure | Sort-Object -Property Name)) {
+        foreach ($md in ($repoStructure | Where-Object Name -NotMatch "ix.md"| Sort-Object -Property Name)) {
             $file_data = Get-Content "$($md.Directory.ToString())\$($md.Name)"  -Encoding UTF8
 			if ($file_data.count -gt 0){
 			$fileName = $file_data[0] -replace "# "}
@@ -48,10 +53,10 @@ https://claudioessilva.eu/2017/09/18/generate-markdown-table-of-contents-based-o
 				$fileName = $($md.Name)
 			}
 			if ($Level -eq 0){
-			$suffix = $($md.Directory.ToString().Replace($BaseFolder, [string]::Empty)).Replace("\", "/")}
+			$suffix = "https://mars9n9.github.io" + $($md.Directory.ToString().Replace($BaseFolder, [string]::Empty)).Replace("\", "/")}
 			else {
-				$suffix = $($BaseFolder.Name) + "/" + $($md.Directory.ToString().Replace($BaseFolder, [string]::Empty)).Replace("\", "/")}
-            $TOC += "$(""  ""*$($Level+1))* [$fileName]($([uri]::EscapeUriString(""$suffix/$($md.Name)"")))$nl"
+				$suffix = "https://mars9n9.github.io/" + $($BaseFolder.Split("\")[-1]) + $($md.Directory.ToString().Replace($BaseFolder, [string]::Empty)).Replace("\", "/")}
+            $TOC += "$(""  ""*$($Level+1))* [$fileName]($([uri]::EscapeUriString(""$suffix/$($md.Name.Replace(".md", ".html"))"")))$nl"
         }
     }
  
