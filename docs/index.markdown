@@ -1,5 +1,5 @@
-﻿* Tips
-  * [Копчение] (//Tips/Копчение.md)
+﻿* Tips 
+  * [Простейший способ закоптить что-то быстренько. Нужна большая кастрюля, фольга, опилки или стружка древесные, сито или друшлаг плоские, вытяжка. ](/Tips/%D0%9A%D0%BE%D0%BF%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.md)
 * Выпечка 
   * Блины 
     * [Катаеф \(с сыром\)](//%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/kataef.md)
@@ -144,8 +144,8 @@
   * [Перловая каша с белыми грибами](/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/perlovaya-kasha-s-belymi-gribami.md)
   * [Гарниры](/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/README.md)
   * [Запеченный батат с пряным соусом](/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/zapechennii-batat-s-pryanim-sousom.md)
-* Кабачки, перцы и их друзья
-  * [Баклажаны под сыром] (/Кабачки, перцы и их друзья/baklazani-pod-sirom.md)
+* Кабачки, перцы и их друзья 
+  * [Баклажаны под сыром](/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BA%D0%B8,%20%D0%BF%D0%B5%D1%80%D1%86%D1%8B%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F/baklazani-pod-sirom.md)
 * Курица и птица 
   * [Курица с помидорами и базиликом в соусе из марсалы \| Chicken Marsala Recipe with Tomatoes and Basil](/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/chicken_marsala_recipe_with_tomatoes_and_basil.md)
   * [Курица в шоколадном соусе \| Chicken Mole](/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/chicken_mole_ili_kuritsa_v_shokoladnom_souse.md)
