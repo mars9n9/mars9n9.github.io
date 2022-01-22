@@ -251,6 +251,7 @@
   * [Тушёный свиной карбонад с опятами](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/tushyonyi-svinoi-karbonat-s-opyatami.html)
   * [Ягненок с финиками и курагой по-мароккански](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/yagnenok-s-finikami-po-marrokanski.html)
 * [Рыба](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/ix.html) 
+  * [Fiskgratang  \| Рыбный гратен](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/Fiskgratang.html)
   * [Гратен с сардинами, рисом и шпинатом](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/graten-s-sardinami-risom-i-shpinatom.html)
   * [Караси в сметане](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/karasi-v-smetane.html)
   * [Картофельные котлеты с лососем](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/kartofelnye-kotlety-s-lososem.html)
