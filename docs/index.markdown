@@ -117,7 +117,7 @@
     * [Pan de mie complet, французский хлеб с добавлением цельнозерновой муки](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%A5%D0%BB%D0%B5%D0%B1/pan-de-mie-complet-francuzskii-khleb-s-dobavleniem-celnozernovoi-muki.html)
     * [Арабские лепешки \| Saj bread](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%A5%D0%BB%D0%B5%D0%B1/saj_bread.html)
     * [Серый хлеб на закваске](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%A5%D0%BB%D0%B5%D0%B1/seryi-khleb-na-zakvaske.html)
-    * [Spicy Cheese Bread | Пряный сырный хлеб](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%A5%D0%BB%D0%B5%D0%B1/spicy_cheese_bread.html)
+    * [Spicy Cheese Bread \| Пряный сырный хлеб](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%A5%D0%BB%D0%B5%D0%B1/spicy_cheese_bread.html)
     * [Турецкие симиты](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%A5%D0%BB%D0%B5%D0%B1/tureckie-simity.html)
     * [Утренние булки на закваске](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%A5%D0%BB%D0%B5%D0%B1/utrennie-bulki.html)
     * [Яблочный хлеб на закваске](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%A5%D0%BB%D0%B5%D0%B1/yablochnyi-khleb-na-zakvaske.html)
