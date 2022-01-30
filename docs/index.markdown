@@ -122,6 +122,7 @@
     * [Яблочный хлеб на закваске](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%A5%D0%BB%D0%B5%D0%B1/yablochnyi-khleb-na-zakvaske.html)
   * [Яблочные пироги](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/ix.html) 
     * [Яблочный пирог с сырной корочкой из Чеддера](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/cheddar-crusted-apple-pie.html)
+    * [Яблочный кекс с крустильяном](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/crust.html)
     * [Миндально-яблочный пирог](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/mindalno-yablochnii-pirog.html)
     * [Испанский яблочный пирог с ромом \| Pastel de manzana con ron](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/pastel_de_manzana.html)
     * [Яблочный пирог из Трансильвании](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/yablochnii_pirog_iz_transilvanii.html)
