@@ -5,6 +5,7 @@
     * [Катаеф \(с сыром\)](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/kataef.html)
     * [Тесто для тонких блинчиков на молоке или пиве](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/la_pate_a_crepes.html)
   * [Десерты](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/ix.html) 
+    * [Дрожжевой штоллен (эльзасская версия) \| Christollen](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/christollen.html)
     * [Мягкий пирог с малиной \| Gâteau moelleux aux framboises](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/gateau_moelleux_aux_framboises_-_myagkii_pirog_s_m.html)
     * [Безглютеновый лимонно-маковый бисквит с кокосовым молоком](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/gluten-free-lemon-poppy-seed-cake.html)
     * [Йогуртово-банановый шоколадный торт](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/iogurtovo-bananovyi-shokoladnyi-tort.html)
