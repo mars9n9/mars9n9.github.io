@@ -64,6 +64,7 @@
     * [Крамбль с яблоками, курицей и мёдом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%8F/krambl-s-yablokami-kuritsei-i-myodom.html)
     * [Кулебяка](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%8F/kulebyaka.html)
     * [Курник](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%8F/kurnik.html)
+    * [Мадлен с грецким орехом и сыром с голубой плесенью](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%8F/madeleine-blue-cheese.html)
     * [Панисс \| Panisse](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%8F/paniss-or-panisse.html)
     * [Пирог из слоеного теста с грушей и сыром](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%8F/pirog_iz_sloenogo_testa_s_grushei_i_sirom.html)
     * [Пирожки из творожного теста с курицей и сыром](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%D1%8F/pirozhki-iz-tvorozhnogo-testa-s-kuricei-i-syrom.html)
