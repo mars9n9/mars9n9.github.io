@@ -22,12 +22,18 @@ title: Mars9n9's recipe book
 description: >- # this means to ignore newlines until "baseurl:"
   Здесь живут рецепты, которые я собираю и пробую готовить , со ссылками на авторов и моими изменениями
 
+navbar-links:
+  Author's home: "https://mars9n9.github.io"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: mars9n9.github.io
 url: https://mars9n9.github.io
 github_username:  mars9n9
 baseurl: 
+
+social-network-links:
+  github: mars9n9
+  instagram: maraiamunaeva
 
 # Build settings
 remote_theme: pages-themes/merlot@v0.2.0
