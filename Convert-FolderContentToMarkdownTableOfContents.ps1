@@ -1,3 +1,5 @@
+using namespace System.Collections.Generic
+
 function Convert-FolderContentToMarkdownTableOfContents{
 <#
 .SYNOPSIS
@@ -30,7 +32,7 @@ https://claudioessilva.eu/2017/09/18/generate-markdown-table-of-contents-based-o
  
     $nl = [System.Environment]::NewLine
     $TOC = ""
- 
+	
     $repoFolderStructure = Get-ChildItem -Path $BaseFolder -Directory | Where-Object Name -NotMatch "_site|pics|_posts|styles"
  
     foreach ($dir in ($repoFolderStructure | Sort-Object -Property Name)) {
@@ -43,6 +45,8 @@ https://claudioessilva.eu/2017/09/18/generate-markdown-table-of-contents-based-o
         $TOC += "$(""  ""*$($Level))* [$($dir.Name)]($([uri]::EscapeUriString(""$suffix/$(""ix.md"".Replace("".md"", "".html""))""))) $nl"
 		$TOC += Convert-FolderContentToMarkdownTableOfContents -BaseFolder $dir.FullName -FiletypeFilter $FiletypeFilter -Level $($Level+1)
         $repoStructure = Get-ChildItem -Path $dir.FullName -Filter $FiletypeFilter
+		
+		$pages = [list[PSObject]]::new()
  
         foreach ($md in ($repoStructure | Where-Object Name -NotMatch "ix.md"| Sort-Object -Property Name)) {
             $file_data = Get-Content "$($md.Directory.ToString())\$($md.Name)"  -Encoding UTF8
@@ -56,10 +60,16 @@ https://claudioessilva.eu/2017/09/18/generate-markdown-table-of-contents-based-o
 			$suffix = "https://mars9n9.github.io" + $($md.Directory.ToString().Replace($BaseFolder, [string]::Empty)).Replace("\", "/")}
 			else {
 				$suffix = "https://mars9n9.github.io/" + $($BaseFolder.Split("\")[-1]) + $($md.Directory.ToString().Replace($BaseFolder, [string]::Empty)).Replace("\", "/")}
-            $TOC += "$(""  ""*$($Level+1))* [$fileName]($([uri]::EscapeUriString(""$suffix/$($md.Name.Replace(".md", ".html"))"")))$nl"
+			$page = [PSCustomObject]@{
+				name = $fileName
+				path = "$($([uri]::EscapeUriString(""$suffix/$($md.Name.Replace(".md", ".html"))"")))"}	
+			$pages.Add($page)
         }
+		$pages = $pages | sort-object { $_.name }
+		foreach ($item in $pages) {
+			$TOC += "$(""  ""*$($Level+1))* [$($item.name)]($($item.path))$nl"}
     }
- 
+	
     return $TOC
 }
 
