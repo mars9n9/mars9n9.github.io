@@ -260,7 +260,7 @@
   * [Острый салат с картофелем, беконом и лаймом](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/ostrii-salat-s-kartofelem-bekonom-i-laimom.html)
   * [Рокко Пармезан](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/rokko_parmezan.html)
   * [С фасолью, тунцом и сельдереем](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/butter-bean-tuna-and-celery-salad.html)
-  * [Салат бекон, латук, томаты, картофель /| BLT Potato Salad](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/blt-potato.html)
+  * [Салат бекон, латук, томаты, картофель \| BLT Potato Salad](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/blt-potato.html)
   * [Салат из красной фасоли с помидорами и курицей или копченым окороком](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/salat_iz_krasnoi_fasoli_s_pomidorami_i_kuritsei.html)
   * [Салат из курицы в карри-соусе на тостах](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/salat_iz_kuritsi_v_karri-souse_na_tostah.html)
   * [Салат из морепродуктов с кускусом или пастой](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/salat_s_krabami_ili_krevetkami.html)

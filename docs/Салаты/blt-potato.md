@@ -1,4 +1,4 @@
-# Салат бекон, латук, томаты, картофель /| BLT Potato Salad
+# Салат бекон, латук, томаты, картофель \| BLT Potato Salad
 
 ![BLT Potato Salad](..\pics\blt-potato-salad-2-600x900.jpg)
 
