@@ -308,6 +308,7 @@
 * [Супы](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/ix.html) 
   * [risovii-cup-s-kuritsei-chicken-congee.md](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/risovii-cup-s-kuritsei-chicken-congee.html)
   * [Авголемоно \| Avgolemono](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/avgolemono.html)
+  * [Борщ](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/borshch.html)
   * [Буайбес](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/buaibes.html)
   * [Закарпатский банош с шкварками и брынзой](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/transcarpathian_banosh.html)
   * [Карри крем-суп \| Crème au curry](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/creme_au_curry.html)
