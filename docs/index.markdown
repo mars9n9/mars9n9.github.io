@@ -347,6 +347,7 @@
   * [Сырный суп по французски с курицей](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/sirnii_sup_pofrantsuzski_s_kuritsei.html)
   * [Сырный суп с лисичками](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/sirnii-sup-s-lisichkami.html)
   * [Томатный суп с фрикадельками](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/tomatnii_sup_s_frikadelkami.html)
+  * [Том-ям-кунг](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/tomyam.html)
   * [Тосканский крем-суп из белой фасоли](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/tuscan-white-bean-soup.html)
   * [Тосканский суп из фасоли с беконом](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/toskanskii_sup_iz_fasoli_s_rozmarinom.html)
   * [Турецкий чечевичный суп с мятой \(мерджимек-чорбасы\)](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/turetskii_chechevichnii_sup_s_myatoi.html)
