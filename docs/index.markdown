@@ -93,6 +93,7 @@
     * [Яблочный пирог на йогуртовом тесте](https://mars9n9.github.io/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/yablochnyi-pirog-na-iogurtovom-teste.html)
     * [Яблочный пирог с сырной корочкой из Чеддера](https://mars9n9.github.io/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8/cheddar-crusted-apple-pie.html)
   * [Lemon curd - Лимонный курд.](https://mars9n9.github.io/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/lemon_curd.html)
+  * [Бананово-кокосовый кекс](https://mars9n9.github.io/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/banana-coconut-cake.html)
   * [Безглютеновый лимонно-маковый бисквит с кокосовым молоком](https://mars9n9.github.io/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/gluten-free-lemon-poppy-seed-cake.html)
   * [Дрожжевой штоллен (эльзасская версия) \| Christollen](https://mars9n9.github.io/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/christollen.html)
   * [Йогуртово-банановый шоколадный торт](https://mars9n9.github.io/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%D1%8B/iogurtovo-bananovyi-shokoladnyi-tort.html)
