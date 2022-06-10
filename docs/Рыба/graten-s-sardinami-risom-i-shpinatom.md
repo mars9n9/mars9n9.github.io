@@ -1,83 +1,32 @@
 # Гратен с сардинами, рисом и шпинатом
 
-![](https://i.pinimg.com/564x/66/b9/51/66b951300e50e57c217368ec2aea15ff.jpg)
+![Гратен с сардинами, рисом и шпинатом](https://i.pinimg.com/564x/66/b9/51/66b951300e50e57c217368ec2aea15ff.jpg)
 
-#### Ингредиенты:
+#### Ингредиенты
 
-* 2-3 3/4-ounce
-  * cans boneless
+На форму 20*20 см
 
-    , skinless and boneless sardines packed in olive oil
+* 100 г сардин в масле
+* 2 пучка шпината
+* 1 ст л оливкового масла
+* 2-3 зубчика чеснока
+* 1 ч л тимьяна
+* 1 ч л муки
+* 120 г молока (½ чашки)
+* 1 чашка готового риса
+* ¼ чашки панировочных сухарей
+* соль, перец по вкусу
+  
+#### Приготовление
 
-  * 2
+Разогреть духовку до 220 градусов. Смазать маслом форму для запекания.  
+Достать сардины из масла и разделить на филе.  
+Бланшировать шпинат в кипятке. Переложить в миску с холодной водой, слить и отжать лишнюю воду. Измельчить средне-мелко. 
 
-    pounds
+Разогреть оливковое масло в сковороде на среднем огне. Добавить щедрую щепотку соли, чеснок и тимьян и готовить, помешивая, до появления аромата. Добавить нарезанный подвяленный шпинат, муку, соль и перец по вкусу. Готовить 1 минуту. Добавить молоко и вареный рис и готовить помешивая около 1 минуты, пока не выпарится жидкость. Снять с огня.
 
-    spinach
+Выложить половину риса и шпината на дно формы для запекания. Сверху выложить филе сардин в один слой. Сбрызнуть сардины столовой ложкой масла из банки, затем ровным слоем выложить оставшийся рис и шпинат. Посыпать панировочными сухарями и сбрызнуть еще одной столовой ложкой масла из банки с сардинами. Поставить в духовку и запекать 15 минут, пока не подрумянится.
 
-    \(2 generous bunches\), stemmed and washed in two changes of water or 1 pound baby spinach
+Подавать горячим или теплым.
 
-  * 1
-
-    tablespoon
-
-    extra virgin olive oil
-
-  * Salt and freshly ground pepper to taste
-  * 1
-
-    medium onion
-
-    , finely chopped
-
-  * 2 to 4
-
-    garlic cloves
-
-    , minced
-
-  * 1
-
-    teaspoon
-
-    fresh thyme leaves
-
-    , roughly chopped, or 1/2 teaspoon dried thyme
-
-  * 1
-
-    teaspoon
-
-    all-purpose flour
-
-  * ½
-
-    cup
-
-    low-fat milk
-
-  * 1
-
-    cup
-
-    cooked rice
-
-    \(brown or white; I like to use Arborio\)
-
-  * ¼
-
-    cup fresh or
-
-    dry bread crumbs
-
-#### Приготовление:
-
-Preheat the oven to 425 degrees. Oil a 1 1/2 to 2-quart gratin or baking dish. Remove the sardines from the oil and separate them into fillets. Set the oil aside.
-
-1. Wilt the spinach either by steaming or blanching. To blanch bring a large pot of water to a boil, salt generously and add the spinach. Blanch for no more than 20 seconds \(do this in batches\). Transfer to a bowl of cold water, drain and squeeze out excess water. If you prefer, you can wilt the spinach by steaming for about 1 minute over an inch of boiling water. Chop medium-fine.
-2. Heat the olive oil \(not the oil from the sardines\) in the skillet over medium heat and add the onion and a pinch of salt. Cook, stirring, until tender, 5 to 8 minutes. Add a generous pinch of salt, stir in the garlic and thyme and cook, stirring, until fragrant, 30 seconds to a minute, then add the chopped wilted spinach, flour, and salt and pepper to taste. Stir together for 1 minute, until everything is blended. Add the milk and cooked rice and stir together for about 1 minute, until you no longer see liquid in the pan. Remove from the heat. Taste and adjust salt and pepper.
-3. Spread half the rice and spinach in the bottom of the baking dish. Top with the sardine fillets in one layer. Drizzle a tablespoon of the oil from the cans over the sardines, then top with the remaining rice and spinach in an even layer. Sprinkle on the breadcrumbs and drizzle on another tablespoon of the oil from the sardine cans. Place in the oven and bake 15 minutes, until sizzling. Serve hot or warm.
-4. Advance preparation: You can assemble this up to a day ahead of baking. Do not top with the breadcrumbs and oil until just before baking. Keep well covered in the refrigerator. Leftovers will keep for a few days in the refrigerator. Reheat in a moderate oven.
-
-[_https://cooking.nytimes.com/recipes/1014435-spinach-sardine-and-rice-gratin_](https://cooking.nytimes.com/recipes/1014435-spinach-sardine-and-rice-gratin)
-
+[*https://cooking.nytimes.com/recipes/1014435-spinach-sardine-and-rice-gratin*](https://cooking.nytimes.com/recipes/1014435-spinach-sardine-and-rice-gratin)
