@@ -39,6 +39,7 @@
   * [Крамбль с яблоками, курицей и мёдом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/krambl-s-yablokami-kuritsei-i-myodom.html)
   * [Кулебяка](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/kulebyaka.html)
   * [Курник](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/kurnik.html)
+  * [Осетинский пирог](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/osetinsky-pirog.html)
   * [Панисс \| Panisse](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/paniss-or-panisse.html)
   * [Пирог из слоеного теста с грушей и сыром](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/pirog_iz_sloenogo_testa_s_grushei_i_sirom.html)
   * [Пирожки из творожного теста с курицей и сыром](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/pirozhki-iz-tvorozhnogo-testa-s-kuricei-i-syrom.html)
