@@ -1,6 +1,6 @@
 # Сдобные сметанные булочки с семечками и сыром
 
-![](https://s-media-cache-ak0.pinimg.com/564x/71/1b/47/711b47dbe569fba86154d65bf94d702b.jpg)
+![](../pics/711b47dbe569fba86154d65bf94d702b.jpg)
 
 #### Ингредиенты:
 
@@ -41,5 +41,4 @@
 
 Выпекать 20-25 минут до темно-золотистого цвета
 
-[_http://buxgalter-sofi.livejournal.com/316784.html_](http://buxgalter-sofi.livejournal.com/316784.html)
-
+*buxgalter-sofi.livejournal.com*

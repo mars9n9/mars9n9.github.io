@@ -1,6 +1,6 @@
 # Печенье с сыром \| Biscotti al formaggio
 
-![Печенье с сыром](../../pics/pechene_s_syrom_rezultat.jpg)
+![Biscotti al formaggio](../../pics/pechene_s_syrom_rezultat.jpg)
 
 #### Ингредиенты
 
@@ -21,4 +21,4 @@
 Охлажденное тесто освободить из пленки. Выложить  тесто на бумагу для выпечки и раскатать в пласт толщиной 0,5 см. Вырезать из пласта с помощью форм около 30 кружков.  
 Выложить кусочки теста на выстеленный бумагой для выпечки противень и выпекать в предварительно разогретой духовке около 15 минут по светло-золотистого цвета.
 
-[*https://www.ellamartino.ru/recipes/pechene-s-syrom-biscotti-al-formaggio*](https://www.ellamartino.ru/recipes/pechene-s-syrom-biscotti-al-formaggio)
+*ellamartino.ru*

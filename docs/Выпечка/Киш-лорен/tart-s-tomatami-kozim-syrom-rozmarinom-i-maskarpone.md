@@ -1,8 +1,8 @@
 # Тарт с томатами, козьим сыром, розмарином и маскарпоне
 
-![](https://s-media-cache-ak0.pinimg.com/564x/40/fd/4e/40fd4e5bd7e9a877a786883f0db904ad.jpg)
+![Тарт с томатами, козьим сыром, розмарином и маскарпоне](../../pics/40fd4e5bd7e9a877a786883f0db904ad.jpg)
 
-#### Ингредиенты:
+#### Ингредиенты
 
 * основа для тарта или для пирога из слоеного теста
 * 5-6 средних помидоров
@@ -18,7 +18,7 @@
 * _зелень для украшения_
 * _50 г твердого сыра типа пекорино_
 
-#### Приготовление:
+#### Приготовление
 
 Разогреть духовку до 180 градусов.
 
@@ -32,13 +32,12 @@
 
 Вынуть из духовки и дать остыть не менее часа.
 
-[_http://www.theendlessmeal.com/goat-cheese-and-tomato-tart-with-rosemary-and-mascarpone/_](http://www.theendlessmeal.com/goat-cheese-and-tomato-tart-with-rosemary-and-mascarpone/)
+*theendlessmeal.com*
 
 ## Томатные тарталетки
 
 использовать формы для тарталеток и помидоры черри
 
- ![](https://s-media-cache-ak0.pinimg.com/564x/78/60/8a/78608a807440e8b6c8d3340123d61eaf.jpg)
+ ![](../../pics/78608a807440e8b6c8d3340123d61eaf.jpg)
 
-[_http://www.yellowlemontreeblog.com/tomatentaartjes-geitenkaas/_](http://www.yellowlemontreeblog.com/tomatentaartjes-geitenkaas/)
-
+*yellowlemontreeblog.com*

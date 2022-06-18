@@ -27,4 +27,4 @@
 
 Подают традиционно стопками по 3 пирога.
 
-[*https://laperla-foto.livejournal.com/90440.html*](https://lyukum.livejournal.com/291629.html)
+*lyukum.livejournal.com*

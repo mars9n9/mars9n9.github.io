@@ -1,10 +1,10 @@
 # Традиционный английский пирог с кроликом
 
-![](../../pics/rabbit-pie01-24711.jpg)
+![Традиционный английский пирог с кроликом](../pics/rabbit-pie01-24711.jpg)
 
 #### Ингредиенты:
 
-[тесто с чеддером](https://mars9n9.gitbooks.io/recipes-book/content/cheddar-crusted-apple-pie.html)
+[тесто с чеддером](https://mars9n9.github.io/cakes/)
 
  **для начинки:**
 
@@ -33,5 +33,4 @@
 
 Верхний слой теста раскатать шире чем ширина формы. Выложить тесто и запечатать края, сделать в центре отверстие для выхода воздуха. Запекать 30 минут при 220°C или до золотистого цвета.
 
-[_https://www.deliaonline.com/recipes/international/european/british/old-english-rabbit-pie_](https://www.deliaonline.com/recipes/international/european/british/old-english-rabbit-pie)
-
+*deliaonline.com*
