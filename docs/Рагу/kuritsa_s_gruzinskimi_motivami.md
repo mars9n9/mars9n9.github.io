@@ -1,6 +1,6 @@
 # Курица с грузинскими мотивами
 
-![](https://s-media-cache-ak0.pinimg.com/564x/f5/7b/a8/f57ba88a0f5bc4629506ce94f88e3672.jpg)
+![](../pics/f57ba88a0f5bc4629506ce94f88e3672.jpg)
 
 #### Ингредиенты:
 

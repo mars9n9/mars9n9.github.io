@@ -1,6 +1,6 @@
 # Чили из черных бобов \| Slow Cooker Chipotle Black Bean Chili
 
-![](https://i.pinimg.com/564x/9d/d3/dd/9dd3dd5986743800074952d2ca969c21.jpg)
+![](../pics/9dd3dd5986743800074952d2ca969c21.jpg)
 
 #### Ингредиенты:
 

@@ -1,6 +1,6 @@
 # Чили с говядиной \| Chili Con Carne
 
-![](https://s-media-cache-ak0.pinimg.com/564x/bf/43/a7/bf43a7f3d24e0e2503c00d217209b693.jpg)
+![](../pics/bf43a7f3d24e0e2503c00d217209b693.jpg)
 
 #### Ингредиенты:
 
