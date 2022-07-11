@@ -260,6 +260,7 @@
   * [Майонез \| La mayonnaise](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/la_mayonnaise.html)
   * [Собачий антильский соус \| Sauce chien à l’antillaise](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/sobachii_antilskii_sous.html)
   * [Соус Болоньезе](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/sous_boloneze.html)
+  * [Сырный соус](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/cheese.html)
 * [Субпродукты](https://mars9n9.github.io/%D0%A1%D1%83%D0%B1%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/ix.html) 
   * [Бефстроганов из печени](https://mars9n9.github.io/%D0%A1%D1%83%D0%B1%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/befstroganov-iz-pecheni.html)
   * [Крем-брюле из печенки с инжиром](https://mars9n9.github.io/%D0%A1%D1%83%D0%B1%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/krem-bryule-iz-pechenki-s-inzhirom.html)
