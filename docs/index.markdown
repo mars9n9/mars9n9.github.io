@@ -1,5 +1,6 @@
 ﻿* [Tips](https://mars9n9.github.io/Tips/ix.html) 
   * [Котлеты](https://mars9n9.github.io/Tips/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B.html)
+  * [Подготовка языка](https://mars9n9.github.io/Tips/preparation-tongue.html)
   * [Простейший способ закоптить что-то быстренько.](https://mars9n9.github.io/Tips/%D0%9A%D0%BE%D0%BF%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.html)
   * [Рис для суши](https://mars9n9.github.io/Tips/rice.html)
 * [Блины](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/ix.html) 
