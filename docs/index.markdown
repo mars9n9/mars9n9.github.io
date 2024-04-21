@@ -8,6 +8,7 @@
   * [Тесто для тонких блинчиков на молоке или пиве](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/la_pate_a_crepes.html)
 * [Бутерброды и бургеры](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/ix.html) 
   * [Сендвичи](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%D0%B8/ix.html) 
+    * [Сэндвич с яичницей, беконом и сыром](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%D0%B8/egg-bacon-sandwich.html)
     * [Тост с авокадо и яйцом \| The holy egg & avo](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%D0%B8/holy-avo-egg.html)
 * [Вафли](https://mars9n9.github.io/%D0%92%D0%B0%D1%84%D0%BB%D0%B8/ix.html) 
   * [Вафли-маття](https://mars9n9.github.io/%D0%92%D0%B0%D1%84%D0%BB%D0%B8/matcha-WAFFLE.html)
