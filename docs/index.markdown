@@ -124,6 +124,7 @@
   * [Ростбиф](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/roastbeef.html)
   * [Свинина в имбирном соусе](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/svinina_v_imbirnom_souse.html)
   * [Тартар из оленины с вареньем из морошки](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/tartar-iz-olenini-s-varenem-iz-moroshki.html)
+  * [Фаршированный батат](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/stuffed-sweet-potato.html)
   * [Фрикадельки с яблочным сидром \| Slow Cooker Apple Cider Maple Meatballs](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/apple-cider-maple-meatballs.html)
   * [Яйцо по-шотландски](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/scottish-eggs.html)
 * [Намазки](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/ix.html) 
