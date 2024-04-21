@@ -67,6 +67,7 @@
   * [Перлотто \(ризотто из перловой крупы\)](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/perlotto.html)
 * [Кабачки, перцы и их друзья](https://mars9n9.github.io/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BA%D0%B8,%20%D0%BF%D0%B5%D1%80%D1%86%D1%8B%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F/ix.html) 
   * [Баклажаны под сыром](https://mars9n9.github.io/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BA%D0%B8,%20%D0%BF%D0%B5%D1%80%D1%86%D1%8B%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F/baklazani-pod-sirom.html)
+  * [Фаршированные баклажаны с бараниной и кедровыми орешками](https://mars9n9.github.io/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BA%D0%B8,%20%D0%BF%D0%B5%D1%80%D1%86%D1%8B%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F/stuffed-aubergine.html)
 * [Курица и птица](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/ix.html) 
   * [General Tso's Chicken](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/general-tsos-chicken.html)
   * [Адобо](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/adobo.html)
