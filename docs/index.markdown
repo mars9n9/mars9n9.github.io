@@ -1,4 +1,4 @@
-﻿* [Simple dinners](https://mars9n9.github.io/Simple%20dinners/ix.html) 
+* [Simple dinners](https://mars9n9.github.io/Simple%20dinners/ix.html) 
   * [Лосось с ньокки](https://mars9n9.github.io/Simple%20dinners/SALMON-GNOCCHI.html)
 * [Tips](https://mars9n9.github.io/Tips/ix.html) 
   * [Котлеты](https://mars9n9.github.io/Tips/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B.html)
@@ -282,6 +282,7 @@
   * [Голландский соус \| Sauce hollandaise](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/sauce_hollandaise.html)
   * [Креольский майонез](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/kreolskii_maionez.html)
   * [Майонез \| La mayonnaise](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/la_mayonnaise.html)
+  * [Маринара \| Alla marinara](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/marinara.html)
   * [Собачий антильский соус \| Sauce chien à l’antillaise](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/sobachii_antilskii_sous.html)
   * [Соус Болоньезе](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/sous_boloneze.html)
   * [Сырный соус](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/cheese.html)
