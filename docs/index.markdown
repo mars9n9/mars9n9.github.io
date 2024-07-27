@@ -80,6 +80,7 @@
   * [Крылья в азиатском рыбном соусе](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/krilya-v-aziatskom-ribnom-souse.html)
   * [Куриная грудка в пармезане с томатным соусом](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kurinaya-grudka-v-parmezane-s-tomatnim-sousom.html)
   * [Куриная грудка с перлотто и грибным соусом](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kurinaya_grudka_s_perlotto_i_gribnim_sousom.html)
+  * [Куриная грудка со сморчками и сливочно-хересным соусом](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/chicken-breast-with-morels-and-creamy-sherry-sauce.html)
   * [Куриное филе в сливках с вялеными томатами и пармезаном](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kurinoe-file-v-slivkah-s-vyalenimi-tomatami-i-parmezanom.html)
   * [Куриное филе с грибами и сыром](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kurinoe-file-s-gribami-i-sirom.html)
   * [Куриное филе, обжаренное с базиликом, томатами и стручковой фасолью](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kurinoe_file-_obzharennoe_s_bazilikom-_tomatami_i_.html)
