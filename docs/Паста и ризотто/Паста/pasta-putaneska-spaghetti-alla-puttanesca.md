@@ -1,6 +1,6 @@
 # Паста "путанеска" \| Spaghetti alla puttanesca
 
-![](../../pics/spaghetti_puttanesca_44460_16x9-1.jpg)
+![Паста "путанеска"](../../pics/spaghetti_puttanesca_44460_16x9-1.jpg)
 
 #### Ингредиенты
 
@@ -32,5 +32,5 @@
 
 Добавить остатки петрушки, прогреть все с полминуты и подавать с мелко натертым пармезаном или пекорино.
 
-*Sopranos. Family Cookbook*
-*tg:OdessaCarrot*
+*Sopranos. Family Cookbook*  
+*Tg: OdessaCarrot*
