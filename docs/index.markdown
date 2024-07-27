@@ -155,7 +155,7 @@
     * [Каннеллони с болоньезе из печени](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/kanelone-s-boloneze-iz-pechenki.html)
     * [Лазанья с грибами](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/lazanya-s-gribami.html)
     * [Лазанья с хрустящей уткой](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/lazanya-s-hrustyashej-utkoj.html)
-    * [Пастицио | Παστίτσιο](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/pasticio.html)
+    * [Пастицио \| Παστίτσιο](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/pasticio.html)
     * [Ракушки из макарон с начинкой из тыквы и сыра](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/butternut-squash-and-cheese-stuffed-pasta-shells.html)
     * [Сырная лазанья](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/syrnaya-lazanya.html)
   * [Паста](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/ix.html) 
