@@ -201,6 +201,7 @@
   * [Баттер Чикен \| Butter Chicken \| Murgh makhani](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/butter_chicken.html)
   * [Бланкет из телятины à l'ancienne \| Blanquette de veau à l'ancienne](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/blanquette_de_veau_a_lancienne.html)
   * [Говядина по-бургундски \| Boeuf bourguignon](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/boeuf_bourguignon.html)
+  * [Говяжьи ребрышки, тушеные в красном вине](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/red-wine-braised-short-ribs.html)
   * [Курица с грузинскими мотивами](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/kuritsa_s_gruzinskimi_motivami.html)
   * [Острая телятина \| Peposo Alla Fornacina](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/ostraya-telyatina-or-peposo-alla-fornacina.html)
   * [Рагу с колбасками и ракушками по-португальски](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/portuguese-clam-sausage-stew.html)
