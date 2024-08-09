@@ -125,7 +125,7 @@
   * [Креветки тандури на шпажках](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/krevetki_tanduri_na_shpazhkah.html)
   * [Кремовые креветки по-тоскански](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/creamy-tuscan-prawns.html)
   * [Мидии с пармезаном и белым вином](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/midii-s-parmezanom-i-belim-vinom.html)
-  * [Осьминог а-ля по-галисийски \| pulpo a la gallega](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/osminog-a-lya-po-galisiiski-or-pulpo-a-la-gallega.html)
+  * [Осьминог а-ля по-галисийски \| Pulpo a la gallega](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/osminog-a-lya-po-galisiiski-or-pulpo-a-la-gallega.html)
   * [Тефтели из креветок](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/tefteli-iz-krevetok.html)
 * [Мясо](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/ix.html) 
   * [Жаркое из баранины](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/zharkoe-iz-baraniny.html)
