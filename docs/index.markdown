@@ -105,6 +105,7 @@
   * [Пасторма](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/pastorma.html)
   * [Суфле из курицы](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/sufle_iz_kuritsi.html)
   * [Утка в финиковом соусе с розмарином](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/utka_v_finikovom_souse_s_rozmarinom.html)
+  * [Хрустящая острая курица с медом и фетой](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/chicken-honey-feta.html)
   * [Хрустящее куриное филе в сыре](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/khrustyashee-kurinoe-file-v-syre.html)
   * [Цыпленок в винно-вишневом соусе \| Roast chicken with cherries in red wine](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/roast_chicken_with_cherries_in_red_wine.html)
   * [Цыпленок в томатно-сметанном соусе c базиликом](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/tsiplenok_v_tomatno_smetannom_souse_c_bazilikom.html)
