@@ -149,6 +149,7 @@
     * [Паштет из куриной печени с горохом нут и тимьяном](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9F%D0%B0%D1%88%D1%82%D0%B5%D1%82%D1%8B/pashtet_iz_kurinoi_pecheni_s_gorohom_nut_i_timyano.html)
     * [Паштет из яиц](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9F%D0%B0%D1%88%D1%82%D0%B5%D1%82%D1%8B/pashtet_iz_yaits.html)
     * [Пряный паштет из куриной печени](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9F%D0%B0%D1%88%D1%82%D0%B5%D1%82%D1%8B/pryanii_pashtet_iz_kurinoi_pecheni.html)
+  * [Томатный джем](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/tomato-jam.html)
 * [Напитки](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BF%D0%B8%D1%82%D0%BA%D0%B8/ix.html) 
   * [Лавандовый горячий шоколад](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BF%D0%B8%D1%82%D0%BA%D0%B8/lavandovyi-goryachii-shokolad.html)
 * [Паста и ризотто](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/ix.html) 
