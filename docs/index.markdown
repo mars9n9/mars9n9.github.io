@@ -1,26 +1,26 @@
-﻿* [Simple dinners](https://mars9n9.github.io/Simple%20dinners/ix.html) 
+﻿* Simple dinners
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
   * [Лосось с ньокки](https://mars9n9.github.io/Simple%20dinners/SALMON-GNOCCHI.html)
-* [Tips](https://mars9n9.github.io/Tips/ix.html) 
+* Tips
   * [Котлеты](https://mars9n9.github.io/Tips/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B.html)
   * [Подготовка языка](https://mars9n9.github.io/Tips/preparation-tongue.html)
   * [Простейший способ закоптить что-то быстренько.](https://mars9n9.github.io/Tips/%D0%9A%D0%BE%D0%BF%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.html)
   * [Рис для суши](https://mars9n9.github.io/Tips/rice.html)
-* [Блины](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/ix.html) 
+* Блины
   * [Катаеф \(с сыром\)](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/kataef.html)
   * [Тесто для тонких блинчиков на молоке или пиве](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/la_pate_a_crepes.html)
-* [Бутерброды и бургеры](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/ix.html) 
-  * [Сендвичи](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%D0%B8/ix.html) 
+* Бутерброды и бургеры
+  * Сендвичи
     * [Сэндвич на завтрак с омлетом, помидорами и сыром](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%D0%B8/breakfast-sandwich-with-omelette-tomatoes-and-cheese.html)
     * [Сэндвич с яичницей, беконом и сыром](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%D0%B8/egg-bacon-sandwich.html)
     * [Тост с авокадо и яйцом \| The holy egg & avo](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%D0%B8/holy-avo-egg.html)
-* [Вафли](https://mars9n9.github.io/%D0%92%D0%B0%D1%84%D0%BB%D0%B8/ix.html) 
+* Вафли
   * [Вафли-маття](https://mars9n9.github.io/%D0%92%D0%B0%D1%84%D0%BB%D0%B8/matcha-WAFFLE.html)
   * [Картофельные вафли](https://mars9n9.github.io/%D0%92%D0%B0%D1%84%D0%BB%D0%B8/POTATO-WAFFLE.html)
   * [Миндальные вафли на свежем сыре](https://mars9n9.github.io/%D0%92%D0%B0%D1%84%D0%BB%D0%B8/ricotta-almond-WAFFLE.html)
   * [Творожные венские вафли с отрубями](https://mars9n9.github.io/%D0%92%D0%B0%D1%84%D0%BB%D0%B8/cottage-WAFFLE.html)
-* [Выпечка](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/ix.html) 
-  * [Киш-лорен](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9A%D0%B8%D1%88-%D0%BB%D0%BE%D1%80%D0%B5%D0%BD/ix.html) 
+* Выпечка
+  * Киш-лорен
     * [Киш с грушей, голубым сыром и беконом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9A%D0%B8%D1%88-%D0%BB%D0%BE%D1%80%D0%B5%D0%BD/kish-s-grushei-golubym-syrom-i-bekonom.html)
     * [Киш с инжиром, рокфором, грецкими орехами, кленовым сиропом и тимьяном](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9A%D0%B8%D1%88-%D0%BB%D0%BE%D1%80%D0%B5%D0%BD/kish-s-inzharom-rokforom-greckimi-orekhami-klenovym-siropom-i-timyanom.html)
     * [Киш с козьим сыром, грецкими орехами, беконом и медом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9A%D0%B8%D1%88-%D0%BB%D0%BE%D1%80%D0%B5%D0%BD/kish-s-kozim-syrom-greckimi-orekhami-bekonom-i-medom.html)
@@ -31,14 +31,14 @@
     * [Пирог с корюшкой и соусом «путанеска»](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9A%D0%B8%D1%88-%D0%BB%D0%BE%D1%80%D0%B5%D0%BD/pirog-s-koryushkoi-i-sousom-putaneska.html)
     * [Тарт с грибами и сыром](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9A%D0%B8%D1%88-%D0%BB%D0%BE%D1%80%D0%B5%D0%BD/tart-s-gribami-i-syrom.html)
     * [Тарт с томатами, козьим сыром, розмарином и маскарпоне](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9A%D0%B8%D1%88-%D0%BB%D0%BE%D1%80%D0%B5%D0%BD/tart-s-tomatami-kozim-syrom-rozmarinom-i-maskarpone.html)
-  * [Несладкие кексы](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/ix.html) 
+  * Несладкие кексы
     * [Закусочный кекс с томатом и базиликом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/zakusochnii-keks-s-tomatom-i-bazilikom.html)
     * [Ирландские картофельные булочки](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/irlandskie-kartofelnye-bulochki.html)
     * [Кекс с пармезаном, чесноком и ароматными травами](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/keks_s_parmezanom-_chesnokom_i_aromatnimi_travami.html)
     * [Клафути с помидорами черри](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/klafuti-s-pomidorami-cherri.html)
     * [Мадлен с грецким орехом и сыром с голубой плесенью](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/madeleine-blue-cheese.html)
     * [Маффины с беконом и яйцом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/bacon-egg-breakfast-muffins.html)
-  * [Несладкое печенье](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%BE%D0%B5%20%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%D0%B5/ix.html) 
+  * Несладкое печенье
     * [Печенье с сыром \| Biscotti al formaggio](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%BE%D0%B5%20%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%D0%B5/biscotti-al-formaggio.html)
     * [Сырное печенье с табаско](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%BE%D0%B5%20%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%D0%B5/syrnoe-pechene-s-tabasko.html)
   * [Empanadas](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/empanadas.html)
@@ -64,7 +64,7 @@
   * [Томатный чизкейк](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/tomatnyi-chizkeik.html)
   * [Традиционный английский пирог с кроликом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/traditsionnii-angliiskii-pirog-s-krolikom.html)
   * [Энчилада \| Enchiladas](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/enchilada-or-enchiladas.html)
-* [Гарниры](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/ix.html) 
+* Гарниры
   * [Гороховое пюре](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/gorokhovoe-pyure.html)
   * [Гречотто \(гречка приготовленная по методу ризотто\)](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/grechotto.html)
   * [Запеченный батат с пряным соусом](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/zapechennii-batat-s-pryanim-sousom.html)
@@ -72,10 +72,10 @@
   * [Конфи тандури из нута](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/confit-chickpeas.html)
   * [Перловая каша с белыми грибами](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/perlovaya-kasha-s-belymi-gribami.html)
   * [Перлотто \(ризотто из перловой крупы\)](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/perlotto.html)
-* [Кабачки, перцы и их друзья](https://mars9n9.github.io/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BA%D0%B8,%20%D0%BF%D0%B5%D1%80%D1%86%D1%8B%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F/ix.html) 
+* Кабачки, перцы и их друзья
   * [Баклажаны под сыром](https://mars9n9.github.io/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BA%D0%B8,%20%D0%BF%D0%B5%D1%80%D1%86%D1%8B%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F/baklazani-pod-sirom.html)
   * [Фаршированные баклажаны с бараниной и кедровыми орешками](https://mars9n9.github.io/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BA%D0%B8,%20%D0%BF%D0%B5%D1%80%D1%86%D1%8B%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F/stuffed-aubergine.html)
-* [Курица и птица](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/ix.html) 
+* Курица и птица
   * [General Tso's Chicken](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/general-tsos-chicken.html)
   * [Адобо](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/adobo.html)
   * [Голландский капсалон \| Kapsalon](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kapsalon.html)
@@ -115,7 +115,7 @@
   * [Цыпленок под имбирно-мандариновым соусом с мёдом и травами](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/tsiplenok_pod_imbirno-mandarinovim_sousom_s_myodom.html)
   * [Цыпленок тандури](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/tsiplenok_tanduri.html)
   * [Цыплята фаршированные рисом и фаршем](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/tsiplyata_farshirovannie_risom_i_farshem.html)
-* [Морепродукты](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/ix.html) 
+* Морепродукты
   * [Гратэн с гребешками](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/graten-s-grebeshkami.html)
   * [Запеченный осьминог под устричным соусом](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/zapechennyi-osminog-pod-ustrichnym-sousom.html)
   * [Кальмары в томатном соусе с сладким перцем и оливками](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/kalmari_v_tomatnom_souse_s_sladkim_pertsem_i_olivk.html)
@@ -128,7 +128,7 @@
   * [Мидии с пармезаном и белым вином](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/midii-s-parmezanom-i-belim-vinom.html)
   * [Осьминог а-ля по-галисийски \| Pulpo a la gallega](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/osminog-a-lya-po-galisiiski-or-pulpo-a-la-gallega.html)
   * [Тефтели из креветок](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/tefteli-iz-krevetok.html)
-* [Мясо](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/ix.html) 
+* Мясо
   * [Жаркое из баранины](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/zharkoe-iz-baraniny.html)
   * [Запеченная нога ягненка / Coscia di agnello arrosto](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/zapechennaya-noga-yagnenka-coscia-di-agnello-arrosto.html)
   * [Ишли кюфта \| Içli köfte](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/ishli-kyufta-or-icli-koefte.html)
@@ -139,21 +139,21 @@
   * [Фаршированный батат](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/stuffed-sweet-potato.html)
   * [Фрикадельки с яблочным сидром \| Slow Cooker Apple Cider Maple Meatballs](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/apple-cider-maple-meatballs.html)
   * [Яйцо по-шотландски](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/scottish-eggs.html)
-* [Намазки](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/ix.html) 
-  * [Дипы](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%94%D0%B8%D0%BF%D1%8B/ix.html) 
+* Намазки
+  * Дипы
     * [Сырный дип с пивом и беконом](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%94%D0%B8%D0%BF%D1%8B/syrnyi-dip-s-pivom-i-bekonom.html)
-  * [Намазки без мяса](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%BC%D1%8F%D1%81%D0%B0/ix.html) 
+  * Намазки без мяса
     * [Намазка из лимской фасоли](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%BC%D1%8F%D1%81%D0%B0/lima-beans-spread.html)
     * [Паштет из белых грибов](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%BC%D1%8F%D1%81%D0%B0/pashtet-iz-belykh-gribov.html)
-  * [Паштеты](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9F%D0%B0%D1%88%D1%82%D0%B5%D1%82%D1%8B/ix.html) 
+  * Паштеты
     * [Паштет из куриной печени с горохом нут и тимьяном](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9F%D0%B0%D1%88%D1%82%D0%B5%D1%82%D1%8B/pashtet_iz_kurinoi_pecheni_s_gorohom_nut_i_timyano.html)
     * [Паштет из яиц](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9F%D0%B0%D1%88%D1%82%D0%B5%D1%82%D1%8B/pashtet_iz_yaits.html)
     * [Пряный паштет из куриной печени](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9F%D0%B0%D1%88%D1%82%D0%B5%D1%82%D1%8B/pryanii_pashtet_iz_kurinoi_pecheni.html)
   * [Томатный джем](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/tomato-jam.html)
-* [Напитки](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BF%D0%B8%D1%82%D0%BA%D0%B8/ix.html) 
+* Напитки
   * [Лавандовый горячий шоколад](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BF%D0%B8%D1%82%D0%BA%D0%B8/lavandovyi-goryachii-shokolad.html)
-* [Паста и ризотто](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/ix.html) 
-  * [Лазанья](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/ix.html) 
+* Паста и ризотто
+  * Лазанья
     * [Ziti al forno  \| Зити запеченные в томатном соусе с маленькими фрикадельками](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/zitti-al-forno.html)
     * [Запеченная паста с курицей и шпинатом](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/pasta-s-kuricej-i-shpinatom.html)
     * [Каннеллони с болоньезе из печени](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/kanelone-s-boloneze-iz-pechenki.html)
@@ -162,7 +162,7 @@
     * [Пастицио \| Παστίτσιο](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/pasticio.html)
     * [Ракушки из макарон с начинкой из тыквы и сыра](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/butternut-squash-and-cheese-stuffed-pasta-shells.html)
     * [Сырная лазанья](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/syrnaya-lazanya.html)
-  * [Паста](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/ix.html) 
+  * Паста
     * [Лингвини с вонголе \| Linguine alle vongole](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/lingvini-s-vongole-or-linguine-alle-vongole.html)
     * [Орзо с креветками, белой рыбой и чоризо](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/orzo-s-krevetkami-i-chorizo.html)
     * [Острая мисо карбонара](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/miso-carbonara.html)
@@ -185,25 +185,25 @@
     * [Спагетти с чесноком и фундуком и запеченным шампиньоном](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/spagetti-s-chesnokom-i-fundukom-i-zapechennim-shampinonom.html)
     * [Творожная паста](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/cottage-cheese-pasta.html)
     * [Феттуччини с лисичками и эстрагоном](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/fettuchchini-s-lisichkami-i-estragonom.html)
-  * [Полента](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D1%82%D0%B0/ix.html) 
+  * Полента
     * [Полента с жареными помидорами и козьим сыром](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D1%82%D0%B0/polenta-tomato.html)
     * [Полента с лисичками, нутом и песто](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D1%82%D0%B0/polenta-s-lisichkami-nutom-i-pesto.html)
-  * [Ризотто](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/ix.html) 
+  * Ризотто
     * [Ризотто по-милански \| Risotto Milanese](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto-milanese.html)
     * [Ризотто с зелёным горошком и рукколой](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/rizotto-s-zelyonym-goroshkom-i-rukkoloj.html)
     * [Ризотто с лисичками. Ванильное \| Risotto aux girolles](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto_aux_girolles_-_rizotto_s_lisichkami_vaniln.html)
     * [Ризотто с лососем и зелёным горошком \| Risotto au saumon et petits pois](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto_au_saumon_et_petits_pois_-_rizotto_s_losos.html)
     * [Ризотто с мидиями](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/rizotto-s-midiyami.html)
     * [Томатное ризотто с мидиями](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/tomatnoe-rizotto-s-midiyami.html)
-* [Пилаф](https://mars9n9.github.io/%D0%9F%D0%B8%D0%BB%D0%B0%D1%84/ix.html) 
+* Пилаф
   * [Паэлья из куриных потрохов](https://mars9n9.github.io/%D0%9F%D0%B8%D0%BB%D0%B0%D1%84/paella-kurica.html)
-* [Пицца](https://mars9n9.github.io/%D0%9F%D0%B8%D1%86%D1%86%D0%B0/ix.html) 
+* Пицца
   * [Базовый томатный соус для пиццы](https://mars9n9.github.io/%D0%9F%D0%B8%D1%86%D1%86%D0%B0/bazovyi-tomatnyi-sous-dlya-piccy.html)
   * [Пицца «Салями пиканте»](https://mars9n9.github.io/%D0%9F%D0%B8%D1%86%D1%86%D0%B0/pizza-salami.html)
   * [Пицца с грибами, чесноком и шпинатом](https://mars9n9.github.io/%D0%9F%D0%B8%D1%86%D1%86%D0%B0/mushroom-garlic-spinach-pizza.html)
   * [Тесто для пиццы](https://mars9n9.github.io/%D0%9F%D0%B8%D1%86%D1%86%D0%B0/testo-dlya-piccy.html)
   * [Тесто для пиццы без замеса](https://mars9n9.github.io/%D0%9F%D0%B8%D1%86%D1%86%D0%B0/testo-bez-zamesa.html)
-* [Рагу](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/ix.html) 
+* Рагу
   * [Žgvacet od kokoši/ Жгвацет из курицы по-истрийски](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/Zgvacet.html)
   * [Баттер Чикен \| Butter Chicken \| Murgh makhani](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/butter_chicken.html)
   * [Бланкет из телятины à l'ancienne \| Blanquette de veau à l'ancienne](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/blanquette_de_veau_a_lancienne.html)
@@ -216,7 +216,7 @@
   * [Тушёный свиной карбонад с опятами](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/tushyonyi-svinoi-karbonat-s-opyatami.html)
   * [Чили с говядиной \| Chilli Con Carne](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/chili_con_carne.html)
   * [Ягненок с финиками и курагой по-мароккански](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/yagnenok-s-finikami-po-marrokanski.html)
-* [Рыба](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/ix.html) 
+* Рыба
   * [Fiskgratang  \| Рыбный гратен](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/Fiskgratang.html)
   * [Гратен с сардинами, рисом и шпинатом](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/graten-s-sardinami-risom-i-shpinatom.html)
   * [Жареная рыба в пряной панировке](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/zharenaya_riba_v_pryanoi_panirovke.html)
@@ -227,7 +227,7 @@
   * [Лосось с белыми грибами](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/losos-s-belymi-gribami.html)
   * [Рыба в картофельной корочке с ароматными травами \| Pesce in crosta di patate con erbe aromatiche](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/ryba-v-kartofelnoi-korochke-s-aromatnymi-travami-or-pesce-in-crosta-di-patate-con-erbe-aromatiche.html)
   * [Стейки форели с вустерским соусом,мёдом и тимьяном](https://mars9n9.github.io/%D0%A0%D1%8B%D0%B1%D0%B0/steiki-foreli-s-vusterskim-sousommyodom-i-timyanom.html)
-* [Салаты](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/ix.html) 
+* Салаты
   * [Греческий салат](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/grecheskii_salat.html)
   * [Зеленый салат с русским соусом](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/zelenii_salat_s_russkim_sousom.html)
   * [Картофельный с шампиньонами и яйцом](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/summer-salad-bowl.html)
@@ -282,7 +282,7 @@
   * [Тёплый салат из сезонных овощей](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/tyoplii-salat-iz-sezonnih-ovoschei.html)
   * [Теплый салат с курицей и шпинатом](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/teplii_salat_s_kuritsei_i_shpinatom.html)
   * [Хрустящий салат с зеленой фасолью](https://mars9n9.github.io/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%D1%8B/hrustyaschii_salat_s_zelenoi_fasolyu.html)
-* [Соусы](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/ix.html) 
+* Соусы
   * [Cоус руй \| Rouille](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/rouille.html)
   * [Salsa verde](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/salsa_verde.html)
   * [Бешамель](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/besciamella.html)
@@ -294,13 +294,13 @@
   * [Соус Альфредо \(Alfredo Sauce\)](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/sous_alfredo.html)
   * [Соус Болоньезе](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/sous_boloneze.html)
   * [Сырный соус](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/cheese.html)
-* [Субпродукты](https://mars9n9.github.io/%D0%A1%D1%83%D0%B1%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/ix.html) 
+* Субпродукты
   * [Бефстроганов из печени](https://mars9n9.github.io/%D0%A1%D1%83%D0%B1%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/befstroganov-iz-pecheni.html)
   * [Крем-брюле из печенки с инжиром](https://mars9n9.github.io/%D0%A1%D1%83%D0%B1%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/krem-bryule-iz-pechenki-s-inzhirom.html)
   * [Куриные сердечки на шпажках](https://mars9n9.github.io/%D0%A1%D1%83%D0%B1%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/kurinye-serdechki-na-shpazhkakh.html)
   * [Сациви из печени](https://mars9n9.github.io/%D0%A1%D1%83%D0%B1%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/sacivi-iz-pecheni.html)
   * [Шашлычки из печени с имбирем](https://mars9n9.github.io/%D0%A1%D1%83%D0%B1%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/shashlychki-iz-pecheni-s-imbirem.html)
-* [Супы](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/ix.html) 
+* Супы
   * [risovii-cup-s-kuritsei-chicken-congee.md](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/risovii-cup-s-kuritsei-chicken-congee.html)
   * [Авголемоно \| Avgolemono](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/avgolemono.html)
   * [Борщ](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/borshch.html)
@@ -346,7 +346,7 @@
   * [Чихиртма](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/kurinaya_chihirtma_gustoi_kurinii_sup_gruzinskaya_.html)
   * [Шотландский суп с бараниной и смесью круп](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/shotlandskii_sup_s_baraninoi_i_smesyu_krup.html)
   * [Яичный хлебный суп \| Zuppa Pavese](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/yaichnii_hlebnii_sup_zuppa_pavese.html)
-* [Хлеб](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/ix.html) 
+* Хлеб
   * [Naan - индийские лепешки](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/naan-indiiskie-lepeshki.html)
   * [Pain Rustique](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/pain-rustique.html)
   * [Pan de cristal](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/pan-de-cristal.html)
