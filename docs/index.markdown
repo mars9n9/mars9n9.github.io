@@ -288,6 +288,7 @@
   * [Salsa verde](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/salsa_verde.html)
   * [Бешамель](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/besciamella.html)
   * [Голландский соус \| Sauce hollandaise](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/sauce_hollandaise.html)
+  * [Дзадзики](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/dzadzyki.html)
   * [Креольский майонез](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/kreolskii_maionez.html)
   * [Майонез \| La mayonnaise](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/la_mayonnaise.html)
   * [Маринара \| Alla marinara](https://mars9n9.github.io/%D0%A1%D0%BE%D1%83%D1%81%D1%8B/marinara.html)
