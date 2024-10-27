@@ -144,7 +144,7 @@
     * [Сырный дип с пивом и беконом](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%94%D0%B8%D0%BF%D1%8B/syrnyi-dip-s-pivom-i-bekonom.html)
   * Намазки без мяса
     * [Намазка из лимской фасоли](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%BC%D1%8F%D1%81%D0%B0/lima-beans-spread.html)
-    * [Паштет из белых грибов](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%BC%D1%8F%D1%81%D0%B0/pashtet-iz-belykh-gribov.html)
+    * [Паштет из грибов](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%BC%D1%8F%D1%81%D0%B0/pashtet-iz-belykh-gribov.html)
   * Паштеты
     * [Паштет из куриной печени с горохом нут и тимьяном](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9F%D0%B0%D1%88%D1%82%D0%B5%D1%82%D1%8B/pashtet_iz_kurinoi_pecheni_s_gorohom_nut_i_timyano.html)
     * [Паштет из яиц](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/%D0%9F%D0%B0%D1%88%D1%82%D0%B5%D1%82%D1%8B/pashtet_iz_yaits.html)
@@ -339,6 +339,7 @@
   * [Тосканский крем-суп из белой фасоли](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/tuscan-white-bean-soup.html)
   * [Тосканский суп из фасоли с беконом](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/toskanskii_sup_iz_fasoli_s_rozmarinom.html)
   * [Турецкий чечевичный суп с мятой \(мерджимек-чорбасы\)](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/turetskii_chechevichnii_sup_s_myatoi.html)
+  * [Тыквенный суп на пиве](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/smoky-pumpkin-beer-and-cheddar-potato-soup.html)
   * [Тыквенный суп с пармезаном и корицей](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/tikvennii_sup_s_parmezanom_i_koritsei.html)
   * [Финский рыбный суп \| Kalakeitto](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/finskii_ribnii_sup_kalakeitto.html)
   * [Чаудер с беконом](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/chauder-s-bekonom.html)
