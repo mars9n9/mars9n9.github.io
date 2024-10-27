@@ -189,6 +189,7 @@
     * [Полента с жареными помидорами и козьим сыром](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D1%82%D0%B0/polenta-tomato.html)
     * [Полента с лисичками, нутом и песто](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D1%82%D0%B0/polenta-s-lisichkami-nutom-i-pesto.html)
   * Ризотто
+    * [Ризотто из пшена с тыквой и креветками](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto-tikva-krevetka.html)
     * [Ризотто по-милански \| Risotto Milanese](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto-milanese.html)
     * [Ризотто с зелёным горошком и рукколой](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/rizotto-s-zelyonym-goroshkom-i-rukkoloj.html)
     * [Ризотто с лисичками. Ванильное \| Risotto aux girolles](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto_aux_girolles_-_rizotto_s_lisichkami_vaniln.html)
