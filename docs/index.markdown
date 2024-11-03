@@ -2,6 +2,7 @@
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
   * [Лосось с ньокки](https://mars9n9.github.io/Simple%20dinners/SALMON-GNOCCHI.html)
 * Tips
+  * [Картошка в духовке](https://mars9n9.github.io/Tips/potato-baked.html)
   * [Котлеты](https://mars9n9.github.io/Tips/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B.html)
   * [Подготовка языка](https://mars9n9.github.io/Tips/preparation-tongue.html)
   * [Простейший способ закоптить что-то быстренько.](https://mars9n9.github.io/Tips/%D0%9A%D0%BE%D0%BF%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.html)
