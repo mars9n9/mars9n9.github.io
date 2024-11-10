@@ -377,6 +377,7 @@
   * [Утренние булки на закваске](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/utrennie-bulki.html)
   * [Фокачча по рецепту Ришара Бертине](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/fokachcha-po-receptu-rishara-bertine.html)
   * [Фугас с карамелизованным чесноком, сыром грюйер и шкварками из бекона](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/fugas-s-karamelizovannim-chesnokom-sirom-gryuier-i-shkvarkami-iz-bekona.html)
+  * [Хычины](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/hichini.html)
   * [Цельнозерновой 100% на закваске](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/celnozernovoi-100.html)
   * [Яблочный хлеб на закваске](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/yablochnyi-khleb-na-zakvaske.html)
   * [Японский хлеб](https://mars9n9.github.io/%D0%A5%D0%BB%D0%B5%D0%B1/jpn-bread.html)
