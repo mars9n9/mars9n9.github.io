@@ -10,6 +10,7 @@
   * [Рис для суши](https://mars9n9.github.io/Tips/rice.html)
 * Блины
   * [Катаеф \(с сыром\)](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/kataef.html)
+  * [Панкейки](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/pancake.html)
   * [Тесто для тонких блинчиков на молоке или пиве](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/la_pate_a_crepes.html)
 * Бутерброды и бургеры
   * Сендвичи
