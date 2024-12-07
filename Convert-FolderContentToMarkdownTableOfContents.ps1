@@ -20,6 +20,9 @@ function Convert-FolderContentToMarkdownTableOfContents {
 		else {
 			$suffix = "https://mars9n9.github.io/" + $($BaseFolder.Split("\")[-1]) + "/" + $($dir.Name)
   }
+		# Check if ix.md exists in the current directory
+		$ixFile = Get-ChildItem -Path $dir.FullName -Filter "ix.md" -ErrorAction SilentlyContinue
+
   if ($ixFile) {
 			# If ix.md exists, create a link for the folder using the full path including the base folder
 			$relativePath = $dir.FullName.Replace((Get-Item $BaseFolder).Parent.FullName, "").TrimStart("\").Replace("\", "/")
