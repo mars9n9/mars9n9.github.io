@@ -10,23 +10,23 @@ function Convert-FolderContentToMarkdownTableOfContents {
 	$nl = [System.Environment]::NewLine
 	$TOC = ""
 	
-	$repoFolderStructure = Get-ChildItem -Path $BaseFolder -Directory | Where-Object Name -NotMatch "_site|pics|_posts|styles"
+	$repoFolderStructure = Get-ChildItem -Path $BaseFolder -Directory | Where-Object Name -NotMatch "_site|pics|_posts|styles|_layouts"
  
 	foreach ($dir in ($repoFolderStructure | Sort-Object -Property Name)) {
 		
-		if ($Level -eq 0) {
-			$suffix = "https://mars9n9.github.io/" + $($dir.Name)
-  }
-		else {
-			$suffix = "https://mars9n9.github.io/" + $($BaseFolder.Split("\")[-1]) + "/" + $($dir.Name)
-  }
+		
 		# Check if ix.md exists in the current directory
 		$ixFile = Get-ChildItem -Path $dir.FullName -Filter "ix.md" -ErrorAction SilentlyContinue
 
   if ($ixFile) {
-			# If ix.md exists, create a link for the folder using the full path including the base folder
-			$relativePath = $dir.FullName.Replace((Get-Item $BaseFolder).Parent.FullName, "").TrimStart("\").Replace("\", "/")
-			$suffix = "https://mars9n9.github.io/$relativePath"
+			$relativePath = $ixFile.Directory.ToString().Replace((Get-Item $BaseFolder).Parent.FullName, "").TrimStart("\").Replace("\", "/")
+			if ($Level -eq 0) {
+				$suffix = "https://mars9n9.github.io" + $($ixFile.Directory.ToString().Replace($BaseFolder, [string]::Empty)).Replace("\", "/")
+			}
+			else {
+				$suffix = "https://mars9n9.github.io/$relativePath"
+			}
+
 			$TOC += "$(""  " * $Level)* [$($dir.Name)]($([uri]::EscapeUriString(""$suffix/ix.html"")))$nl"
 		}
 		else {
@@ -39,11 +39,15 @@ function Convert-FolderContentToMarkdownTableOfContents {
  
 		foreach ($md in ($repoStructure | Where-Object Name -NotMatch "ix.md" | Sort-Object -Property Name)) {
 			$file_data = Get-Content "$($md.Directory.ToString())\$($md.Name)"  -Encoding UTF8
-			if ($file_data.count -gt 0) {
-				$fileName = $file_data[0] -replace "# "
-   }
-			else {
+			# Find the first line starting with '#'
+			$fileName = $file_data | Where-Object { $_ -match "^#" } | Select-Object -First 1
+			if ($null -eq $fileName) {
+				# If no line starts with '#', default to the file name
 				$fileName = $($md.Name)
+			}
+			else {
+				# Remove the '#' and any leading/trailing spaces
+				$fileName = $fileName -replace "^#\s*", ""
 			}
 			$relativePath = $md.Directory.ToString().Replace((Get-Item $BaseFolder).Parent.FullName, "").TrimStart("\").Replace("\", "/")
 			if ($Level -eq 0) {
