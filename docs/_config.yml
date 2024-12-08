@@ -1,6 +1,7 @@
 site_name: Mars9n9's cookbook
 author: Mars9n9
-theme: jekyll-theme-minimal
+title: Mars9n9's cookbook
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
