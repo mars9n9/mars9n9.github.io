@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/4c2f0b12055d5d0ce02e60a8ca8e4fca-1-.jpg
+---
 # Котлеты из рыбы и кpeвeток
 
 ![Котлеты из рыбы и кpeвeток](../pics/4c2f0b12055d5d0ce02e60a8ca8e4fca-1-.jpg)

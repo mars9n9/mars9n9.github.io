@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/originals/64/ec/bd/64ecbdab8abc8d7997163352e52986d9.jpg
+---
 # Салат из свеклы с козьим сыром и медовой заправкой
 
 ![](https://s-media-cache-ak0.pinimg.com/originals/64/ec/bd/64ecbdab8abc8d7997163352e52986d9.jpg)

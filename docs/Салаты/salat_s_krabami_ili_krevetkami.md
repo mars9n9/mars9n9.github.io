@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/94/19/c5/9419c5b66458ab13c41e240c22aed2a9.jpg
+---
 # Салат из морепродуктов с кускусом или пастой
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/94/19/c5/9419c5b66458ab13c41e240c22aed2a9.jpg)

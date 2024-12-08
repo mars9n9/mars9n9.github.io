@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/72/26/7d/72267db6b0877a7dd6f2093ac60371c8.jpg
+---
 # Курица запеченная в горчичном соусе
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/72/26/7d/72267db6b0877a7dd6f2093ac60371c8.jpg)

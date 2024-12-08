@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/Roasted-Tomatoes-with-Satueed-Spinach-and-Polenta.jpg
+---
 # Полента с жареными помидорами и козьим сыром
 
 ![Полента с жареными помидорами и козьим сыром](../../pics/Roasted-Tomatoes-with-Satueed-Spinach-and-Polenta.jpg)

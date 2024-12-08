@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/71836732_krevetki_v_iogurtovom_souse_s_chesnokom_i_kinzoi_inside.jpg
+---
 # Креветки в йогуртовом соусе с чесноком и кинзой
 
 ![Креветки в йогуртовом соусе с чесноком и кинзой](../pics/71836732_krevetki_v_iogurtovom_souse_s_chesnokom_i_kinzoi_inside.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/22/a9/0f/22a90f7c079ba78d8d73a5e9c4ac558e.jpg
+---
 # Салат с фасолью и креветками \| Insalata di fagioli e gamberi
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/22/a9/0f/22a90f7c079ba78d8d73a5e9c4ac558e.jpg)

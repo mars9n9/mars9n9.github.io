@@ -1,3 +1,6 @@
+﻿---
+image: ..\pics\728836862f731dcfa6b532f2ace8b4ed.jpg
+---
 # Борщ
 
 ![Борщ](..\pics\728836862f731dcfa6b532f2ace8b4ed.jpg)

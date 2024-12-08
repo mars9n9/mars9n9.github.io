@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/e6/5c/fc/e65cfc445405f87e4eed982e65f62fb1.jpg
+---
 # Куриное филе с грибами и сыром
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/e6/5c/fc/e65cfc445405f87e4eed982e65f62fb1.jpg)

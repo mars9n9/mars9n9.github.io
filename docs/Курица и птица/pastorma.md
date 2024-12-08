@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/c2/0b/4e/c20b4e5a8919d7036a014bba4e6bdef5.jpg
+---
 # Пасторма
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/c2/0b/4e/c20b4e5a8919d7036a014bba4e6bdef5.jpg)

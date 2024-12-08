@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/ff/73/b8/ff73b8a67a852ba4a0675e735408554b.jpg
+---
 # Мексиканский суп из фасоли
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/ff/73/b8/ff73b8a67a852ba4a0675e735408554b.jpg)

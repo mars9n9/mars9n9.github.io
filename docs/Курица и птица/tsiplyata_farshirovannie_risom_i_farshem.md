@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/a7/e7/37/a7e737adf62f36abc72b673f10575705.jpg
+---
 # Цыплята фаршированные рисом и фаршем
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/a7/e7/37/a7e737adf62f36abc72b673f10575705.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/09/29/bf/0929bfef4c2c1c6ea026cf38817036b8.jpg
+---
 # Зеленый салат с русским соусом
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/09/29/bf/0929bfef4c2c1c6ea026cf38817036b8.jpg)

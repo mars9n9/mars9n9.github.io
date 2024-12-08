@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/zgvacet-od-kokosi-mini00-800x350.jpg
+---
 # Žgvacet od kokoši/ Жгвацет из курицы по-истрийски
 
 ![Žgvacet od kokoši](../pics/zgvacet-od-kokosi-mini00-800x350.jpg)

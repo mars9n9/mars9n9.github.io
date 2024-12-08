@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/3e/4d/4b/3e4d4bf2489d02ba03a2d1f30fb632c0.jpg
+---
 # Сливочный томатный суп-лапша
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/3e/4d/4b/3e4d4bf2489d02ba03a2d1f30fb632c0.jpg)

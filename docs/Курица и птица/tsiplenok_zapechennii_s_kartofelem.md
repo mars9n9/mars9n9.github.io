@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/9c/11/5d/9c115dcbeada5ae373ce741b9a48b785.jpg
+---
 # Цыпленок запеченный с картофелем
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/9c/11/5d/9c115dcbeada5ae373ce741b9a48b785.jpg)

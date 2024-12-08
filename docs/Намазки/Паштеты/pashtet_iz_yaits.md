@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/6d/91/6b/6d916b3d7cd558dc40963bdb42ea7b23.jpg
+---
 # Паштет из яиц
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/6d/91/6b/6d916b3d7cd558dc40963bdb42ea7b23.jpg)

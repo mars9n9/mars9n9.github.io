@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/b1/d8/95/b1d895c0dc7202e9955c7f6fca6a3229.jpg
+---
 # Курица запеченная целиком с заатаром, лимоном и мятой
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/b1/d8/95/b1d895c0dc7202e9955c7f6fca6a3229.jpg)

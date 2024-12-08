@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/melzanzane_17.jpg
+---
 # Рыба в картофельной корочке с ароматными травами \| Pesce in crosta di patate con erbe aromatiche
 
 ![](../pics/melzanzane_17.jpg)

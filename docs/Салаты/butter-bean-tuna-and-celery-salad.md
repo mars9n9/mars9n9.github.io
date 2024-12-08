@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/9a/e9/02/9ae9027d2f9d3e36aaf4324c57a42e82.jpg
+---
 # С фасолью, тунцом и сельдереем
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/9a/e9/02/9ae9027d2f9d3e36aaf4324c57a42e82.jpg)

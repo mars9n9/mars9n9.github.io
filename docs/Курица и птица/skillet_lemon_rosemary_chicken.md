@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/e6/1a/3a/e61a3a639b78bfef7d15f05df54deb80.jpg
+---
 # Курица с лимоном и розмарином \| Skillet Lemon Rosemary Chicken
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/e6/1a/3a/e61a3a639b78bfef7d15f05df54deb80.jpg)

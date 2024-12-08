@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/54/8b/f9/548bf97b23310652ccc3eb243dce7056.jpg
+---
 # Булочки с начинкой из трех видов сыра
 
 ![Булочки с начинкой из трех видов сыра](https://s-media-cache-ak0.pinimg.com/564x/54/8b/f9/548bf97b23310652ccc3eb243dce7056.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/be/db/39/bedb39bb87faac4a0d2c0beca7c5bc86.jpg
+---
 # Цыпленок под имбирно-мандариновым соусом с мёдом и травами
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/be/db/39/bedb39bb87faac4a0d2c0beca7c5bc86.jpg)

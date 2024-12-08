@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/79/0d/09/790d093e1552288b964d5cd9f5c772b8.jpg
+---
 # Лосось с белыми грибами
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/79/0d/09/790d093e1552288b964d5cd9f5c772b8.jpg)

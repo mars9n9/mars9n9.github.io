@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/boeuf_bourguignon_25475_16x9.jpg
+---
 # Говядина по-бургундски \| Boeuf bourguignon
 
 ![](../pics/boeuf_bourguignon_25475_16x9.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/70/74/49/707449611a7b1840050d7b5b3d0e0700.jpg
+---
 # Суп с соевыми ростками и говядиной \(Beef Pho Noodle Soup, Phở bò tái\)
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/70/74/49/707449611a7b1840050d7b5b3d0e0700.jpg)

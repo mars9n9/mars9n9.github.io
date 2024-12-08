@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/midii-s-parmezanom-i-belim-vinom-16629.jpg
+---
 # Мидии с пармезаном и белым вином
 
 ![Мидии с пармезаном и белым вином](../pics/midii-s-parmezanom-i-belim-vinom-16629.jpg)

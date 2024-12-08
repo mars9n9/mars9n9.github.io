@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/4f/28/d3/4f28d3f2b45ff75b7e43fa4a8f5d3752.jpg
+---
 # Салат с помидорами и анчоусами
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/4f/28/d3/4f28d3f2b45ff75b7e43fa4a8f5d3752.jpg)

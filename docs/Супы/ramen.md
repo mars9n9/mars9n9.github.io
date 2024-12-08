@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/236x/88/59/59/885959efc603b1858959ad2e6b507c39.jpg
+---
 # Рамен \| Ramen
 
 [_http://lyukum.livejournal.com/_](http://lyukum.livejournal.com/)

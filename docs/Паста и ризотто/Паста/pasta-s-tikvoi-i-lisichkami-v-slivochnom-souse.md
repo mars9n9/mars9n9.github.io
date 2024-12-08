@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/pasta-s-tykvoi-i-lisichkami-1.jpg
+---
 # Паста с тыквой и лисичками в сливочном соусе
 
 ![Паста с тыквой и лисичками в сливочном соусе](../../pics/pasta-s-tykvoi-i-lisichkami-1.jpg)

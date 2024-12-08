@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/02dce25fb70bef390ccad3e126c2999b.jpg
+---
 # Лазанья
 
 ![Лазанья](../../pics/02dce25fb70bef390ccad3e126c2999b.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/c2ea05bd25bb98f94111e63b13eec3cc.jpg
+---
 # Ризотто
 
 ![Ризотто](../../pics/c2ea05bd25bb98f94111e63b13eec3cc.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/76/2a/f1/762af1679567282e7b1b70200a4c5eaa.jpg
+---
 # Салат с грушей, абрикосовым конфитюром и брынзой
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/76/2a/f1/762af1679567282e7b1b70200a4c5eaa.jpg)

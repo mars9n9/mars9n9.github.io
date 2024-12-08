@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/34/a3/98/34a398d3a1f085d22925140c8cca8b7a.jpg
+---
 # Сырный суп по французски с курицей
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/34/a3/98/34a398d3a1f085d22925140c8cca8b7a.jpg)

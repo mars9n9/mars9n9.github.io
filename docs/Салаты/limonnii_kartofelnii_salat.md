@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/f4/00/81/f4008101316d8e293500996fa6342cd9.jpg
+---
 # Лимонный картофельный салат
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/f4/00/81/f4008101316d8e293500996fa6342cd9.jpg)

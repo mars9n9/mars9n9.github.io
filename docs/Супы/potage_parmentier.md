@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/3c/3b/67/3c3b674e166d67025f2aba87ea1d0e3b.jpg
+---
 # Крем-суп Пармантье \| Potage Parmentier
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/3c/3b/67/3c3b674e166d67025f2aba87ea1d0e3b.jpg)

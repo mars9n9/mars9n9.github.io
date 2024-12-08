@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/Butternut-Squash-and-Cheese-Stuffed-Pasta-Shells-6-700x1050.jpg
+---
 # Ракушки из макарон с начинкой из тыквы и сыра
 
 ![Ракушки из макарон с начинкой из тыквы и сыра](../../pics/Butternut-Squash-and-Cheese-Stuffed-Pasta-Shells-6-700x1050.jpg)

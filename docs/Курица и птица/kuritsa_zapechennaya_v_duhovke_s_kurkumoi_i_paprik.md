@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/90/b2/be/90b2be17d253c1431c087ff324dfcc34.jpg
+---
 # Курица запеченная в духовке с куркумой и паприкой
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/90/b2/be/90b2be17d253c1431c087ff324dfcc34.jpg)

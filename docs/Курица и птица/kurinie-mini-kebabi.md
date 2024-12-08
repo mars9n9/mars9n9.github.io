@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/384bfc241ed8f6f90e39b.jpg
+---
 # Куриные мини кебабы
 
 ![](../pics/384bfc241ed8f6f90e39b.jpg)

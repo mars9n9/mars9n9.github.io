@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/kouah-liver-brochettes-nada-740x555.jpg.webp
+---
 # Шашлычки из печени с имбирем
 
 ![](../pics/kouah-liver-brochettes-nada-740x555.jpg.webp)

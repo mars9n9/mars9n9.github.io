@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/36/86/36/368636d4ce871c9a14809350b3b440f8.jpg
+---
 # Жареная рыба в пряной панировке
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/36/86/36/368636d4ce871c9a14809350b3b440f8.jpg)

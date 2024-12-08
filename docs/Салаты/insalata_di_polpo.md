@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/0c/e6/15/0ce61531dab56939a7b698cd286d4079.jpg
+---
 # Салат с осьминогом и картофелем \| Insalata di polpo
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/0c/e6/15/0ce61531dab56939a7b698cd286d4079.jpg)

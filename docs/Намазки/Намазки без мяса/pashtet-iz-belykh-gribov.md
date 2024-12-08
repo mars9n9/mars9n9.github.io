@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/cb/ec/b8/cbecb809a428f4979002d4a31538890b.jpg
+---
 # Паштет из грибов
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/cb/ec/b8/cbecb809a428f4979002d4a31538890b.jpg)

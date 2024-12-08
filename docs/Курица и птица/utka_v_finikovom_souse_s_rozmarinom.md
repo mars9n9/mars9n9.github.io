@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/1c/67/f8/1c67f8d628a3da0a5ccd5148731a7c45.jpg
+---
 # Утка в финиковом соусе с розмарином
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/1c/67/f8/1c67f8d628a3da0a5ccd5148731a7c45.jpg)

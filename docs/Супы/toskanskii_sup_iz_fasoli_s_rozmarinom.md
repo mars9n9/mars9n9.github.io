@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/9d/e7/e9/9de7e945a75960f3f61772e2cf1093fc.jpg
+---
 # Тосканский суп из фасоли с беконом
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/9d/e7/e9/9de7e945a75960f3f61772e2cf1093fc.jpg)

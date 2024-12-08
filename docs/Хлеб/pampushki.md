@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/e18deff1-be8e-4c33-aecf-5bfd2e741475.jpg
+---
 # Пампушки
 
 ![Пампушки](../../pics/e18deff1-be8e-4c33-aecf-5bfd2e741475.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/2b/1b/c6/2b1bc6520fe582699ccf332ed5d298cf.jpg
+---
 # Крем-суп из шампиньонов
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/2b/1b/c6/2b1bc6520fe582699ccf332ed5d298cf.jpg)

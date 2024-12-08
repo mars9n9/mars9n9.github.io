@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/salmon-gnochi.png
+---
 # Лосось с ньокки
 
 ![Лосось с ньокки](../pics/salmon-gnochi.png)

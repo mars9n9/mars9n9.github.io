@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/d20cd5511676f7e064f31bf7bba0d265.jpg
+---
 # Курица в глазури из вермута \| Chicken with crisp mahogany
 
 ![Chicken with crisp mahogany](../pics/d20cd5511676f7e064f31bf7bba0d265.jpg)

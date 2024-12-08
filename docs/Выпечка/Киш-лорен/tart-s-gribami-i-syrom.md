@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/tart-s-gribami-i-syrom-1.jpg
+---
 # Тарт с грибами и сыром
 
 ![Тарт с грибами и сыром](../../pics/tart-s-gribami-i-syrom-1.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/236x/bd/e3/ac/bde3ac7865b37dc83589ef47596e6bb4.jpg
+---
 # Паштет из куриной печени с горохом нут и тимьяном
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/bd/e3/ac/bde3ac7865b37dc83589ef47596e6bb4.jpg)

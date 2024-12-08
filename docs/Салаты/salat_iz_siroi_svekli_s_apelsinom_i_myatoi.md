@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/64/81/79/648179d311163c0ee7c56058571c4ba2.jpg
+---
 # Салат из сырой свеклы с апельсином и мятой
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/64/81/79/648179d311163c0ee7c56058571c4ba2.jpg)

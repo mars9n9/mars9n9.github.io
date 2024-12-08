@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/b7/68/4a/b7684a86a503cc7c8968af499e921f45.jpg
+---
 # Сытный салат с яйцом, тунцом и авокадо
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/b7/68/4a/b7684a86a503cc7c8968af499e921f45.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/5c/dd/9a/5cdd9a63a6e3be246c2e8f5505faad6d.jpg
+---
 # Стейки форели с вустерским соусом,мёдом и тимьяном
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/5c/dd/9a/5cdd9a63a6e3be246c2e8f5505faad6d.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/be/7c/d3/be7cd31dde6167b2cd5530fa86aae4b9.jpg
+---
 # Тесто для пиццы
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/be/7c/d3/be7cd31dde6167b2cd5530fa86aae4b9.jpg)

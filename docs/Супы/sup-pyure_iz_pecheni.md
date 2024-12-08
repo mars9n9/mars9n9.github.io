@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/4f/7e/16/4f7e16946005b059733c583c51e9d6bd.jpg
+---
 # Суп-пюре из печени
 ![](https://s-media-cache-ak0.pinimg.com/564x/4f/7e/16/4f7e16946005b059733c583c51e9d6bd.jpg)
 

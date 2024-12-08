@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/bacon-beer-cheese-dip-fall-appetizer-683x1024-1.jpg
+---
 # Сырный дип с пивом и беконом
 
 ![](../../pics/bacon-beer-cheese-dip-fall-appetizer-683x1024-1.jpg)

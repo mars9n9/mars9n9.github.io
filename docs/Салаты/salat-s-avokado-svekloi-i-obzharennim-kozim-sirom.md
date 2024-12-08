@@ -1,3 +1,6 @@
+﻿---
+image: https://i.pinimg.com/564x/19/53/3c/19533caa0e478bc4c927cfdd126b9525.jpg
+---
 # Салат с авокадо, свеклой и обжаренным козьим сыром
 
 ![](https://i.pinimg.com/564x/19/53/3c/19533caa0e478bc4c927cfdd126b9525.jpg)

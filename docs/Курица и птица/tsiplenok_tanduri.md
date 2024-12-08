@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/73/7d/e4/737de447e7aac469b15c14aab31293d2.jpg
+---
 # Цыпленок тандури
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/73/7d/e4/737de447e7aac469b15c14aab31293d2.jpg)

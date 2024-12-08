@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/03/dd/02/03dd02b39b71af79e35316510e116ba5.jpg
+---
 # Куриные ножки в остром лаймовом соусе \| Chicken buccaneer
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/03/dd/02/03dd02b39b71af79e35316510e116ba5.jpg)

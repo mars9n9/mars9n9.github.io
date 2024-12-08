@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/236x/64/c1/6a/64c16a50c402450b242f2fa6d4b77697.jpg
+---
 # Салат с редисом и картофелем
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/64/c1/6a/64c16a50c402450b242f2fa6d4b77697.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/45/6a/0e/456a0eee5ef5982403dfa5b21843dd49.jpg
+---
 # Мексиканский салат с кукурузой и авокадо
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/45/6a/0e/456a0eee5ef5982403dfa5b21843dd49.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/1bfbe4d210ea0ca05be91ae9851249ec.jpg
+---
 # Лазанья с грибами
 
 ![Лазанья с грибами](../../pics/1bfbe4d210ea0ca05be91ae9851249ec.jpg)

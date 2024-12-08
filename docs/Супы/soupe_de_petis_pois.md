@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/b59239124d29f474d0fe3bc1e913c1ef-1.jpg
+---
 # Крем-суп из зелёного горошка \| Soupe de petis pois
 
 ![&#x41A;&#x440;&#x435;&#x43C;-&#x441;&#x443;&#x43F; &#x438;&#x437; &#x437;&#x435;&#x43B;&#x451;&#x43D;&#x43E;&#x433;&#x43E; &#x433;&#x43E;&#x440;&#x43E;&#x448;&#x43A;&#x430; \| Soupe de petis pois](../pics/b59239124d29f474d0fe3bc1e913c1ef-1.jpg)

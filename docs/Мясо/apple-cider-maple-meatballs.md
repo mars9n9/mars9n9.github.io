@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/slow-cooker-apple-cider-maple-meatballs.webp
+---
 # Фрикадельки с яблочным сидром \| Slow Cooker Apple Cider Maple Meatballs
 
 ![](../pics/slow-cooker-apple-cider-maple-meatballs.webp)

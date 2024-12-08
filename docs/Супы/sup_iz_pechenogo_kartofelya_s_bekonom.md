@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/41/77/76/417776a3b58de8f597b8ea9ac1c1b7fb.jpg
+---
 # Суп из печеного картофеля с беконом
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/41/77/76/417776a3b58de8f597b8ea9ac1c1b7fb.jpg)

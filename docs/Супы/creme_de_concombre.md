@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/856d7d28f2eebc8eaba9f9bffe131756-1.jpg
+---
 # Крем-суп из огурца \| Crème de concombre
 
 ![&#x41A;&#x440;&#x435;&#x43C;-&#x441;&#x443;&#x43F; &#x438;&#x437; &#x43E;&#x433;&#x443;&#x440;&#x446;&#x430; \| Cr&#xE8;me de concombre](../pics/856d7d28f2eebc8eaba9f9bffe131756-1.jpg)

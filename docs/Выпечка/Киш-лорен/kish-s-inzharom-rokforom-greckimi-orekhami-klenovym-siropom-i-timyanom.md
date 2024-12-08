@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/feigen-quiche-roquefort-walnuesse-ahornsirup-thymian-1.jpg
+---
 # Киш с инжиром, рокфором, грецкими орехами, кленовым сиропом и тимьяном
 
 ![Киш с инжиром, рокфором, грецкими орехами, кленовым сиропом и тимьяном](../../pics/feigen-quiche-roquefort-walnuesse-ahornsirup-thymian-1.jpg)

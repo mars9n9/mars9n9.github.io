@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/originals/da/f2/ee/daf2ee860539c8b15e73f530b19ca4f4.jpg
+---
 # Теплый салат с курицей и шпинатом
 
 ![](https://s-media-cache-ak0.pinimg.com/originals/da/f2/ee/daf2ee860539c8b15e73f530b19ca4f4.jpg)

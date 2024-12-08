@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/42/1c/3b/421c3b8f81c7907d97afe5d301eef6d0.jpg
+---
 # Салат по-арагонски
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/42/1c/3b/421c3b8f81c7907d97afe5d301eef6d0.jpg)

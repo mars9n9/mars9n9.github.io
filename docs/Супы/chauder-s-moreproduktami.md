@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/nova-scotia-seafood-chowder-21-1-.jpg
+---
 # Чаудер с морепродуктами
 
 ![](../pics/nova-scotia-seafood-chowder-21-1-.jpg)

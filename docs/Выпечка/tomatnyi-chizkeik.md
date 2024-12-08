@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/fe88ced25c4ad5cb96b686fd521cc565.jpg
+---
 # Томатный чизкейк
 
 ![Томатный чизкейк](../pics/fe88ced25c4ad5cb96b686fd521cc565.jpg)

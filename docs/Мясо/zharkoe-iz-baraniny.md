@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/b3/09/12/b30912f9ff44c9bc29fa501ffaead5a0.jpg
+---
 # Жаркое из баранины
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/b3/09/12/b30912f9ff44c9bc29fa501ffaead5a0.jpg)

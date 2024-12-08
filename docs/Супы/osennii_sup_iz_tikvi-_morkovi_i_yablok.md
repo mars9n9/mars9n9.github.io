@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/21/32/0f/21320f5373714e752a2849c6947d9d4a.jpg
+---
 # Осенний суп из тыквы, моркови и яблок
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/21/32/0f/21320f5373714e752a2849c6947d9d4a.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/7b/38/2f/7b382fe92f3b3ad977b37fdade9e68f2.jpg
+---
 # Теплый салат из жаренной в хлебных крошках моцареллы, свеклы и картофеля
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/7b/38/2f/7b382fe92f3b3ad977b37fdade9e68f2.jpg)

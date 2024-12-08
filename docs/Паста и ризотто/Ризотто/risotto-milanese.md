@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/b91f671163b5cb2397c8763f83f98aaf.jpg
+---
 # Ризотто по-милански \| Risotto Milanese
 
 ![Risotto Milanese](../../pics/b91f671163b5cb2397c8763f83f98aaf.jpg)

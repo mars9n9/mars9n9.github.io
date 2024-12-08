@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/5c/71/f1/5c71f16f2664e8be3ed6e128c9bdb634.jpg
+---
 # Закарпатский банош с шкварками и брынзой
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/5c/71/f1/5c71f16f2664e8be3ed6e128c9bdb634.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/44/50/c7/4450c7fe3cb4566b24486fc76a4328a5.jpg
+---
 # Куриный суп с тыквой и соусом песто из рукколы
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/44/50/c7/4450c7fe3cb4566b24486fc76a4328a5.jpg)

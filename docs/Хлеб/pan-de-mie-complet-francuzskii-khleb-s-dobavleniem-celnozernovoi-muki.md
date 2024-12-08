@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/7c0edbe2-b9c5-48ec-8728-c8b9c916747e.jpg
+---
 # Pan de mie complet, французский хлеб с добавлением цельнозерновой муки
 
 ![](../../pics/7c0edbe2-b9c5-48ec-8728-c8b9c916747e.jpg)

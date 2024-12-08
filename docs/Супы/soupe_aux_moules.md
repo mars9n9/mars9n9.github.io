@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/35/7c/48/357c482f769bbda41d5ffcad0e27de4e.jpg
+---
 # Суп с мидиями \| Soupe aux moules
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/35/7c/48/357c482f769bbda41d5ffcad0e27de4e.jpg)

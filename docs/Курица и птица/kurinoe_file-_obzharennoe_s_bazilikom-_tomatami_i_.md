@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/cc/ab/a2/ccaba2e310e47e44ce985d725a233ebd.jpg
+---
 # Куриное филе, обжаренное с базиликом, томатами и стручковой фасолью
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/cc/ab/a2/ccaba2e310e47e44ce985d725a233ebd.jpg)

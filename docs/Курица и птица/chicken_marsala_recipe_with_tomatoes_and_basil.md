@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/66f154c53e53dcedc70935837fd170ea.jpg
+---
 # Курица с помидорами и базиликом в соусе из марсалы \| Chicken Marsala Recipe with Tomatoes and Basil
 
 ![Chicken Marsala Recipe with Tomatoes and Basil](../pics/66f154c53e53dcedc70935837fd170ea.jpg)

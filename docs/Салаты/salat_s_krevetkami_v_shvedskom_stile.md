@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/1e/b8/9d/1eb89dcbacd234ba568deef142fb3649.jpg
+---
 # Салат с креветками в шведском стиле
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/1e/b8/9d/1eb89dcbacd234ba568deef142fb3649.jpg)

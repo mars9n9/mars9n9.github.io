@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/e1811091-b9f9-424d-9879-71b946c091ae--image_DSC5408.webp
+---
 # Куриные ножки в сидре с беконом и яблоками \| Creamy Cider-Dijon Chicken Legs with Bacon and Apples
 
 ![Creamy Cider-Dijon Chicken Legs with Bacon and Apples](../pics/e1811091-b9f9-424d-9879-71b946c091ae--image_DSC5408.webp)

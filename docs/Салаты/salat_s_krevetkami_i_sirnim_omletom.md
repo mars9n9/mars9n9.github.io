@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/14/d0/a7/14d0a73424199c9f231f3294fd303a66.jpg
+---
 # Салат с креветками и сырным омлетом
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/14/d0/a7/14d0a73424199c9f231f3294fd303a66.jpg)

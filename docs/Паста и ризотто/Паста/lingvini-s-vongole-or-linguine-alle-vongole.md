@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/p_o.jpg
+---
 # Лингвини с вонголе \| Linguine alle vongole
 
 ![Лингвини с вонголе](../../pics/p_o.jpg)

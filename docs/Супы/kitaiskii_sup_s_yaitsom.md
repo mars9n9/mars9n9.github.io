@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/73/06/5f/73065ff0541eed75b4f1c870581c37aa.jpg
+---
 # Китайский суп с яйцом
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/73/06/5f/73065ff0541eed75b4f1c870581c37aa.jpg)

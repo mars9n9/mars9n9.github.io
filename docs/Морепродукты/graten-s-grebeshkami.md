@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/maxresdefault-1.jpg
+---
 # Гратэн с гребешками
 
 ![Гратэн с гребешками](../pics/maxresdefault-1.jpg)

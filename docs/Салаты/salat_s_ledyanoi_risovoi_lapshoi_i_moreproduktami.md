@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/originals/0e/2b/3e/0e2b3ec920681593b1edce82835c3ef9.jpg
+---
 # Салат с ледяной рисовой лапшой и морепродуктами
 
 ![](https://s-media-cache-ak0.pinimg.com/originals/0e/2b/3e/0e2b3ec920681593b1edce82835c3ef9.jpg)

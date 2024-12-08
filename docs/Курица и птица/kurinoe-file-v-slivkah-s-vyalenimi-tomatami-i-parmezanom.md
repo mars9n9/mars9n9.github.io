@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/8f/af/ef/8fafef877e0a3071a7c3792540635195.jpg
+---
 # Куриное филе в сливках с вялеными томатами и пармезаном
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/8f/af/ef/8fafef877e0a3071a7c3792540635195.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/236x/c2/92/b2/c292b2dc7f9ab4641a1e133344bda743.jpg
+---
 # Салат из чечевицы с копчёным лососем и сыром фета \| Salade de lentilles au saumon fumé et à la feta
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/c2/92/b2/c292b2dc7f9ab4641a1e133344bda743.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/05kitch-web1-articlelarge-1.jpg
+---
 # Паста с лисичками и фасолью
 
 ![](../../pics/05kitch-web1-articlelarge-1.jpg)

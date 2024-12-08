@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/d0/10/d6/d010d6366584a4b1fb6b1cd7d0d431a9.jpg
+---
 # Суп с креветками, сливочным сыром и шафраном
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/d0/10/d6/d010d6366584a4b1fb6b1cd7d0d431a9.jpg)

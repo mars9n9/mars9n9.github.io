@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/rqr1r3kasl5iyxlrrkthsq-article-1.jpg
+---
 # Феттуччини с лисичками и эстрагоном
 
 ![Феттуччини с лисичками и эстрагоном](../../pics/rqr1r3kasl5iyxlrrkthsq-article-1.jpg)

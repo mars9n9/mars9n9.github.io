@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/20fa7a72-17e8-4a35-9a96-c1ed9ba5acef.jpg
+---
 # Базиликовый хлеб на закваске
 
 ![](../../pics/20fa7a72-17e8-4a35-9a96-c1ed9ba5acef.jpg)

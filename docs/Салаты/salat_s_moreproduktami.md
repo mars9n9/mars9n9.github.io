@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/c7/70/a5/c770a5fe6c72249c6e4996eb93f3bb15.jpg
+---
 # Салат с морепродуктами
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/c7/70/a5/c770a5fe6c72249c6e4996eb93f3bb15.jpg)

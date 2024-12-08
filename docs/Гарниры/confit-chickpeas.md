@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/tandoorichickpeas_2.jpg
+---
 # Конфи тандури из нута
 
 ![Конфи тандури из нута](../pics/tandoorichickpeas_2.jpg)

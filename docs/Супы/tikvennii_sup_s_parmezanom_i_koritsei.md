@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/4f/1b/03/4f1b0379395771b2c38099d37b1b12e0.jpg
+---
 # Тыквенный суп с пармезаном и корицей
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/4f/1b/03/4f1b0379395771b2c38099d37b1b12e0.jpg)

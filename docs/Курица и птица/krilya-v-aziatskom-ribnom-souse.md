@@ -1,3 +1,6 @@
+﻿---
+image: https://i.pinimg.com/564x/a9/03/6c/a9036c1db4aa0f660796e922a3b797a4.jpg
+---
 # Крылья в азиатском рыбном соусе
 
 ![](https://i.pinimg.com/564x/a9/03/6c/a9036c1db4aa0f660796e922a3b797a4.jpg)

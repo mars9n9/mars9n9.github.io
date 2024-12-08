@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/ad/73/21/ad73213cd8c91e8a9520939277b2bf8d.jpg
+---
 # Авголемоно \| Avgolemono
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/ad/73/21/ad73213cd8c91e8a9520939277b2bf8d.jpg)

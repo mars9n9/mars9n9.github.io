@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/06/3f/53/063f5386199f7ab3aa536066a83f99fc.jpg
+---
 # Арабские лепешки \| Saj bread
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/06/3f/53/063f5386199f7ab3aa536066a83f99fc.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/0c/b5/6c/0cb56cb16be830ac0fe1f394022b8cf7.jpg
+---
 # Рисовый cуп с курицей \| Chicken Congee
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/0c/b5/6c/0cb56cb16be830ac0fe1f394022b8cf7.jpg)

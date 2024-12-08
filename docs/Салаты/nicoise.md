@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/47d3293b293f55cb73c94124feff21ad.jpg
+---
 # Салат Нисуаз
 
 ![Нисуаз](../pics/47d3293b293f55cb73c94124feff21ad.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/ltdtwmbqzg_tr98bfwr4_cm6dz4uqip4klmhiqqa6mthfrdtrrhdlaozw455esz97pylakovbp-qfw91tniiru4klfwesuj9mexreht8olw.jpg
+---
 # Марокканская Ксра
 
 ![](../../pics/ltdtwmbqzg_tr98bfwr4_cm6dz4uqip4klmhiqqa6mthfrdtrrhdlaozw455esz97pylakovbp-qfw91tniiru4klfwesuj9mexreht8olw.jpg)

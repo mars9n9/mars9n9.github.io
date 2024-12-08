@@ -1,3 +1,6 @@
+﻿---
+image: https://i.pinimg.com/564x/99/a1/2a/99a12aaa95cfab35c41bdf8a253a301b.jpg
+---
 # Крем-суп из топинамбура с морепродуктами
 
 ![](https://i.pinimg.com/564x/99/a1/2a/99a12aaa95cfab35c41bdf8a253a301b.jpg)

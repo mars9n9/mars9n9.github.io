@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/photo_2024-04-21_16-13-53.jpg
+---
 # Паскуалина \| Torta pasqualina
 
 ![Паскуалина](../pics/photo_2024-04-21_16-13-53.jpg)

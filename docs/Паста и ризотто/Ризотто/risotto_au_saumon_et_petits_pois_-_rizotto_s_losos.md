@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/9d6b4c006c26c0e0d569523c9c0da43a.jpg
+---
 # Ризотто с лососем и зелёным горошком \| Risotto au saumon et petits pois
 
 ![Ризотто с лососем и зелёным горошком](../../pics/9d6b4c006c26c0e0d569523c9c0da43a.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/beef-enchiladas-26-754.jpg
+---
 # Энчилада \| Enchiladas
 
 ![Enchiladas](../../pics/beef-enchiladas-26-754.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/236x/07/a5/3c/07a53c85f4daf58c45d841eac3d69c97.jpg
+---
 # Курица в тесте
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/07/a5/3c/07a53c85f4daf58c45d841eac3d69c97.jpg)

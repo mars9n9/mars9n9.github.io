@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/photo_2022-11-10_13-48-39.jpg
+---
 # Сaldeirada
 
 ![Сaldeirada](../pics/photo_2022-11-10_13-48-39.jpg)

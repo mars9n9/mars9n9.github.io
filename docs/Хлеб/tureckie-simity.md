@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/5427_original.jpg
+---
 # Турецкие симиты
 
 ![](../../pics/5427_original.jpg)

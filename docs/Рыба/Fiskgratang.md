@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/c86b0bb33e63fe4740f87.jpg
+---
 # Fiskgratang  \| Рыбный гратен
 
 ![Fiskgratang](../pics/c86b0bb33e63fe4740f87.jpg)

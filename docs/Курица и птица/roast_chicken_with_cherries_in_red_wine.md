@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/51/37/a7/5137a791d5fecf6420686c57b7bf94bd.jpg
+---
 # Цыпленок в винно-вишневом соусе \| Roast chicken with cherries in red wine
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/51/37/a7/5137a791d5fecf6420686c57b7bf94bd.jpg)

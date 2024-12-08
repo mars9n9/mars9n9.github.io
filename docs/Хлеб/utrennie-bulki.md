@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/capture.jpg
+---
 # Утренние булки на закваске
 
 ![](../../pics/capture.jpg)

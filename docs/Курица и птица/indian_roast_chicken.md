@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/e354d9cbc0165bf1634b0f2c668a6f50.jpg
+---
 # Цыпленок по индийски \| Indian Roast Chicken
 
 ![](../pics/e354d9cbc0165bf1634b0f2c668a6f50.jpg)

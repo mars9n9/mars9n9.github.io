@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/4c/b3/4a/4cb34a21b3177bd04c3923270583a42f.jpg
+---
 # Тосканский крем-суп из белой фасоли
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/4c/b3/4a/4cb34a21b3177bd04c3923270583a42f.jpg)

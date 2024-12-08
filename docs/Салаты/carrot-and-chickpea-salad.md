@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/236x/b8/3b/82/b83b8281f3e873f3ad96e9b68bd301fb.jpg
+---
 # Салат с нутом и морковкой
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/b8/3b/82/b83b8281f3e873f3ad96e9b68bd301fb.jpg)

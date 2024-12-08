@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/87/97/a5/8797a5db58925043b1e35a92d417640f.jpg
+---
 # Суп из печёных томатов с песто
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/87/97/a5/8797a5db58925043b1e35a92d417640f.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/236x/0c/9c/40/0c9c40759b00ea62afa41d5a097de3f5.jpg
+---
 # Свинина в имбирном соусе
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/0c/9c/40/0c9c40759b00ea62afa41d5a097de3f5.jpg)

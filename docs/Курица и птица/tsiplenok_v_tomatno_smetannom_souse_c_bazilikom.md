@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/b6/3d/3e/b63d3ef48cd8e06aa675d2307e299a1d.jpg
+---
 # Цыпленок в томатно-сметанном соусе c базиликом
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/b6/3d/3e/b63d3ef48cd8e06aa675d2307e299a1d.jpg)

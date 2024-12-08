@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/bde9fd84837ac4d4af63991088a0564f.jpg
+---
 # Курник
 
 ![](../pics/bde9fd84837ac4d4af63991088a0564f.jpg)

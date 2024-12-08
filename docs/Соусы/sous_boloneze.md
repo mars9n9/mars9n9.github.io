@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/604548b99e1f1cedac0c551897ceb18f.jpg
+---
 # Соус Болоньезе
 
 ![Соус Болоньезе](../pics/604548b99e1f1cedac0c551897ceb18f.jpg)

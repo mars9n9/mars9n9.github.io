@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/bf43a7f3d24e0e2503c00d217209b693.jpg
+---
 # Чили с говядиной \| Chilli Con Carne
 
 ![Chilli Con Carne](../pics/bf43a7f3d24e0e2503c00d217209b693.jpg)

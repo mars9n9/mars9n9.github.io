@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/9d/66/5a/9d665af0b56c10274850ca26750c5c45.jpg
+---
 # Куриная грудка с перлотто и грибным соусом
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/9d/66/5a/9d665af0b56c10274850ca26750c5c45.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/5b/40/26/5b402623d895e6da59d18e929d401cf8.jpg
+---
 # Чихиртма
 
 Грузинская кухня.

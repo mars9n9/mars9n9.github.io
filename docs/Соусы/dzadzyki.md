@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/dzadziki-new.jpg
+---
 # Дзадзики
 
 ![Дзадзики](../pics/dzadziki-new.jpg)

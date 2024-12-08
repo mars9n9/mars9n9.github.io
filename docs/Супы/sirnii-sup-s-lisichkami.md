@@ -1,3 +1,6 @@
+﻿---
+image: https://i.pinimg.com/564x/bf/d3/e8/bfd3e86963d725672df069ae6c0b1cad.jpg
+---
 # Сырный суп с лисичками
 
 ![](https://i.pinimg.com/564x/bf/d3/e8/bfd3e86963d725672df069ae6c0b1cad.jpg)

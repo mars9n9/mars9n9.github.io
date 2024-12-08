@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/49/e5/9b/49e59b1467ad2b7ded6cc5433974b2e5.jpg
+---
 # Салат из свеклы с соусом песто
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/49/e5/9b/49e59b1467ad2b7ded6cc5433974b2e5.jpg)

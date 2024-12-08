@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/a7baca40c1754320aae5b6ade894b857.jpg
+---
 # Картофельные котлеты с лососем
 
 ![](../pics/a7baca40c1754320aae5b6ade894b857.jpg)

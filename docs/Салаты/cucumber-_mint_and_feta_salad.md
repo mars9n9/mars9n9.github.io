@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/ee/46/33/ee46339ef2ee22ed6376f411903bb867.jpg
+---
 # Салат с огурцом, мятой и брынзой
 
 ## Cucumber, Mint & Feta Salad

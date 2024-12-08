@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/6048af3e88c28f8c6cdb68354d7a53b5.jpg
+---
 # Ризотто с лисичками. Ванильное \| Risotto aux girolles
 
 ![Ризотто с лисичками](../../pics/6048af3e88c28f8c6cdb68354d7a53b5.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/06be7cb0afed51552123e.jpg
+---
 # Яйцо по-шотландски
 
 ![](../pics/06be7cb0afed51552123e.jpg)

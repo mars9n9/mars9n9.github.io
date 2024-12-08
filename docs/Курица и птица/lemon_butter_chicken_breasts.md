@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/80/68/c2/8068c2dc79f5e168439061a6cfb41da3.jpg
+---
 # Куриные грудки с лимонным маслом \| Lemon Butter Chicken Breasts
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/80/68/c2/8068c2dc79f5e168439061a6cfb41da3.jpg)

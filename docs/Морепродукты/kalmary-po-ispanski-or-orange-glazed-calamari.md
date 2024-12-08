@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/6342dac92a8847f0542f15f8454ad151-1.jpg
+---
 # Кальмары по- испански \| Orange-glazed calamari
 
 ![Orange-glazed calamari](../pics/6342dac92a8847f0542f15f8454ad151-1.jpg)

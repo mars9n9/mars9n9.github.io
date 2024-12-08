@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/b3/17/1d/b3171d7c6d4f709eb3a20383496ec247.jpg
+---
 # Цыпленок по французски с розмарином
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/b3/17/1d/b3171d7c6d4f709eb3a20383496ec247.jpg)

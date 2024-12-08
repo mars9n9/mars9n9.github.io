@@ -1,3 +1,6 @@
+﻿---
+image: https://i.pinimg.com/564x/04/8e/67/048e671f7f5ffe32f4d163e517ad3d31.jpg
+---
 # Салат с пастой, сырокопченой телятиной и овощами
 
 ![](https://i.pinimg.com/564x/04/8e/67/048e671f7f5ffe32f4d163e517ad3d31.jpg)

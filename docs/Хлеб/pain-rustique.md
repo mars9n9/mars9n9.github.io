@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/scale_1200%20%281%29.webp
+---
 # Pain Rustique
 
 ![](../../pics/scale_1200%20%281%29.webp)

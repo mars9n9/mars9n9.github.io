@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/6a/b9/48/6ab94893ed172e7f4acef301355d0f89.jpg
+---
 # Картофельный с шампиньонами и яйцом
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/6a/b9/48/6ab94893ed172e7f4acef301355d0f89.jpg)

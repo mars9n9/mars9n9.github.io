@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/eb/87/e2/eb87e2b32b4e0c80db9fd357e0e86d16.jpg
+---
 # Хрустящий салат с зеленой фасолью
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/eb/87/e2/eb87e2b32b4e0c80db9fd357e0e86d16.jpg)

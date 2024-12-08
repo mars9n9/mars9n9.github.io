@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/pechene_s_syrom_rezultat.jpg
+---
 # Печенье с сыром \| Biscotti al formaggio
 
 ![Biscotti al formaggio](../../pics/pechene_s_syrom_rezultat.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/fd/81/62/fd816281592a8299c4a979c3a791c7fb.jpg
+---
 # Кекс с пармезаном, чесноком и ароматными травами
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/fd/81/62/fd816281592a8299c4a979c3a791c7fb.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/0a/cf/77/0acf7737c2f503cfe3ef5c636433ff09.jpg
+---
 # Шотландский суп с бараниной и смесью круп
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/0a/cf/77/0acf7737c2f503cfe3ef5c636433ff09.jpg)

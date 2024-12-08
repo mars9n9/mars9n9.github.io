@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/79/b9/44/79b944736b9413ab91d5ee53845202d6.jpg
+---
 # Салат с диким рисом и грибами
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/79/b9/44/79b944736b9413ab91d5ee53845202d6.jpg)

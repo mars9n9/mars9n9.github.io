@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/64/c0/af/64c0af3a9b3e08ee270a67f0a8ffd0f9.jpg
+---
 # Салат с куриной печенью
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/64/c0/af/64c0af3a9b3e08ee270a67f0a8ffd0f9.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/24kitch_span-articlelarge-v2-1.jpg
+---
 # Киш с травами и козьим сыром
 
 ![](../../pics/24kitch_span-articlelarge-v2-1.jpg)

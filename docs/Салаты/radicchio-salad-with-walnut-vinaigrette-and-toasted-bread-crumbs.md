@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/91/63/cb/9163cb913cc3f9faad8c7eecfea1a0c0.jpg
+---
 # Салатные листья с ореховым соусом винигрет, сухариками и яйцом
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/91/63/cb/9163cb913cc3f9faad8c7eecfea1a0c0.jpg)

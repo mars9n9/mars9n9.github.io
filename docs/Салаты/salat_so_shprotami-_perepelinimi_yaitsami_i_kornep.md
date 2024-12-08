@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/originals/b8/ae/79/b8ae79adbe9c6d4c097d06932d9b0b45.jpg
+---
 # Салат со шпротами, перепелиными яйцами и корнеплодами
 
 ![](https://s-media-cache-ak0.pinimg.com/originals/b8/ae/79/b8ae79adbe9c6d4c097d06932d9b0b45.jpg)

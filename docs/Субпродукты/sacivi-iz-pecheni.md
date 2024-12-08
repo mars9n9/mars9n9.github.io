@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/unnamed.jpg
+---
 # Сациви из печени
 
 ![](../pics/unnamed.jpg)

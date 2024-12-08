@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/bbcd748435237814798eb39e08f78f29.jpg
+---
 # Соус Альфредо \(Alfredo Sauce\)
 
 ![Соус Альфредо](../pics/bbcd748435237814798eb39e08f78f29.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/236x/7a/c0/df/7ac0df9967fc6086bb444bc4109f29f3.jpg
+---
 # Курица под устричным соусом с яблоками
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/7a/c0/df/7ac0df9967fc6086bb444bc4109f29f3.jpg)

@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/1f/cd/b2/1fcdb2ed9be3da7c9d39ce0d3e6a08bf.jpg
+---
 # Рокко Пармезан
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/1f/cd/b2/1fcdb2ed9be3da7c9d39ce0d3e6a08bf.jpg)

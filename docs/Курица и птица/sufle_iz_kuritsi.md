@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/0f/04/3e/0f043e42b8a4b45271f8a3934510d705.jpg
+---
 # Суфле из курицы
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/0f/04/3e/0f043e42b8a4b45271f8a3934510d705.jpg)

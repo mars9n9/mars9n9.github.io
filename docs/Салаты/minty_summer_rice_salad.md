@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/236x/27/9a/27/279a27e06795915599e5d599089e3a7b.jpg
+---
 # Мятный рисовый салат
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/27/9a/27/279a27e06795915599e5d599089e3a7b.jpg)

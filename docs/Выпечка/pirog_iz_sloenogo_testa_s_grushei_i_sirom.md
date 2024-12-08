@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/3e4dcee4793a9bd2ecc770deee45d308.jpg
+---
 # Пирог из слоеного теста с грушей и сыром
 
 ![](../pics/3e4dcee4793a9bd2ecc770deee45d308.jpg)

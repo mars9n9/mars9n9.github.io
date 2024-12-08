@@ -1,3 +1,6 @@
+﻿---
+image: ../pics/image-1.png
+---
 # Запеченная нога ягненка / Coscia di agnello arrosto
 
 ![](../pics/image-1.png)

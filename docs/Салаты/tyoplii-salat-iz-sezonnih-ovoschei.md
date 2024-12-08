@@ -1,3 +1,6 @@
+﻿---
+image: https://i.pinimg.com/564x/4b/56/98/4b5698ff6b1e0f8aeb5d71311b3b721f.jpg
+---
 # Тёплый салат из сезонных овощей
 
 ![](https://i.pinimg.com/564x/4b/56/98/4b5698ff6b1e0f8aeb5d71311b3b721f.jpg)

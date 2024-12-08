@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/c2/d3/fd/c2d3fd40aae6890073f0ddeb1339bb0d.jpg
+---
 # Марроканский суп из тыквы с козьим сыром, кремом из имбиря и фисташками
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/c2/d3/fd/c2d3fd40aae6890073f0ddeb1339bb0d.jpg)

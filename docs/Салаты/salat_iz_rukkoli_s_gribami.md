@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/65/e1/75/65e17513b74c0a668df1d35821b66a41.jpg
+---
 # Салат из рукколы с грибами
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/65/e1/75/65e17513b74c0a668df1d35821b66a41.jpg)

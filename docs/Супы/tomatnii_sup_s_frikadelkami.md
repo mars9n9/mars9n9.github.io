@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/a1/e3/54/a1e354cbbed7b7b8b8eb73a0a8985394.jpg
+---
 # Томатный суп с фрикадельками
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/a1/e3/54/a1e354cbbed7b7b8b8eb73a0a8985394.jpg)

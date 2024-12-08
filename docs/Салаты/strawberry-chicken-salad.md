@@ -1,3 +1,6 @@
+﻿---
+image: https://s-media-cache-ak0.pinimg.com/564x/28/3e/40/283e40a76db23f792800d832ecc85c6a.jpg
+---
 # Салат с клубникой и курицей
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/28/3e/40/283e40a76db23f792800d832ecc85c6a.jpg)

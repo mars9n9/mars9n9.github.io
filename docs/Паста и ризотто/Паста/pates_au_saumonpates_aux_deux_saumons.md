@@ -1,3 +1,6 @@
+﻿---
+image: ../../pics/877fe07e97f37c2afa89862313cec96b.jpg
+---
 # Паста с лососем \| Паста с 2 лососями \|\| Pâtes au saumon \| Pâtes aux deux saumons
 
 ![Паста с лососем](../../pics/877fe07e97f37c2afa89862313cec96b.jpg)
