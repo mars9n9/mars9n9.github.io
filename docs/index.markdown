@@ -154,6 +154,7 @@
   * [Лавандовый горячий шоколад](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BF%D0%B8%D1%82%D0%BA%D0%B8/lavandovyi-goryachii-shokolad.html)
 * Овощи
   * [Баклажаны под сыром](https://mars9n9.github.io/%D0%9E%D0%B2%D0%BE%D1%89%D0%B8/baklazani-pod-sirom.html)
+  * [Запеченная цветная капуста в соусе харисса](https://mars9n9.github.io/%D0%9E%D0%B2%D0%BE%D1%89%D0%B8/cauliflower.html)
   * [Маринованные перцы](https://mars9n9.github.io/%D0%9E%D0%B2%D0%BE%D1%89%D0%B8/peppers-marinated.html)
   * [Фаршированные баклажаны с бараниной и кедровыми орешками](https://mars9n9.github.io/%D0%9E%D0%B2%D0%BE%D1%89%D0%B8/stuffed-aubergine.html)
 * Паста и ризотто
