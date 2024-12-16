@@ -1,12 +1,13 @@
 ﻿* Simple dinners
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
-  * [Лосось с ньокки](https://mars9n9.github.io/Simple%20dinners/salmon-orzo.html)
   * [Лосось с ньокки](https://mars9n9.github.io/Simple%20dinners/SALMON-GNOCCHI.html)
+  * [Лосось с орзо](https://mars9n9.github.io/Simple%20dinners/salmon-orzo.html)
 * Tips
   * [Идеальное картофельное пюре](https://mars9n9.github.io/Tips/idealnoe_kartofelnoe_pyure.html)
   * [Картошка в духовке](https://mars9n9.github.io/Tips/potato-baked.html)
   * [Копчение.md](https://mars9n9.github.io/Tips/%D0%9A%D0%BE%D0%BF%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.html)
   * [Котлеты](https://mars9n9.github.io/Tips/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D1%8B.html)
+  * [Куриный бульон](https://mars9n9.github.io/Tips/chicken_broth.html)
   * [Подготовка языка](https://mars9n9.github.io/Tips/preparation-tongue.html)
   * [Рис для суши](https://mars9n9.github.io/Tips/rice.html)
 * Блины
@@ -319,6 +320,7 @@
   * [Крем-суп из топинамбура с морепродуктами](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/krem-sup-iz-topinambura-s-moreproduktami.html)
   * [Крем-суп из шампиньонов](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/krem-sup_iz_shampinonov.html)
   * [Крем-суп Пармантье \| Potage Parmentier](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/potage_parmentier.html)
+  * [Куриный суп с потрохами](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/kurinaja-lapsha-s-potrohami.html)
   * [Куриный суп с тыквой и соусом песто из рукколы](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/kurinii_sup_s_tikvoi_i_sousom_pesto_iz_rukkoli.html)
   * [Куриный суп с чечевицей и овсянкой](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/kurinii_sup_s_chechevitsei_i_ovsyankoi.html)
   * [Марроканский суп из тыквы с козьим сыром, кремом из имбиря и фисташками](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/moroccan_butternut_squash_and_goat_cheese_soup.html)
