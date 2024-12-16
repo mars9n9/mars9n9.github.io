@@ -1,4 +1,5 @@
 ﻿* Simple dinners
+  * [Курица в медовой глазури](https://mars9n9.github.io/Simple%20dinners/chicken-honey.html)
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
   * [Лосось с ньокки](https://mars9n9.github.io/Simple%20dinners/SALMON-GNOCCHI.html)
   * [Лосось с орзо](https://mars9n9.github.io/Simple%20dinners/salmon-orzo.html)
