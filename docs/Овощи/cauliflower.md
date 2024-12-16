@@ -43,4 +43,4 @@ image: ../pics/cauliflower.jpg
 
 Для подачи выложить на тарелку йогурт, затем цветную капусту, сбрызнуть заправкой и посыпать орешками.
 
-*bonappetit.com*
+*Tiktok: ameliasandy*
