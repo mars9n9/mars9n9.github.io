@@ -75,9 +75,6 @@
   * [Конфи тандури из нута](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/confit-chickpeas.html)
   * [Перловая каша с белыми грибами](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/perlovaya-kasha-s-belymi-gribami.html)
   * [Перлотто \(ризотто из перловой крупы\)](https://mars9n9.github.io/%D0%93%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D1%8B/perlotto.html)
-* Кабачки, перцы и их друзья
-  * [Баклажаны под сыром](https://mars9n9.github.io/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BA%D0%B8,%20%D0%BF%D0%B5%D1%80%D1%86%D1%8B%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F/baklazani-pod-sirom.html)
-  * [Фаршированные баклажаны с бараниной и кедровыми орешками](https://mars9n9.github.io/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BA%D0%B8,%20%D0%BF%D0%B5%D1%80%D1%86%D1%8B%20%D0%B8%20%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F/stuffed-aubergine.html)
 * [Курица и птица](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/ix.html)
   * [General Tso's Chicken](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/general-tsos-chicken.html)
   * [Адобо](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/adobo.html)
@@ -155,6 +152,10 @@
   * [Томатный джем](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%BA%D0%B8/tomato-jam.html)
 * Напитки
   * [Лавандовый горячий шоколад](https://mars9n9.github.io/%D0%9D%D0%B0%D0%BF%D0%B8%D1%82%D0%BA%D0%B8/lavandovyi-goryachii-shokolad.html)
+* Овощи
+  * [Баклажаны под сыром](https://mars9n9.github.io/%D0%9E%D0%B2%D0%BE%D1%89%D0%B8/baklazani-pod-sirom.html)
+  * [Маринованные перцы](https://mars9n9.github.io/%D0%9E%D0%B2%D0%BE%D1%89%D0%B8/peppers-marinated.html)
+  * [Фаршированные баклажаны с бараниной и кедровыми орешками](https://mars9n9.github.io/%D0%9E%D0%B2%D0%BE%D1%89%D0%B8/stuffed-aubergine.html)
 * Паста и ризотто
   * [Лазанья](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/ix.html)
     * [Ziti al forno  \| Зити запеченные в томатном соусе с маленькими фрикадельками](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/zitti-al-forno.html)
