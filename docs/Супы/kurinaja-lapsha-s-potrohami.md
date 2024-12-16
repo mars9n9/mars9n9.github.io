@@ -1,10 +1,10 @@
 ---
-image: ..\pics\kurinaja-lapsha-s-potrohami.jpg
+image: ../pics/kurinaja-lapsha-s-potrohami.jpg
 ---
 
 # Куриный суп с потрохами
 
-![Куриный суп с потрохами](..\pics\kurinaja-lapsha-s-potrohami.jpg)
+![Куриный суп с потрохами](../pics/kurinaja-lapsha-s-potrohami.jpg)
 
 #### Ингредиенты
 
