@@ -66,7 +66,7 @@
   * [Пудинг из яблок, голубого сыра и хлеба](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/pudding.html)
   * [Самса по-домашнему](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/samsa-po-domashnemu.html)
   * [Сдобные сметанные булочки с семечками и сыром](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/sdobnye-smetannye-bulochki-s-semechkami-i-syrom.html)
-  * [Сливочные булочки с тимьяном, моцареллой и вялеными помидорами](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/slivochnie-bulochki-s-timyanom-motsarelloi-i-vyalenimi-pomidorami.html)
+  * [Сливочные булочки с тимьяном, моцареллой и вялеными помидорами](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/cream-bun-mozarella.html)
   * [Сосиска в тесте](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/sosiska-testo.html)
   * [Томатный чизкейк](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/tomatnyi-chizkeik.html)
   * [Традиционный английский пирог с кроликом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/traditsionnii-angliiskii-pirog-s-krolikom.html)
