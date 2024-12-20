@@ -1,9 +1,9 @@
 ﻿---
-image: ../../pics/dc6963da7eb9e956334714e20cd6ef41.jpg
+image: ../../pics/pasta-farfalle-s-tuntsom-i-pomidorami-cherri.jpg
 ---
 # Паста фарфалле с тунцом и помидорами черри
 
-![Паста фарфалле с тунцом и помидорами черри](../../pics/dc6963da7eb9e956334714e20cd6ef41.jpg)
+![Паста фарфалле с тунцом и помидорами черри](../../pics/pasta-farfalle-s-tuntsom-i-pomidorami-cherri.jpg)
 
 #### Ингредиенты
 

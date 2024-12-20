@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/Img_2024_07_28_00_40_01~2.jpeg
+image: ../pics/buratta-chicken-milanese.jpeg
 ---
 # Курица с бураттой по-милански
 
-![Курица с бураттой по-милански](../pics/Img_2024_07_28_00_40_01~2.jpeg)
+![Курица с бураттой по-милански](../pics/buratta-chicken-milanese.jpeg)
 
 #### Ингредиенты
 на 2 порции
