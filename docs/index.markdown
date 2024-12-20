@@ -202,7 +202,7 @@
     * [Ризотто с зелёным горошком и рукколой](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/rizotto-s-zelyonym-goroshkom-i-rukkoloj.html)
     * [Ризотто с лисичками. Ванильное \| Risotto aux girolles](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto_aux_girolles_-_rizotto_s_lisichkami_vaniln.html)
     * [Ризотто с лососем и зелёным горошком \| Risotto au saumon et petits pois](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto_au_saumon_et_petits_pois_-_rizotto_s_losos.html)
-    * [Ризотто с мидиями](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/rizotto-s-midiyami.html)
+    * [Ризотто с морепродуктами](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto-ai-frutti-di-mare.html)
     * [Томатное ризотто с мидиями](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/tomatnoe-rizotto-s-midiyami.html)
 * Пилаф
   * [Паэлья из куриных потрохов](https://mars9n9.github.io/%D0%9F%D0%B8%D0%BB%D0%B0%D1%84/paella-kurica.html)
