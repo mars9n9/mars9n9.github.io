@@ -341,7 +341,7 @@
   * [Суп из чечевицы с яйцом-пашот](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/sup_iz_chechevitsi_s_yaitsom-pashot.html)
   * [Суп с креветками, сливочным сыром и шафраном](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/sup_s_krevetkami-_slivochnim_sirom_i_shafranom.html)
   * [Суп с мидиями \| Soupe aux moules](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/soupe_aux_moules.html)
-  * [Суп с соевыми ростками и говядиной \(Beef Pho Noodle Soup, Phở bò tái\)](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/beef_pho_noodle.html)
+  * [Суп с соевыми ростками и говядиной \(Beef Pho Noodle Soup, Phở bò tái\)](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/beef-pho-noodle.html)
   * [Суп-пюре из печени](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/sup-pyure_iz_pecheni.html)
   * [Сырный суп по французски с курицей](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/sirnii_sup_pofrantsuzski_s_kuritsei.html)
   * [Сырный суп с лисичками](https://mars9n9.github.io/%D0%A1%D1%83%D0%BF%D1%8B/sirnii-sup-s-lisichkami.html)
