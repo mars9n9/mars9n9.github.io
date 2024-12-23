@@ -1,9 +1,9 @@
 ﻿---
-image: ..\pics\beef-pho-noodle.jpg
+image: ../pics/beef-pho-noodle.jpg
 ---
 # Суп с соевыми ростками и говядиной \(Beef Pho Noodle Soup, Phở bò tái\)
 
-![Beef Pho Noodle Soup](..\pics\beef-pho-noodle.jpg)
+![Beef Pho Noodle Soup](../pics/beef-pho-noodle.jpg)
 
 #### Ингредиенты
 
