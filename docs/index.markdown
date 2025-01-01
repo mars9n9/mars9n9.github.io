@@ -4,6 +4,7 @@
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
   * [Лосось с ньокки](https://mars9n9.github.io/Simple%20dinners/SALMON-GNOCCHI.html)
   * [Лосось с орзо](https://mars9n9.github.io/Simple%20dinners/salmon-orzo.html)
+  * [Ньокки с грибами и козьим сыром](https://mars9n9.github.io/Simple%20dinners/mushroom-gnocchi.html)
 * Tips
   * [Идеальное картофельное пюре](https://mars9n9.github.io/Tips/idealnoe_kartofelnoe_pyure.html)
   * [Картошка в духовке](https://mars9n9.github.io/Tips/potato-baked.html)
