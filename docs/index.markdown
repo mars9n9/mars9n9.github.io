@@ -132,6 +132,10 @@
   * [Осьминог а-ля по-галисийски \| Pulpo a la gallega](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/osminog-a-lya-po-galisiiski-or-pulpo-a-la-gallega.html)
   * [Тефтели из креветок](https://mars9n9.github.io/%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/tefteli-iz-krevetok.html)
 * Мясо
+  * [Митболлы](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/%D0%9C%D0%B8%D1%82%D0%B1%D0%BE%D0%BB%D0%BB%D1%8B/ix.html)
+    * [Свиные фрикадельки с кунжутом и имбирем](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/%D0%9C%D0%B8%D1%82%D0%B1%D0%BE%D0%BB%D0%BB%D1%8B/sesame-ginger-pork-meatballs.html)
+    * [Фрикадельки в соусе с миндалем](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/%D0%9C%D0%B8%D1%82%D0%B1%D0%BE%D0%BB%D0%BB%D1%8B/albondigas-en-salsa.html)
+    * [Фрикадельки с яблочным сидром](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/%D0%9C%D0%B8%D1%82%D0%B1%D0%BE%D0%BB%D0%BB%D1%8B/apple-cider-maple-meatballs.html)
   * [Жаркое из баранины](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/zharkoe-iz-baraniny.html)
   * [Запеченная нога ягненка / Coscia di agnello arrosto](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/zapechennaya-noga-yagnenka-coscia-di-agnello-arrosto.html)
   * [Ишли кюфта \| Içli köfte](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/ishli-kyufta-or-icli-koefte.html)
@@ -140,7 +144,6 @@
   * [Свинина в имбирном соусе](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/svinina_v_imbirnom_souse.html)
   * [Тартар из оленины с вареньем из морошки](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/tartar-iz-olenini-s-varenem-iz-moroshki.html)
   * [Фаршированный батат](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/stuffed-sweet-potato.html)
-  * [Фрикадельки с яблочным сидром \| Slow Cooker Apple Cider Maple Meatballs](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/apple-cider-maple-meatballs.html)
   * [Яйцо по-шотландски](https://mars9n9.github.io/%D0%9C%D1%8F%D1%81%D0%BE/scottish-eggs.html)
 * Намазки
   * Дипы
