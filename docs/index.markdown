@@ -1,4 +1,5 @@
 ﻿* Simple dinners
+  * [Голландский капсалон \| Kapsalon](https://mars9n9.github.io/Simple%20dinners/kapsalon.html)
   * [Грибы по строгановски](https://mars9n9.github.io/Simple%20dinners/mushroom-stroganov.html)
   * [Курица в медовой глазури](https://mars9n9.github.io/Simple%20dinners/chicken-honey.html)
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
@@ -81,7 +82,6 @@
 * [Курица и птица](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/ix.html)
   * [General Tso's Chicken](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/general-tsos-chicken.html)
   * [Адобо](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/adobo.html)
-  * [Голландский капсалон \| Kapsalon](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kapsalon.html)
   * [Котлета по киевски](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kiiv.html)
   * [Крылья в азиатском рыбном соусе](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/krilya-v-aziatskom-ribnom-souse.html)
   * [Куриная грудка в пармезане с томатным соусом](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kurinaya-grudka-v-parmezane-s-tomatnim-sousom.html)
