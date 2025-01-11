@@ -103,7 +103,7 @@
   * [Курица запеченная целиком с заатаром, лимоном и мятой](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kuritsa_zapechennaya_tselikom_s_zaatarom-_limonom_.html)
   * [Курица под устричным соусом с яблоками](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kuritsa_pod_ustrichnim_sousom_s_yablokami.html)
   * [Курица с лимоном и розмарином \| Skillet Lemon Rosemary Chicken](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/skillet_lemon_rosemary_chicken.html)
-  * [Курица с помидорами и базиликом в соусе из марсалы \| Chicken Marsala Recipe with Tomatoes and Basil](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/chicken_marsala_recipe_with_tomatoes_and_basil.html)
+  * [Курица с помидорами и базиликом в соусе из марсалы](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/chicken-marsala.html)
   * [Курица терияки](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/chicken-teriyaki.html)
   * [Пасторма](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/pastorma.html)
   * [Суфле из курицы](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/sufle_iz_kuritsi.html)
