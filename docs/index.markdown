@@ -93,7 +93,7 @@
   * [Куриные грудки с лимонным маслом \| Lemon Butter Chicken Breasts](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/lemon_butter_chicken_breasts.html)
   * [Куриные мини кебабы](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kurinie-mini-kebabi.html)
   * [Куриные ножки в остром лаймовом соусе \| Chicken buccaneer](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kuritsa_buccaneer.html)
-  * [Куриные ножки в сидре с беконом и яблоками \| Creamy Cider-Dijon Chicken Legs with Bacon and Apples](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/creamy-cider-dijon-chicken-legs-with-bacon-and-apples.html)
+  * [Куриные ножки в сидре с беконом и яблоками](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/creamy-cider-chicken-legs.html)
   * [Куриный шницель](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kurinyy-shnicel.html)
   * [Курица в глазури из вермута \| Chicken with crisp mahogany](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/chicken_with_crisp_mahogany.html)
   * [Курица в тесте](https://mars9n9.github.io/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%82%D0%B8%D1%86%D0%B0/kuritsa_v_teste.html)
