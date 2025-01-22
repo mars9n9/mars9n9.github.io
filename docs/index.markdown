@@ -225,6 +225,7 @@
   * [Говяжьи ребрышки, тушеные в красном вине](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/red-wine-braised-short-ribs.html)
   * [Курица с грузинскими мотивами](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/kuritsa_s_gruzinskimi_motivami.html)
   * [Острая телятина \| Peposo Alla Fornacina](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/ostraya-telyatina-or-peposo-alla-fornacina.html)
+  * [Рагу по-ланкаширски](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/lancashire-hotpot.html)
   * [Рагу с колбасками и ракушками по-португальски](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/portuguese-clam-sausage-stew.html)
   * [Сaldeirada](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/caldeira.html)
   * [Тушёный свиной карбонад с опятами](https://mars9n9.github.io/%D0%A0%D0%B0%D0%B3%D1%83/tushyonyi-svinoi-karbonat-s-opyatami.html)
