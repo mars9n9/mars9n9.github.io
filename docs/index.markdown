@@ -181,6 +181,7 @@
     * [Ризотто с морепродуктами](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%A0%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/risotto-ai-frutti-di-mare.html)
 * Пилаф
   * [Паэлья из куриных потрохов](https://mars9n9.github.io/%D0%9F%D0%B8%D0%BB%D0%B0%D1%84/paella-kurica.html)
+  * [Паэлья с морепродуктами](https://mars9n9.github.io/%D0%9F%D0%B8%D0%BB%D0%B0%D1%84/paella.html)
 * Пицца
   * [Базовый томатный соус для пиццы](https://mars9n9.github.io/%D0%9F%D0%B8%D1%86%D1%86%D0%B0/bazovyi-tomatnyi-sous-dlya-piccy.html)
   * [Пицца «Салями пиканте»](https://mars9n9.github.io/%D0%9F%D0%B8%D1%86%D1%86%D0%B0/pizza-salami.html)
