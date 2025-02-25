@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/crespelle-tomato.jpeg
+image: ../pics/crespelle-tomato.jpg
 ---
 # Томатные блинчики
 
- ![Томатные блинчики](../pics/crespelle-tomato.jpeg)
+ ![Томатные блинчики](../pics/crespelle-tomato.jpg)
 
 #### Ингредиенты:
 
@@ -30,3 +30,5 @@ image: ../pics/crespelle-tomato.jpeg
 Выпекать на смазанной маслом сковороде.
 
 Подавать фаршированные картофелем или рикоттой или мясом со сметаной или греческим йогуртом
+
+*Ig: ellamartino_foto*
