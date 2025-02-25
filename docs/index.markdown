@@ -17,8 +17,11 @@
   * [Рис для суши](https://mars9n9.github.io/Tips/rice.html)
 * Блины
   * [Катаеф \(с сыром\)](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/kataef.html)
-  * [Панкейки](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/pancake.html)
+  * [Креспелли с ветчиной и томатным соусом](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/crespelle-tomato-ham.html)
+  * [Креспелли с курицей и грибами](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/crespelle-chicken.html)
+  * [Креспелли с лососем](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/crespelle-salmon.html)
   * [Тесто для тонких блинчиков на молоке или пиве](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/la_pate_a_crepes.html)
+  * [Томатные блинчики](https://mars9n9.github.io/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B/crespelle-tomato.html)
 * Бутерброды и бургеры
   * Сендвичи
     * [Сэндвич на завтрак с омлетом, помидорами и сыром](https://mars9n9.github.io/%D0%91%D1%83%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%BE%D0%B4%D1%8B%20%D0%B8%20%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%D0%B8/breakfast-sandwich-with-omelette-tomatoes-and-cheese.html)
