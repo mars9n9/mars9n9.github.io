@@ -159,6 +159,7 @@
     * [Ракушки из макарон с начинкой из тыквы и сыра](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/butternut-squash-and-cheese-stuffed-pasta-shells.html)
     * [Сырная лазанья](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9B%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%D1%8F/syrnaya-lazanya.html)
   * [Паста](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/ix.html)
+    * [Pasta alla Zozzona](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/pasta-zozzona.html)
     * [Лингвини с вонголе \| Linguine alle vongole](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/lingvini-s-vongole-or-linguine-alle-vongole.html)
     * [Острая мисо карбонара](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/miso-carbonara.html)
     * [Паста "путанеска" \| Spaghetti alla puttanesca](https://mars9n9.github.io/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B8%D0%B7%D0%BE%D1%82%D1%82%D0%BE/%D0%9F%D0%B0%D1%81%D1%82%D0%B0/pasta-putaneska-spaghetti-alla-puttanesca.html)
