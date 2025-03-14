@@ -41,7 +41,7 @@
   * Несладкие кексы
     * [Закусочный кекс с томатом и базиликом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/zakusochnii-keks-s-tomatom-i-bazilikom.html)
     * [Ирландские картофельные булочки](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/irlandskie-kartofelnye-bulochki.html)
-    * [Кекс с пармезаном, чесноком и ароматными травами](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/keks_s_parmezanom-_chesnokom_i_aromatnimi_travami.html)
+    * [Кекс с пармезаном, чесноком и ароматными травами](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/cake-savory-cheese.html)
     * [Клафути с помидорами черри](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/klafuti-s-pomidorami-cherri.html)
     * [Мадлен с грецким орехом и сыром с голубой плесенью](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/madeleine-blue-cheese.html)
     * [Маффины с беконом и яйцом](https://mars9n9.github.io/%D0%92%D1%8B%D0%BF%D0%B5%D1%87%D0%BA%D0%B0/%D0%9D%D0%B5%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%B5%D0%BA%D1%81%D1%8B/bacon-egg-breakfast-muffins.html)
