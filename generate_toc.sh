@@ -5,8 +5,9 @@ generate_toc() {
     local base_folder="$1"
     local filetype_filter="$2"
     local level="$3"
+    local nl=$'\n'  # Define newline character
     local toc=""
-    
+
     # List directories excluding specific patterns
     local repo_folder_structure
     repo_folder_structure=$(find "$base_folder" -maxdepth 1 -mindepth 1 -type d ! -name "_site" ! -name "pics" ! -name "_posts" ! -name "styles" ! -name "_layouts" | sort)
@@ -16,9 +17,9 @@ generate_toc() {
         if [[ -f "$dir/ix.md" ]]; then
             relative_path=$(echo "$dir" | sed "s|$base_folder/||")
             suffix="https://mars9n9.github.io/$relative_path"
-            toc+=$(printf "%*s* [%s](%s/ix.html)\n" $((level * 2)) "" "$(basename "$dir")" "$suffix")
+            toc+="$(printf "%*s* [%s](%s/ix.html)" $((level * 2)) "" "$(basename "$dir")" "$suffix")$nl"
         else
-            toc+=$(printf "%*s* %s\n" $((level * 2)) "" "$(basename "$dir")")
+            toc+="$(printf "%*s* %s" $((level * 2)) "" "$(basename "$dir")")$nl"
         fi
 
         # Recursively call for subdirectories
@@ -47,7 +48,7 @@ generate_toc() {
         IFS=$'\n' sorted_pages=($(sort <<<"${pages[*]}"))
         unset IFS
         for item in "${sorted_pages[@]}"; do
-            toc+=$(printf "%*s* %s\n" $((level + 2)) "" "$item")
+            toc+="  $(printf "%*s* %s" $((level * 2)) "" "$item")$nl"
         done
     done
 
