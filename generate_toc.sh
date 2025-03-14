@@ -5,27 +5,30 @@ generate_toc() {
     local base_folder="$1"
     local filetype_filter="$2"
     local level="$3"
-    local nl=$'\n'  # Define newline character
     local toc=""
-
+    local nl=$'\n'  # Define newline character
+    
     # List directories excluding specific patterns
     local repo_folder_structure
     repo_folder_structure=$(find "$base_folder" -maxdepth 1 -mindepth 1 -type d ! -name "_site" ! -name "pics" ! -name "_posts" ! -name "styles" ! -name "_layouts" | sort)
 
     for dir in $repo_folder_structure; do
-        # Check if ix.md exists in the current directory
-        if [[ -f "$dir/ix.md" ]]; then
-            file_name=$(grep -m 1 '^#' "$dir/ix.md" | sed 's/^#\s*//')
-            if [[ -z "$file_name" ]]; then
-                file_name=$(basename "$dir")
-            fi
+        local entry_name=""
 
-            relative_path=$(echo "$dir" | sed "s|$base_folder/||")
-            suffix="https://mars9n9.github.io/$relative_path"
-            toc+="$(printf "%*s* [%s](%s/ix.html)" $((level * 2)) "" "$file_name" "$suffix")$nl"
+        if [[ -f "$dir/ix.md" ]]; then
+            # Read the first line starting with '#' from ix.md if exists
+            entry_name=$(grep -m 1 '^#' "$dir/ix.md" | sed 's/^#\s*//')
+            if [[ -z "$entry_name" ]]; then
+                entry_name=$(basename "$dir")  # If no valid header, use the folder name
+            fi
         else
-            toc+="$(printf "%*s* %s" $((level * 2)) "" "$(basename "$dir")")$nl"
+            entry_name=$(basename "$dir")  # Use the folder name if ix.md is missing
         fi
+
+        relative_path=$(echo "$dir" | sed "s|$base_folder/||")
+        suffix="https://mars9n9.github.io/$relative_path"
+
+        toc+=$(printf "%*s* [%s](%s/ix.html) $nl" $((level * 2)) "" "$entry_name" "$suffix")
 
         # Recursively call for subdirectories
         toc+=$(generate_toc "$dir" "$filetype_filter" $((level + 1)))
@@ -38,7 +41,7 @@ generate_toc() {
         for md in $md_files; do
             file_name=$(grep -m 1 '^#' "$md" | sed 's/^#\s*//')
             if [[ -z "$file_name" ]]; then
-                file_name=$(basename "$md" .md)
+                file_name=$(basename "$md" .md)  # If no header found, use the file name
             fi
 
             relative_path=$(echo "$md" | sed "s|$base_folder/||" | sed "s|/[^/]*$||")
@@ -47,11 +50,10 @@ generate_toc() {
             pages+=("$page_link")
         done
 
-        # Sort pages by name and add them to TOC
         IFS=$'\n' sorted_pages=($(sort <<<"${pages[*]}"))
         unset IFS
         for item in "${sorted_pages[@]}"; do
-            toc+="  $(printf "%*s* %s" $((level * 2)) "" "$item")$nl"
+            toc+=$(printf "%*s* %s$nl" $((level + 2)) "" "$item")
         done
     done
 
