@@ -6,54 +6,57 @@ generate_toc() {
     local filetype_filter="$2"
     local level="$3"
     local toc=""
-    local nl=$'\n'  # Define newline character
-    
+    local nl=$'\n' # Define newline character
+
     # List directories excluding specific patterns
     local repo_folder_structure
+
+    local oIFS="$IFS"
+    IFS="$nl"
     repo_folder_structure=$(find "$base_folder" -maxdepth 1 -mindepth 1 -type d ! -name "_site" ! -name "pics" ! -name "_posts" ! -name "styles" ! -name "_layouts" | sort)
 
     for dir in $repo_folder_structure; do
-        local entry_name=""
-
+        local entry_name=$(basename "$dir")
+        local parent_dir="$(dirname "$base_folder")"
+        local indent=$((level * 2))
+        local relative_path=$(echo "$dir" | sed "s|$parent_dir||")
+        local suffix="https://mars9n9.github.io$relative_path"
         if [[ -f "$dir/ix.md" ]]; then
-            # Read the first line starting with '#' from ix.md if exists
-            entry_name=$(grep -m 1 '^#' "$dir/ix.md" | sed 's/^#\s*//')
-            if [[ -z "$entry_name" ]]; then
-                entry_name=$(basename "$dir")  # If no valid header, use the folder name
+            # Generate the URL
+
+            if [[ $level -eq 0 ]]; then
+                suffix="https://mars9n9.github.io/$entry_name"
             fi
+            toc+=$(printf '%*s' $indent)$(printf '* [%s](%s/ix.html)' $entry_name $(echo "$suffix" | sed "s| |%20|g"))$nl
         else
-            entry_name=$(basename "$dir")  # Use the folder name if ix.md is missing
+            # If ix.md does not exist, show the folder name as plain text
+            toc+=$(printf '%*s' $indent)$(printf '* %s' $entry_name)$nl
         fi
 
-        relative_path=$(echo "$dir" | sed "s|$base_folder/||")
-        suffix="https://mars9n9.github.io/$relative_path"
-
-        toc+=$(printf "%*s* [%s](%s/ix.html) $nl" $((level * 2)) "" "$entry_name" "$suffix")
-
         # Recursively call for subdirectories
-        toc+=$(generate_toc "$dir" "$filetype_filter" $((level + 1)))
+        toc+=$(generate_toc "$dir" "$filetype_filter" $((level + 1)))$nl
 
         # Process Markdown files
         local pages=()
         local md_files
-        md_files=$(find "$dir" -type f -name "$filetype_filter" ! -name "ix.md" | sort)
+        IFS="$nl"
+        md_files=$(find "$dir" -maxdepth 1 -type f -name "$filetype_filter" ! -name "ix.md")
 
         for md in $md_files; do
-            file_name=$(grep -m 1 '^#' "$md" | sed 's/^#\s*//')
+            file_name=$(grep -m 1 '^#' "$md" | sed 's|^#\s*||')
+            unset IFS
             if [[ -z "$file_name" ]]; then
-                file_name=$(basename "$md" .md)  # If no header found, use the file name
+                file_name=$(basename "$md" .md) # If no header found, use the file name
             fi
 
-            relative_path=$(echo "$md" | sed "s|$base_folder/||" | sed "s|/[^/]*$||")
-            suffix="https://mars9n9.github.io/$relative_path"
-            page_link="[$file_name]($suffix/$(basename "$md" .md).html)"
-            pages+=("$page_link")
+            page_link="($suffix/$(basename "$md" .md).html)"
+            pages+=("[$file_name]$(echo "$page_link" | sed "s| |%20|g")")
         done
 
-        IFS=$'\n' sorted_pages=($(sort <<<"${pages[*]}"))
-        unset IFS
+        IFS="$nl" sorted_pages=($(sort <<<"${pages[*]}"))
         for item in "${sorted_pages[@]}"; do
-            toc+=$(printf "%*s* %s$nl" $((level + 2)) "" "$item")
+            file_indent=$(((level + 1) * 2))
+            toc+=$(printf '%*s' $file_indent)$(printf '* %s' $item)$nl
         done
     done
 
@@ -68,7 +71,7 @@ if [[ -d "$docs_folder" ]]; then
     # Generate the Table of Contents
     toc=$(generate_toc "$docs_folder" "*.md" 0)
     # Save the TOC to index.markdown
-    echo "$toc" > "$docs_folder/index.markdown"
+    echo "$toc" >"$docs_folder/index.markdown"
 else
     echo "No 'docs' folder found in the current directory."
 fi
