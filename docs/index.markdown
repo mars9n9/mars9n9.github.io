@@ -10,7 +10,6 @@
   * [Ньокки с грибами и козьим сыром](https://mars9n9.github.io/docs/Simple%20dinners/mushroom-gnocchi.html)
 * Tips
 
-  * [idealnoe_kartofelnoe_pyure](https://mars9n9.github.io/docs/Tips/idealnoe_kartofelnoe_pyure.html)
   * [Картошка в духовке](https://mars9n9.github.io/docs/Tips/potato-baked.html)
   * [Копчение](https://mars9n9.github.io/docs/Tips/Копчение.html)
   * [Котлеты](https://mars9n9.github.io/docs/Tips/Котлеты.html)
@@ -83,8 +82,6 @@
   * [Гороховое пюре](https://mars9n9.github.io/docs/Гарниры/gorokhovoe-pyure.html)
   * [Гречотто \(гречка приготовленная по методу ризотто\)](https://mars9n9.github.io/docs/Гарниры/grechotto.html)
   * [Конфи тандури из нута](https://mars9n9.github.io/docs/Гарниры/confit-chickpeas.html)
-  * [Перловая каша с белыми грибами](https://mars9n9.github.io/docs/Гарниры/perlovaya-kasha-s-belymi-gribami.html)
-  * [Перлотто \(ризотто из перловой крупы\)](https://mars9n9.github.io/docs/Гарниры/perlotto.html)
 * [Курица и птица](https://mars9n9.github.io/Курица%20и%20птица/ix.html)
 
   * [General Tso's Chicken](https://mars9n9.github.io/Курица%20и%20птица/general-tsos-chicken.html)
@@ -223,10 +220,8 @@
   * [Сaldeirada](https://mars9n9.github.io/Рагу/caldeira.html)
 * Рыба
 
-  * [Fiskgratang  \| Рыбный гратен](https://mars9n9.github.io/docs/Рыба/Fiskgratang.html)
   * [Гратен с сардинами, рисом и шпинатом](https://mars9n9.github.io/docs/Рыба/graten-s-sardinami-risom-i-shpinatom.html)
   * [Жареная рыба в пряной панировке](https://mars9n9.github.io/docs/Рыба/zharenaya_riba_v_pryanoi_panirovke.html)
-  * [Караси в сметане](https://mars9n9.github.io/docs/Рыба/karasi-v-smetane.html)
   * [Картофельные котлеты с лососем](https://mars9n9.github.io/docs/Рыба/kartofelnye-kotlety-s-lososem.html)
   * [Кефаль, запеченная в фольге \| Cefalo al cartoccio](https://mars9n9.github.io/docs/Рыба/kefal-zapechennaya-v-folge-or-cefalo-al-cartoccio.html)
   * [Лосось в апельсиновой глазури терияки](https://mars9n9.github.io/docs/Рыба/salmon_with_orange_teriyaki_glaze.html)
