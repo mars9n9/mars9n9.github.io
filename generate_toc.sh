@@ -11,13 +11,18 @@ generate_toc() {
     # List directories excluding specific patterns
     local repo_folder_structure
     repo_folder_structure=$(find "$base_folder" -maxdepth 1 -mindepth 1 -type d ! -name "_site" ! -name "pics" ! -name "_posts" ! -name "styles" ! -name "_layouts" | sort)
-    
+
     for dir in $repo_folder_structure; do
         # Check if ix.md exists in the current directory
         if [[ -f "$dir/ix.md" ]]; then
+            file_name=$(grep -m 1 '^#' "$dir/ix.md" | sed 's/^#\s*//')
+            if [[ -z "$file_name" ]]; then
+                file_name=$(basename "$dir")
+            fi
+
             relative_path=$(echo "$dir" | sed "s|$base_folder/||")
             suffix="https://mars9n9.github.io/$relative_path"
-            toc+="$(printf "%*s* [%s](%s/ix.html)" $((level * 2)) "" "$(basename "$dir")" "$suffix")$nl"
+            toc+="$(printf "%*s* [%s](%s/ix.html)" $((level * 2)) "" "$file_name" "$suffix")$nl"
         else
             toc+="$(printf "%*s* %s" $((level * 2)) "" "$(basename "$dir")")$nl"
         fi
@@ -31,10 +36,8 @@ generate_toc() {
         md_files=$(find "$dir" -type f -name "$filetype_filter" ! -name "ix.md" | sort)
 
         for md in $md_files; do
-            # Extract the first line starting with '#'
-            file_name=$(head -n 1 "$md" | sed 's/^#\s*//')
+            file_name=$(grep -m 1 '^#' "$md" | sed 's/^#\s*//')
             if [[ -z "$file_name" ]]; then
-                # If no heading is found, fallback to file name without extension
                 file_name=$(basename "$md" .md)
             fi
 
