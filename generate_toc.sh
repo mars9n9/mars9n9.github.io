@@ -14,7 +14,7 @@ generate_toc() {
     for dir in $repo_folder_structure; do
         # Check if ix.md exists in the current directory
         if [[ -f "$dir/ix.md" ]]; then
-            relative_path="${dir#$base_folder/}"
+            relative_path=$(echo "$dir" | sed "s|$base_folder/||")
             suffix="https://mars9n9.github.io/$relative_path"
             toc+=$(printf "%*s* [%s](%s/ix.html)\n" $((level * 2)) "" "$(basename "$dir")" "$suffix")
         else
@@ -27,18 +27,17 @@ generate_toc() {
         # Process Markdown files
         local pages=()
         local md_files
-        md_files=$(find "$dir" -maxdepth 1 -type f -name "$filetype_filter" ! -name "ix.md" | sort)
+        md_files=$(find "$dir" -type f -name "$filetype_filter" ! -name "ix.md" | sort)
 
         for md in $md_files; do
             # Extract the first line starting with '#'
-            file_name=$(grep -m 1 '^#' "$md" | sed 's/^#\s*//')
+            file_name=$(head -n 1 "$md" | sed 's/^#\s*//')
             if [[ -z "$file_name" ]]; then
                 # If no heading is found, fallback to file name without extension
                 file_name=$(basename "$md" .md)
             fi
 
-            relative_path="${md#$base_folder/}"
-            relative_path="${relative_path%/*}"
+            relative_path=$(echo "$md" | sed "s|$base_folder/||" | sed "s|/[^/]*$||")
             suffix="https://mars9n9.github.io/$relative_path"
             page_link="[$file_name]($suffix/$(basename "$md" .md).html)"
             pages+=("$page_link")
@@ -62,16 +61,8 @@ docs_folder="$current_directory/docs"
 if [[ -d "$docs_folder" ]]; then
     # Generate the Table of Contents
     toc=$(generate_toc "$docs_folder" "*.md" 0)
-    
     # Save the TOC to index.markdown
     echo "$toc" > "$docs_folder/index.markdown"
-    
-    # Git commit and push changes
-    if [[ -n "$(git status --porcelain)" ]]; then
-        git add "$docs_folder/index.markdown"
-        git commit -m "Update Table of Contents"
-        git push
-    fi
 else
     echo "No 'docs' folder found in the current directory."
 fi
