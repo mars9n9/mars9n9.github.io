@@ -4,10 +4,12 @@
   * [Грибы по строгановски](https://mars9n9.github.io/docs/Simple%20dinners/mushroom-stroganov.html)
   * [Курица в медовой глазури](https://mars9n9.github.io/docs/Simple%20dinners/chicken-honey.html)
   * [Курица с бураттой по-милански](https://mars9n9.github.io/docs/Simple%20dinners/buratta-chicken-milanese.html)
+  * [Курица с грибами](https://mars9n9.github.io/docs/Simple%20dinners/mushroom-chicken.html)
   * [Лосось с ньокки](https://mars9n9.github.io/docs/Simple%20dinners/SALMON-GNOCCHI.html)
   * [Лосось с орзо](https://mars9n9.github.io/docs/Simple%20dinners/salmon-orzo.html)
   * [Макароны с мясом](https://mars9n9.github.io/docs/Simple%20dinners/meat-pasta.html)
   * [Ньокки с грибами и козьим сыром](https://mars9n9.github.io/docs/Simple%20dinners/mushroom-gnocchi.html)
+  * [Фасоль в томатном соусе](https://mars9n9.github.io/docs/Simple%20dinners/tomato-beans.html)
 * Tips
 
   * [Картошка в духовке](https://mars9n9.github.io/docs/Tips/potato-baked.html)
@@ -16,6 +18,7 @@
   * [Куриный бульон](https://mars9n9.github.io/docs/Tips/chicken_broth.html)
   * [Подготовка языка](https://mars9n9.github.io/docs/Tips/preparation-tongue.html)
   * [Рис для суши](https://mars9n9.github.io/docs/Tips/rice.html)
+  * [Чит-коды к молочному рису](https://mars9n9.github.io/docs/Tips/milk-rice.html)
 * Блины
 
   * [Катаеф \(с сыром\)](https://mars9n9.github.io/docs/Блины/kataef.html)
@@ -63,6 +66,7 @@
   * [Кулебяка](https://mars9n9.github.io/docs/Выпечка/kulebyaka.html)
   * [Курник](https://mars9n9.github.io/docs/Выпечка/kurnik.html)
   * [Осетинский пирог](https://mars9n9.github.io/docs/Выпечка/osetinsky-pirog.html)
+  * [Охотничий пирог с курицей](https://mars9n9.github.io/docs/Выпечка/hunters-chicken-pie.html)
   * [Панисс \| Panisse](https://mars9n9.github.io/docs/Выпечка/paniss-or-panisse.html)
   * [Паскуалина \| Torta pasqualina](https://mars9n9.github.io/docs/Выпечка/torta-pasculiana.html)
   * [Пирог из слоеного теста с грушей и сыром](https://mars9n9.github.io/docs/Выпечка/pirog_iz_sloenogo_testa_s_grushei_i_sirom.html)
@@ -134,6 +138,7 @@
     * [Свиные фрикадельки с кунжутом и имбирем](https://mars9n9.github.io/Мясо/Митболлы/sesame-ginger-pork-meatballs.html)
     * [Фрикадельки в соусе с миндалем](https://mars9n9.github.io/Мясо/Митболлы/albondigas-en-salsa.html)
     * [Фрикадельки с яблочным сидром](https://mars9n9.github.io/Мясо/Митболлы/apple-cider-maple-meatballs.html)
+  * [Буженина](https://mars9n9.github.io/docs/Мясо/buzhenina.html)
   * [Картофельная запеканка Пармантье \| Hachis Parmentier](https://mars9n9.github.io/docs/Мясо/hachis_parmentier.html)
   * [Фаршированный батат](https://mars9n9.github.io/docs/Мясо/stuffed-sweet-potato.html)
   * [Яйцо по-шотландски](https://mars9n9.github.io/docs/Мясо/scottish-eggs.html)
@@ -188,6 +193,7 @@
     * [Паста с лисичками и фасолью](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-s-lisichkami-i-fasolyu.html)
     * [Паста с лососем \| Паста с 2 лососями \|\| Pâtes au saumon \| Pâtes aux deux saumons](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pates_au_saumonpates_aux_deux_saumons.html)
     * [Паста фарфалле с тунцом и помидорами черри](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-farfalle-s-tuntsom-i-pomidorami-cherri.html)
+    * [Сливочная лимонная паста с хрустящими крошками](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/creamy-lemon-pasta.html)
     * [Спагетти с сардинами](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/spagetti-sardines.html)
     * [Спагетти с чесноком и фундуком и запеченным шампиньоном](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/spagetti-s-chesnokom-i-fundukom-i-zapechennim-shampinonom.html)
     * [Творожная паста](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/cottage-cheese-pasta.html)
