@@ -20,7 +20,12 @@ generate_toc() {
         local parent_dir="$(dirname "$base_folder")"
         local indent=$((level * 2))
         local relative_path=$(echo "$dir" | sed "s|$parent_dir||")
+        if [[ $level -eq 0 ]]; then
+            relative_path=$(echo "$dir" | sed "s|$base_folder||")
+        fi
+
         local suffix="https://mars9n9.github.io$relative_path"
+
         if [[ -f "$dir/ix.md" ]]; then
             # Generate the URL
 
@@ -49,6 +54,7 @@ generate_toc() {
                 file_name=$(basename "$md" .md) # If no header found, use the file name
             fi
 
+            local suffix="https://mars9n9.github.io$relative_path"
             page_link="($suffix/$(basename "$md" .md).html)"
             pages+=("[$file_name]$(echo "$page_link" | sed "s| |%20|g")")
         done
