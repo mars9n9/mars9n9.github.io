@@ -80,4 +80,5 @@ if [[ -d "$docs_folder" ]]; then
     echo "$toc" >"$docs_folder/index.markdown"
 else
     echo "No 'docs' folder found in the current directory."
+    exit 1
 fi
