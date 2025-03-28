@@ -1,9 +1,9 @@
 ﻿---
-image: ..\pics\728836862f731dcfa6b532f2ace8b4ed.jpg
+image: ../pics/borshch.jpg
 ---
 # Борщ
 
-![Борщ](..\pics\728836862f731dcfa6b532f2ace8b4ed.jpg)
+![Борщ](../pics/borshch.jpg)
 
 #### Ингредиенты
 
