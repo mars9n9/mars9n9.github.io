@@ -275,7 +275,7 @@
   * [Борщ](https://mars9n9.github.io/Супы/borshch.html)
   * [Буайбес](https://mars9n9.github.io/Супы/buaibes.html)
   * [Грибной суп с паприкой](https://mars9n9.github.io/Супы/mushroom-paprika.html)
-  * [Крем-суп Пармантье | Potage Parmentier](https://mars9n9.github.io/Супы/potage_parmentier.html)
+  * [Крем-суп Пармантье \| Potage Parmentier](https://mars9n9.github.io/Супы/potage_parmentier.html)
   * [Крем-суп из топинамбура с морепродуктами](https://mars9n9.github.io/Супы/seafood-cream.html)
   * [Крем-суп из шампиньонов](https://mars9n9.github.io/Супы/mushroom-cream.html)
   * [Куриный суп с потрохами](https://mars9n9.github.io/Супы/kurinaja-lapsha-s-potrohami.html)
