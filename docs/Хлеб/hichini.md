@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/hychiny-s-kartofelem-i-syrom_79773_photo_94263.jpg
+image: ../pics/hychini.jpg
 ---
 # Хычины
 
-![Хычины](../pics/hychiny-s-kartofelem-i-syrom_79773_photo_94263.jpg)
+![Хычины](../pics/hychini.jpg)
 
 #### Ингредиенты
 на 4 лепешки

@@ -1,19 +1,19 @@
 ﻿---
-image: ../../pics/ltdtwmbqzg_tr98bfwr4_cm6dz4uqip4klmhiqqa6mthfrdtrrhdlaozw455esz97pylakovbp-qfw91tniiru4klfwesuj9mexreht8olw.jpg
+image: ../pics/marokkanskaya-ksra.jpg
 ---
 # Марокканская Ксра
 
-![](../../pics/ltdtwmbqzg_tr98bfwr4_cm6dz4uqip4klmhiqqa6mthfrdtrrhdlaozw455esz97pylakovbp-qfw91tniiru4klfwesuj9mexreht8olw.jpg)
+![Марокканская Ксра](../pics/marokkanskaya-ksra.jpg)
 
 #### Ингредиенты:
 
-* 200 мл воды 
-* 250 гр белой хлебной муки 
-* 75 гр манки 
-* 5 мл анисовой настойки 
-* 1 1/2 ч.л. соли 
-* 1/2 ч.л. сахара
-* 1 ч.л. быстрых сухих дрожжей 
+* вода 200 мл
+* сильная муки 250 г
+* манка 75 г
+* анисовая настойка 5 мл
+* соль 1 1/2 ч л
+* сахар 1/2 ч л
+* сухие дрожжи 1 ч л 
 * оливковое масло 
 * кунжутные семечки для посыпки
 
@@ -27,5 +27,4 @@ image: ../../pics/ltdtwmbqzg_tr98bfwr4_cm6dz4uqip4klmhiqqa6mthfrdtrrhdlaozw455es
 
 Нагреть духовку до 200С. Смазать каждую лепешку оливковым маслом, посыпать кунжутными семечками и наколоть лепешки вилкой. Печь 20-25 минут или до золотистого цвета. Лепешки при постукивании по ним пальцами должны издавать "пустой" звук.
 
-[_https://world-cuisine.livejournal.com/31643.html_](https://world-cuisine.livejournal.com/31643.html)
-
+*lg: world-cuisine*
