@@ -207,6 +207,7 @@
     * [Ризотто с лисичками. Ванильное \| Risotto aux girolles](https://mars9n9.github.io/Паста%20и%20ризотто/Ризотто/risotto_aux_girolles_-_rizotto_s_lisichkami_vaniln.html)
     * [Ризотто с лососем и зелёным горошком \| Risotto au saumon et petits pois](https://mars9n9.github.io/Паста%20и%20ризотто/Ризотто/risotto_au_saumon_et_petits_pois_-_rizotto_s_losos.html)
     * [Ризотто с морепродуктами](https://mars9n9.github.io/Паста%20и%20ризотто/Ризотто/risotto-ai-frutti-di-mare.html)
+    * [Ризотто со спаржей и шпинатом](https://mars9n9.github.io/Паста%20и%20ризотто/Ризотто/risotto-asparagus.html)
 * Пилаф
 
   * [Паэлья из куриных потрохов](https://mars9n9.github.io/Пилаф/paella-kurica.html)
