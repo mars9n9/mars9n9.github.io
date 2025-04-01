@@ -166,6 +166,7 @@
   * [Запеченная цветная капуста в соусе харисса](https://mars9n9.github.io/Овощи/cauliflower.html)
   * [Маринованные перцы](https://mars9n9.github.io/Овощи/peppers-marinated.html)
   * [Фаршированные баклажаны с бараниной и кедровыми орешками](https://mars9n9.github.io/Овощи/stuffed-aubergine.html)
+  * [Хрустящая фасоль с грибами и пармезаном](https://mars9n9.github.io/Овощи/crispy-butter-beans.html)
 * Паста и ризотто
   * [Лазанья](https://mars9n9.github.io/Паста%20и%20ризотто/Лазанья/ix.html)
 
