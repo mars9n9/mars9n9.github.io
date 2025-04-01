@@ -1,5 +1,5 @@
 ﻿---
-image: ../../pics/utrennie-bulki.jpg
+image: ../pics/utrennie-bulki.jpg
 ---
 # Утренние булки на закваске
 
