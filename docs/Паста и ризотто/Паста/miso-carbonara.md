@@ -1,9 +1,9 @@
 ﻿---
-image: ../../pics/Screenshot_20240728-003621~2.jpg
+image: ../../pics/miso-carbonara.jpg
 ---
 # Острая мисо карбонара
 
-![Острая мисо карбонара](../../pics/Screenshot_20240728-003621~2.jpg)
+![Острая мисо карбонара](../../pics/miso-carbonara.jpg)
 
 #### Ингредиенты
 

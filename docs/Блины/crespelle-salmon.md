@@ -5,7 +5,7 @@ image: ../pics/crespelle-salmon.jpg
 
  ![Креспелли с лососем](../pics/crespelle-salmon.jpg)
 
-#### Ингредиенты:
+#### Ингредиенты
 
 на 2 порции
 
@@ -17,7 +17,7 @@ image: ../pics/crespelle-salmon.jpg
 * микрозелень для подачи
 
 
-#### Приготовление:
+#### Приготовление
 
 Приготовить бешамель. Разогреть духовку до 200С. 
 
@@ -27,4 +27,4 @@ image: ../pics/crespelle-salmon.jpg
 
 Подавать украсив микрозеленью
 
-*lyukum.livejournal.com*
+*lg: lyukum*

@@ -1,9 +1,9 @@
 ﻿---
-image: ../../pics/b91f671163b5cb2397c8763f83f98aaf.jpg
+image: ../../pics/risotto-milanese.jpg
 ---
 # Ризотто по-милански \| Risotto Milanese
 
-![Risotto Milanese](../../pics/b91f671163b5cb2397c8763f83f98aaf.jpg)
+![Risotto Milanese](../../pics/risotto-milanese.jpg)
 
 #### Ингредиенты
 

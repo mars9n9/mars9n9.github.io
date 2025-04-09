@@ -1,9 +1,9 @@
 ﻿---
-image: ../../pics/39c0f8f86c0175c49d802.jpg
+image: ../../pics/pasticio.jpg
 ---
 # Пастицио \| Παστίτσιο
 
-![Пастицио](../../pics/39c0f8f86c0175c49d802.jpg)
+![Пастицио](../../pics/pasticio.jpg)
 
 #### Ингредиенты
 

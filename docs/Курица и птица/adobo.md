@@ -1,5 +1,5 @@
 ﻿---
-image: ../pics/Filipino-Chicken-Adobo_7.webp
+image: ../pics/adobo.webp
 ---
 # Адобо
 
@@ -7,7 +7,7 @@ image: ../pics/Filipino-Chicken-Adobo_7.webp
 
 По сути, ключевыми ингредиентами являются правильный баланс соевого соуса, уксуса, черного перца и сахара, которые создают липкую глазурь с глубоким вкусом.
 
-![Адобо](../pics/Filipino-Chicken-Adobo_7.webp)
+![Адобо](../pics/adobo.webp)
 
 #### Ингредиенты
 
@@ -36,4 +36,4 @@ image: ../pics/Filipino-Chicken-Adobo_7.webp
 
 Покрыть курицу глазурью и подавать с рисом.
 
-*https://www.bonappetit.com/*
+*bonappetit.com/*

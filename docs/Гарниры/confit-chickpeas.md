@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/tandoorichickpeas_2.jpg
+image: ../pics/confit-chickpeas.jpg
 ---
 # Конфи тандури из нута
 
-![Конфи тандури из нута](../pics/tandoorichickpeas_2.jpg)
+![Конфи тандури из нута](../pics/confit-chickpeas.jpg)
 
 #### Ингредиенты
 на 2 порции

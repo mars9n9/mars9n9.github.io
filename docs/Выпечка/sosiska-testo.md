@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/photo_2019-10-25_10-01-36.jpg
+image: ../pics/sosiska-testo.jpg
 ---
 # Сосиска в тесте
 
-![Сосиска в тесте](../pics/photo_2019-10-25_10-01-36.jpg)
+![Сосиска в тесте](../pics/sosiska-testo.jpg)
 
 #### Ингредиенты
 

@@ -1,9 +1,9 @@
 ﻿---
-image: ..\pics\blt-potato-salad-2-600x900.jpg
+image: ..\pics\blt-potato.jpg
 ---
 # Салат бекон, латук, томаты, картофель \| BLT Potato Salad
 
-![BLT Potato Salad](..\pics\blt-potato-salad-2-600x900.jpg)
+![BLT Potato Salad](..\pics\blt-potato.jpg)
 
 #### Ингредиенты
 
@@ -36,4 +36,4 @@ image: ..\pics\blt-potato-salad-2-600x900.jpg
 
 Для подачи выложить салат романо на большое сервировочное блюдо, затем выложить сверху картофельный салат и украсить двумя последними ломтиками бекона. Картофельный салат хорошо хранится в плотно закрытой посуде в холодильнике до 3 дней.
 
-[*https://www.paleorunningmomma.com/blt-potato-salad-paleo-whole30/*](https://www.paleorunningmomma.com/blt-potato-salad-paleo-whole30/)
+*paleorunningmomma.com*

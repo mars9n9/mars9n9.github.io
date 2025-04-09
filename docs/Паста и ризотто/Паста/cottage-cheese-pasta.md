@@ -1,9 +1,9 @@
 ﻿---
-image: ../../pics/Screenshot_20240728-003931~2.jpg
+image: ../../pics/cottage-cheese-pasta.jpg
 ---
 # Творожная паста
 
-![Творожная паста](../../pics/Screenshot_20240728-003931~2.jpg)
+![Творожная паста](../../pics/cottage-cheese-pasta.jpg)
 
 #### Ингредиенты
 на 4 порции

@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/13937097701_16cd98f018.jpg
+image: ../pics/osetinsky-pirog.jpg
 ---
 # Осетинский пирог
 
-![Осетинский пирог](../pics/13937097701_16cd98f018.jpg)
+![Осетинский пирог](../pics/osetinsky-pirog.jpg)
 
 #### Ингредиенты
 на 3 пирога

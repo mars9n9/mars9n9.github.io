@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/acfc6f2e23ee44f58b1983407411b582.jpg
+image: ../pics/cheese.jpg
 ---
 # Сырный соус
 
-![Сырный соус](../pics/acfc6f2e23ee44f58b1983407411b582.jpg)
+![Сырный соус](../pics/cheese.jpg)
 
 #### Ингредиенты
 
@@ -23,4 +23,4 @@ image: ../pics/acfc6f2e23ee44f58b1983407411b582.jpg
 
 Хранить в холодильнике до 5 дней
 
-[eda.ru](http://eda.ru)
+*eda.ru*

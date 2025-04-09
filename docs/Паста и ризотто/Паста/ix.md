@@ -6,4 +6,4 @@
 
 А когда ваш соус будет готов, просто киньте в него пасту, и ровно через минуту у вас будет прекрасное al dente.
 
-[_Food&Science_](https://t.me/foodandscience)
+_tg: foodandscience_

@@ -34,4 +34,4 @@ image: ../pics/cream-bun-mozarella.jpg
 
 Перед подачей немного охладить, украсить веточками тимьяна.
 
-*lillaya.livejournal.com*
+*lg: lillaya*

@@ -1,9 +1,9 @@
 ﻿---
-image: ../../pics/6b240fa5df9353c373272.jpg
+image: ../../pics/zitti-al-forno.jpg
 ---
 # Ziti al forno  \| Зити запеченные в томатном соусе с маленькими фрикадельками
 
-![Ziti al forno](../../pics/6b240fa5df9353c373272.jpg)
+![Ziti al forno](../../pics/zitti-al-forno.jpg)
 
 ## Ингредиенты
 

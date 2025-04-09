@@ -1,9 +1,9 @@
 ﻿---
-image: ../../pics/02dce25fb70bef390ccad3e126c2999b.jpg
+image: ../../pics/lasagna.jpg
 ---
 # Лазанья
 
-![Лазанья](../../pics/02dce25fb70bef390ccad3e126c2999b.jpg)
+![Лазанья](../../pics/lasagna.jpg)
 
 #### Ингредиенты
 

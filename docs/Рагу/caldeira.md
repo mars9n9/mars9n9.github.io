@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/photo_2022-11-10_13-48-39.jpg
+image: ../pics/caldeira.jpg
 ---
 # Сaldeirada
 
-![Сaldeirada](../pics/photo_2022-11-10_13-48-39.jpg)
+![Сaldeirada](../pics/caldeira.jpg)
 
 #### Ингредиенты
 
@@ -34,4 +34,4 @@ image: ../pics/photo_2022-11-10_13-48-39.jpg
 Посыпать петрушкой, и оставить настояться минут на 30.  
 Подавать всего с поджаренным хлебом, натертым чесноком.
 
-*https://t.me/sestrytokarevy*
+*tg: sestrytokarevy*

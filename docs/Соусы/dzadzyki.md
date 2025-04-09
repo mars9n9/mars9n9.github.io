@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/dzadziki-new.jpg
+image: ../pics/dzadziki.jpg
 ---
 # Дзадзики
 
-![Дзадзики](../pics/dzadziki-new.jpg)
+![Дзадзики](../pics/dzadziki.jpg)
 
 #### Ингредиенты
 

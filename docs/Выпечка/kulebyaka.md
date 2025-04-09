@@ -16,4 +16,4 @@ image: ../pics/photo_2022-01-16_20-14-29.jpg
 
 ![](../pics/photo_2022-01-16_20-14-29.jpg)
 
-_<https://t.me/ryabchiki>_
+_tg: ryabchiki_

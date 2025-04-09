@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/boeuf_bourguignon_25475_16x9.jpg
+image: ../pics/boeuf_bourguignon.jpg
 ---
 # Говядина по-бургундски \| Boeuf bourguignon
 
-![](../pics/boeuf_bourguignon_25475_16x9.jpg)
+![](../pics/boeuf_bourguignon.jpg)
 
 #### Ингредиенты
 

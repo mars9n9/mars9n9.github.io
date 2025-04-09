@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/photo_2022-11-16_18-34-56.jpg
+image: ../pics/stuffed-sweet-potato.jpg
 ---
 # Фаршированный батат
 
-![](../pics/photo_2022-11-16_18-34-56.jpg)
+![Фаршированный батат](../pics/stuffed-sweet-potato.jpg)
 
 #### Ингредиенты
 

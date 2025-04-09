@@ -1,5 +1,5 @@
 ﻿---
-image: https://s-media-cache-ak0.pinimg.com/564x/ef/8a/e0/ef8ae0d2a296d1c59b64c0f7a520e036.jpg
+image: ../pics/cobb.jpg
 ---
 # Кобб салат
 
@@ -7,9 +7,9 @@ image: https://s-media-cache-ak0.pinimg.com/564x/ef/8a/e0/ef8ae0d2a296d1c59b64c0
 
 Сегодня Кобб салат готовят и с отварной, и с запеченой, и с жареной грудкой. Сыр используют либо чеддер, либо с голубой плесенью типа Дор Блю. Также варьируется наличие сельдерея в составе и вид заправки.
 
-![](https://s-media-cache-ak0.pinimg.com/564x/ef/8a/e0/ef8ae0d2a296d1c59b64c0f7a520e036.jpg)
+![Кобб салат](../pics/cobb.jpg)
 
-#### Ингредиенты:
+#### Ингредиенты
 
 на 2 порции
 
@@ -27,7 +27,7 @@ image: https://s-media-cache-ak0.pinimg.com/564x/ef/8a/e0/ef8ae0d2a296d1c59b64c0
 * 2 ст.л. белого винного уксуса;
 * 4 ст.л. оливкового масла. 
 
-#### Приготовление:
+#### Приготовление
 
 Чеснок пропустить через пресс.
 
@@ -42,6 +42,3 @@ image: https://s-media-cache-ak0.pinimg.com/564x/ef/8a/e0/ef8ae0d2a296d1c59b64c0
 Сверху полосками выкложить остальные ингредиенты.
 
 Заправка подается отдельно.
-
-[_http://world-cuisine.livejournal.com/263453.html_](http://world-cuisine.livejournal.com/263453.html)
-

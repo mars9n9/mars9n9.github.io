@@ -1,11 +1,11 @@
-﻿---
-image: ../../pics/c2ea05bd25bb98f94111e63b13eec3cc.jpg
+﻿---risotto-red
+image: ../../pics/risotto.jpg
 ---
 # Ризотто
 
-![Ризотто](../../pics/c2ea05bd25bb98f94111e63b13eec3cc.jpg)
+![Ризотто](../../pics/risotto.jpg)
 
-![Ризотто с красным вином](../../pics/556ab8da720f0f92d173a9b740907467.jpg)
+![Ризотто с красным вином](../../pics/risotto-red.jpg)
 
 ## История
 
