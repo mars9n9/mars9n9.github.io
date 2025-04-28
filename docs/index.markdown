@@ -101,6 +101,7 @@
   * [Тушеная в сидре курица с рисом](https://mars9n9.github.io/Курица%20и%20птица/cider-braised-chicken.html)
   * [Хрустящая острая курица с медом и фетой](https://mars9n9.github.io/Курица%20и%20птица/chicken-honey-feta.html)
   * [Хрустящее куриное филе в сыре](https://mars9n9.github.io/Курица%20и%20птица/crusty-chicken.html)
+  * [Хрустящие наггетсы](https://mars9n9.github.io/Курица%20и%20птица/nuggets.html)
 * Морепродукты
 
   * [Кремовые креветки по-тоскански](https://mars9n9.github.io/Морепродукты/creamy-tuscan-prawns.html)
