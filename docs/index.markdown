@@ -131,6 +131,7 @@
 
   * [Баклажаны под сыром](https://mars9n9.github.io/Овощи/eggplant-cheese.html)
   * [Запеченная цветная капуста в соусе харисса](https://mars9n9.github.io/Овощи/cauliflower.html)
+  * [Картофельная запеканка с грибами](https://mars9n9.github.io/Овощи/potato-mushroom-casserole.html)
   * [Маринованные перцы](https://mars9n9.github.io/Овощи/peppers-marinated.html)
   * [Фаршированные баклажаны с бараниной и кедровыми орешками](https://mars9n9.github.io/Овощи/stuffed-aubergine.html)
   * [Хрустящая фасоль с грибами и пармезаном](https://mars9n9.github.io/Овощи/crispy-butter-beans.html)
@@ -198,6 +199,7 @@
 
   * [Гратен с сардинами, рисом и шпинатом](https://mars9n9.github.io/Рыба/graten-rice.html)
   * [Картофельные котлеты с лососем](https://mars9n9.github.io/Рыба/potato-salmon-cutlet.html)
+  * [Рыба в картофельной корочке](https://mars9n9.github.io/Рыба/fish-potato-crust.html)
   * [Стейки форели с вустерским соусом, мёдом и тимьяном](https://mars9n9.github.io/Рыба/salmon-honey.html)
 * Салаты
 
@@ -239,6 +241,7 @@
   * [Крем-суп из топинамбура с морепродуктами](https://mars9n9.github.io/Супы/seafood-cream.html)
   * [Крем-суп из шампиньонов](https://mars9n9.github.io/Супы/mushroom-cream.html)
   * [Куриный суп с потрохами](https://mars9n9.github.io/Супы/kurinaja-lapsha-s-potrohami.html)
+  * [Лаблаби](https://mars9n9.github.io/Супы/lablabi.html)
   * [Марроканский суп из тыквы с козьим сыром, кремом из имбиря и фисташками](https://mars9n9.github.io/Супы/moroccan_butternut.html)
   * [Рамен \| Ramen](https://mars9n9.github.io/Супы/ramen.html)
   * [Рисовый cуп с курицей \| Chicken Congee](https://mars9n9.github.io/Супы/chicken-congee.html)
