@@ -22,6 +22,7 @@
 * Блины
 
   * [Катаеф \(с сыром\)](https://mars9n9.github.io/Блины/kataef.html)
+  * [Классические сырники](https://mars9n9.github.io/Блины/syrniki.html)
   * [Креспелли с ветчиной и томатным соусом](https://mars9n9.github.io/Блины/crespelle-tomato-ham.html)
   * [Креспелли с курицей и грибами](https://mars9n9.github.io/Блины/crespelle-chicken.html)
   * [Креспелли с лососем](https://mars9n9.github.io/Блины/crespelle-salmon.html)
@@ -77,7 +78,7 @@
   * [Энчилада \| Enchiladas](https://mars9n9.github.io/Выпечка/enchiladas.html)
 * Гарниры
 
-  * [Гороховое пюре](https://mars9n9.github.io/Гарниры/gorokhovoe-pyure.html)
+  * [Драники](https://mars9n9.github.io/Гарниры/draniki.html)
   * [Конфи тандури из нута](https://mars9n9.github.io/Гарниры/confit-chickpeas.html)
 * [Курица и птица](https://mars9n9.github.io/Курица%20и%20птица/ix.html)
 
@@ -112,6 +113,7 @@
     * [Фрикадельки с яблочным сидром](https://mars9n9.github.io/Мясо/Митболлы/apple-cider-maple-meatballs.html)
   * [Буженина](https://mars9n9.github.io/Мясо/buzhenina.html)
   * [Картофельная запеканка Пармантье \| Hachis Parmentier](https://mars9n9.github.io/Мясо/hachis_parmentier.html)
+  * [Картофельные котлетки с ветчиной](https://mars9n9.github.io/Мясо/potato-zrazi.html)
   * [Фаршированный батат](https://mars9n9.github.io/Мясо/stuffed-sweet-potato.html)
   * [Яйцо по-шотландски](https://mars9n9.github.io/Мясо/scotch-egg.html)
 * Намазки
