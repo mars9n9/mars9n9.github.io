@@ -68,7 +68,6 @@
   * [Пирог из слоеного теста с грушей и сыром](https://mars9n9.github.io/Выпечка/pear-pie.html)
   * [Пирожки из творожного теста с шампиньонами и улитками](https://mars9n9.github.io/Выпечка/escargot-pies.html)
   * [Пудинг из яблок, голубого сыра и хлеба](https://mars9n9.github.io/Выпечка/pudding.html)
-  * [Самса по-домашнему](https://mars9n9.github.io/Выпечка/samsa-po-domashnemu.html)
   * [Сдобные сметанные булочки с семечками и сыром](https://mars9n9.github.io/Выпечка/cheese-seeds-buns.html)
   * [Сливочные булочки с тимьяном, моцареллой и вялеными помидорами](https://mars9n9.github.io/Выпечка/cream-bun-mozarella.html)
   * [Сосиска в тесте](https://mars9n9.github.io/Выпечка/sosiska-testo.html)
@@ -125,9 +124,6 @@
     * [Пряный паштет из куриной печени](https://mars9n9.github.io/Намазки/Паштеты/pate.html)
   * [Креветки с авокадо](https://mars9n9.github.io/Намазки/avocado-shrimp.html)
   * [Томатный джем](https://mars9n9.github.io/Намазки/tomato-jam.html)
-* Напитки
-
-  * [Лавандовый горячий шоколад](https://mars9n9.github.io/Напитки/lavandovyi-goryachii-shokolad.html)
 * Овощи
 
   * [Баклажаны под сыром](https://mars9n9.github.io/Овощи/eggplant-cheese.html)
@@ -204,6 +200,7 @@
   * [Стейки форели с вустерским соусом, мёдом и тимьяном](https://mars9n9.github.io/Рыба/salmon-honey.html)
 * Салаты
 
+  * [Весенний кобб салат](https://mars9n9.github.io/Салаты/spring-cobb.html)
   * [Греческий салат](https://mars9n9.github.io/Салаты/grecheskii_salat.html)
   * [Кобб салат](https://mars9n9.github.io/Салаты/cobb.html)
   * [Лимонный картофельный салат](https://mars9n9.github.io/Салаты/potato-lemon.html)
@@ -218,14 +215,12 @@
 * Соусы
 
   * [Cоус руй \| Rouille](https://mars9n9.github.io/Соусы/rouille.html)
-  * [Salsa verde](https://mars9n9.github.io/Соусы/salsa_verde.html)
   * [Бешамель](https://mars9n9.github.io/Соусы/besciamella.html)
   * [Голландский соус \| Sauce hollandaise](https://mars9n9.github.io/Соусы/sauce_hollandaise.html)
   * [Дзадзики](https://mars9n9.github.io/Соусы/dzadzyki.html)
   * [Креольский майонез](https://mars9n9.github.io/Соусы/kreol-mayonnaise.html)
   * [Майонез \| La mayonnaise](https://mars9n9.github.io/Соусы/mayonnaise.html)
   * [Маринара \| Alla marinara](https://mars9n9.github.io/Соусы/marinara.html)
-  * [Соус Болоньезе](https://mars9n9.github.io/Соусы/sous_boloneze.html)
   * [Сырный соус](https://mars9n9.github.io/Соусы/cheese.html)
 * Субпродукты
 
@@ -254,8 +249,6 @@
 * Хлеб
 
   * [Naan - индийские лепешки](https://mars9n9.github.io/Хлеб/naan.html)
-  * [Pan de cristal](https://mars9n9.github.io/Хлеб/pan-de-cristal.html)
-  * [Pan de mie complet, французский хлеб с добавлением цельнозерновой муки](https://mars9n9.github.io/Хлеб/pan-de-mie-complet.html)
   * [Spicy Cheese Bread \| Пряный сырный хлеб](https://mars9n9.github.io/Хлеб/spicy-cheese-bread.html)
   * [Алу Парантха](https://mars9n9.github.io/Хлеб/aloo-parathas.html)
   * [Базиликовый хлеб на закваске](https://mars9n9.github.io/Хлеб/basil-bread.html)
