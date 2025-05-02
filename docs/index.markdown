@@ -78,6 +78,8 @@
   * [Энчилада \| Enchiladas](https://mars9n9.github.io/Выпечка/enchiladas.html)
 * Гарниры
 
+  * [Батат с инжиром](https://mars9n9.github.io/Гарниры/butternut-tahini.html)
+  * [Батат с инжиром](https://mars9n9.github.io/Гарниры/sweet-potato-fig.html)
   * [Драники](https://mars9n9.github.io/Гарниры/draniki.html)
   * [Конфи тандури из нута](https://mars9n9.github.io/Гарниры/confit-chickpeas.html)
 * [Курица и птица](https://mars9n9.github.io/Курица%20и%20птица/ix.html)
@@ -129,6 +131,7 @@
 * Овощи
 
   * [Баклажаны под сыром](https://mars9n9.github.io/Овощи/eggplant-cheese.html)
+  * [Жареные помидоры с огуречной сальсой](https://mars9n9.github.io/Овощи/fried-tomatoes-cucumber-salsa.html)
   * [Запеченная цветная капуста в соусе харисса](https://mars9n9.github.io/Овощи/cauliflower.html)
   * [Картофельная запеканка с грибами](https://mars9n9.github.io/Овощи/potato-mushroom-casserole.html)
   * [Маринованные перцы](https://mars9n9.github.io/Овощи/peppers-marinated.html)
@@ -213,7 +216,9 @@
   * [Салат из запеченной свеклы](https://mars9n9.github.io/Салаты/beetroot-salad.html)
   * [Салат из курицы в карри-соусе на тостах](https://mars9n9.github.io/Салаты/coronation-salad.html)
   * [Салат с авокадо, свеклой и обжаренным козьим сыром](https://mars9n9.github.io/Салаты/beetroot-avocado.html)
+  * [Салат с артишоком](https://mars9n9.github.io/Салаты/artichoke-herb-salad.html)
   * [Салат с фасолью и креветками](https://mars9n9.github.io/Салаты/shrimp-bean.html)
+  * [Салат с финиками и миндалем](https://mars9n9.github.io/Салаты/salad-dates-almonds.html)
 * Соусы
 
   * [Cоус руй \| Rouille](https://mars9n9.github.io/Соусы/rouille.html)
