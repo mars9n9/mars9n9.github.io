@@ -135,6 +135,7 @@
   * [Запеченная цветная капуста в соусе харисса](https://mars9n9.github.io/Овощи/cauliflower.html)
   * [Картофельная запеканка с грибами](https://mars9n9.github.io/Овощи/potato-mushroom-casserole.html)
   * [Маринованные перцы](https://mars9n9.github.io/Овощи/peppers-marinated.html)
+  * [Тартифлетт](https://mars9n9.github.io/Овощи/tartiflette.html)
   * [Фаршированные баклажаны с бараниной и кедровыми орешками](https://mars9n9.github.io/Овощи/stuffed-aubergine.html)
   * [Хрустящая фасоль с грибами и пармезаном](https://mars9n9.github.io/Овощи/crispy-butter-beans.html)
 * Паста и ризотто
@@ -159,6 +160,7 @@
     * [Паста Фламбе с лесными грибами](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-mushroom-flamber.html)
     * [Паста карбонара с кальмарами](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-carbonara-kalmari.html)
     * [Паста пенне в сливочном томатном соусе с грибами и водкой](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-alla-vodka.html)
+    * [Паста с белой спаржей и беконом](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/white-asparagus-pasta.html)
     * [Паста с ветчиной и оливками в сливочном соусе](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-ham-olives.html)
     * [Паста с грибами и зеленым горошком](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-mushroom-peas.html)
     * [Паста с креветками и салями](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/shrimp-salami-pasta.html)
@@ -239,6 +241,7 @@
   * [Авголемоно \| Avgolemono](https://mars9n9.github.io/Супы/avgolemono.html)
   * [Борщ](https://mars9n9.github.io/Супы/borshch.html)
   * [Буайбес](https://mars9n9.github.io/Супы/buaibes.html)
+  * [Гороховый суп](https://mars9n9.github.io/Супы/goroh.html)
   * [Грибной суп с паприкой](https://mars9n9.github.io/Супы/mushroom-paprika.html)
   * [Крем-суп Пармантье \| Potage Parmentier](https://mars9n9.github.io/Супы/potage_parmentier.html)
   * [Крем-суп из топинамбура с морепродуктами](https://mars9n9.github.io/Супы/seafood-cream.html)
@@ -253,6 +256,7 @@
   * [Том-ям-кунг](https://mars9n9.github.io/Супы/tomyam.html)
   * [Турецкий чечевичный суп с мятой (Mercimek Çorbasi)](https://mars9n9.github.io/Супы/mercimek_corbasi.html)
   * [Тыквенный суп с пармезаном и корицей](https://mars9n9.github.io/Супы/tikva_parmezan.html)
+  * [Чечевичный суп с рикоттой и фисташками](https://mars9n9.github.io/Супы/lentil-ricotta.html)
 * Хлеб
 
   * [Naan - индийские лепешки](https://mars9n9.github.io/Хлеб/naan.html)
