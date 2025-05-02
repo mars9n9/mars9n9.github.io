@@ -1,9 +1,9 @@
 ﻿---
 image: ../pics/butternut-tahini.webp
 ---
-# Батат с инжиром
+# Тыква с тахини и заатаром
 
-![Батат с инжиром](../pics/butternut-tahini.webp)
+![Тыква с тахини и заатаром](../pics/butternut-tahini.webp)
 
 ###### Ингредиенты
 
