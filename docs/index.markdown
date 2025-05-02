@@ -78,10 +78,10 @@
   * [Энчилада \| Enchiladas](https://mars9n9.github.io/Выпечка/enchiladas.html)
 * Гарниры
 
-  * [Батат с инжиром](https://mars9n9.github.io/Гарниры/butternut-tahini.html)
   * [Батат с инжиром](https://mars9n9.github.io/Гарниры/sweet-potato-fig.html)
   * [Драники](https://mars9n9.github.io/Гарниры/draniki.html)
   * [Конфи тандури из нута](https://mars9n9.github.io/Гарниры/confit-chickpeas.html)
+  * [Тыква с тахини и заатаром](https://mars9n9.github.io/Гарниры/butternut-tahini.html)
 * [Курица и птица](https://mars9n9.github.io/Курица%20и%20птица/ix.html)
 
   * [General Tso's Chicken](https://mars9n9.github.io/Курица%20и%20птица/general-tsos-chicken.html)
