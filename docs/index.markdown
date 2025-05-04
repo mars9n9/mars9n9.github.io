@@ -32,8 +32,13 @@
   * [Тесто для тонких блинчиков на молоке или пиве](https://mars9n9.github.io/Блины/crepes.html)
   * [Томатные блинчики](https://mars9n9.github.io/Блины/crespelle-tomato.html)
 * Бутерброды и бургеры
+  * Бургеры
+
+    * [Бургер Оклахома](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Бургеры/nashville.html)
+    * [Бургер Оклахома](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Бургеры/oklahoma.html)
   * Сендвичи
 
+    * [Бейгл с яйцом на завтрак](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/bagel-egg.html)
     * [Кесадилья с лососем](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/quesadilla-salmon.html)
     * [Сэндвич с яичницей, беконом и сыром](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/egg-bacon-sandwich.html)
     * [Тортильи на завтрак с омлетом, помидорами и сыром](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/tortilla-omelette-tomatoes.html)
