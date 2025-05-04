@@ -5,6 +5,7 @@
   * [Курица в медовой глазури](https://mars9n9.github.io/Simple%20dinners/chicken-honey.html)
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
   * [Курица с грибами](https://mars9n9.github.io/Simple%20dinners/mushroom-chicken.html)
+  * [Курица с имбирем и брюссельской капустой](https://mars9n9.github.io/Simple%20dinners/chicken-ginger-brussels.html)
   * [Лосось с ньокки](https://mars9n9.github.io/Simple%20dinners/SALMON-GNOCCHI.html)
   * [Лосось с орзо](https://mars9n9.github.io/Simple%20dinners/salmon-orzo.html)
   * [Макароны с мясом](https://mars9n9.github.io/Simple%20dinners/meat-pasta.html)
@@ -16,6 +17,7 @@
   * [Копчение](https://mars9n9.github.io/Tips/Копчение.html)
   * [Котлеты](https://mars9n9.github.io/Tips/Котлеты.html)
   * [Куриный бульон](https://mars9n9.github.io/Tips/chicken_broth.html)
+  * [Подготовка рыбы](https://mars9n9.github.io/Tips/fish.html)
   * [Подготовка языка](https://mars9n9.github.io/Tips/preparation-tongue.html)
   * [Рис для суши](https://mars9n9.github.io/Tips/rice.html)
   * [Чит-коды к молочному рису](https://mars9n9.github.io/Tips/milk-rice.html)
@@ -26,11 +28,13 @@
   * [Креспелли с ветчиной и томатным соусом](https://mars9n9.github.io/Блины/crespelle-tomato-ham.html)
   * [Креспелли с курицей и грибами](https://mars9n9.github.io/Блины/crespelle-chicken.html)
   * [Креспелли с лососем](https://mars9n9.github.io/Блины/crespelle-salmon.html)
+  * [Нормандские гречневые галетт](https://mars9n9.github.io/Блины/galette.html)
   * [Тесто для тонких блинчиков на молоке или пиве](https://mars9n9.github.io/Блины/crepes.html)
   * [Томатные блинчики](https://mars9n9.github.io/Блины/crespelle-tomato.html)
 * Бутерброды и бургеры
   * Сендвичи
 
+    * [Кесадилья с лососем](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/quesadilla-salmon.html)
     * [Сэндвич с яичницей, беконом и сыром](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/egg-bacon-sandwich.html)
     * [Тортильи на завтрак с омлетом, помидорами и сыром](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/tortilla-omelette-tomatoes.html)
     * [Тост с авокадо и яйцом \| The holy egg & avo](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/holy-avo-egg.html)
@@ -53,6 +57,8 @@
     * [Маффины с беконом и яйцом](https://mars9n9.github.io/Выпечка/Несладкие%20кексы/bacon-egg-breakfast-muffins.html)
   * Несладкое печенье
 
+    * [Печенье с чоризо и вялеными томатами](https://mars9n9.github.io/Выпечка/Несладкое%20печенье/chorizo-cookies.html)
+    * [Сырное печенье с маком](https://mars9n9.github.io/Выпечка/Несладкое%20печенье/poppy-cookies.html)
     * [Сырное печенье с табаско](https://mars9n9.github.io/Выпечка/Несладкое%20печенье/tabasco-cookies.html)
   * [Empanadas](https://mars9n9.github.io/Выпечка/empanadas.html)
   * [Булочки с начинкой из трех видов сыра](https://mars9n9.github.io/Выпечка/cheese-buns.html)
@@ -67,6 +73,7 @@
   * [Панисс \| Panisse](https://mars9n9.github.io/Выпечка/panisse.html)
   * [Паскуалина \| Torta pasqualina](https://mars9n9.github.io/Выпечка/torta-pasculiana.html)
   * [Пирог из слоеного теста с грушей и сыром](https://mars9n9.github.io/Выпечка/pear-pie.html)
+  * [Пирог из теста фило с бараниной и фетой](https://mars9n9.github.io/Выпечка/filo-meat-pie.html)
   * [Пирожки из творожного теста с шампиньонами и улитками](https://mars9n9.github.io/Выпечка/escargot-pies.html)
   * [Пудинг из яблок, голубого сыра и хлеба](https://mars9n9.github.io/Выпечка/pudding.html)
   * [Сдобные сметанные булочки с семечками и сыром](https://mars9n9.github.io/Выпечка/cheese-seeds-buns.html)
@@ -79,9 +86,11 @@
   * [Энчилада \| Enchiladas](https://mars9n9.github.io/Выпечка/enchiladas.html)
 * Гарниры
 
+  * [Pudina Aloo \| Карри из картофеля с мятой](https://mars9n9.github.io/Гарниры/pudina-aloo.html)
   * [Батат с инжиром](https://mars9n9.github.io/Гарниры/sweet-potato-fig.html)
   * [Драники](https://mars9n9.github.io/Гарниры/draniki.html)
   * [Конфи тандури из нута](https://mars9n9.github.io/Гарниры/confit-chickpeas.html)
+  * [Пряные жареные грибы](https://mars9n9.github.io/Гарниры/mushroom-masala.html)
   * [Тыква с тахини и заатаром](https://mars9n9.github.io/Гарниры/butternut-tahini.html)
 * [Курица и птица](https://mars9n9.github.io/Курица%20и%20птица/ix.html)
 
@@ -140,7 +149,7 @@
   * [Фаршированные баклажаны с бараниной и кедровыми орешками](https://mars9n9.github.io/Овощи/stuffed-aubergine.html)
   * [Хрустящая фасоль с грибами и пармезаном](https://mars9n9.github.io/Овощи/crispy-butter-beans.html)
 * Паста и ризотто
-  * [Лазанья](https://mars9n9.github.io/Паста%20и%20ризотто/Лазанья/ix.html)
+  * Лазанья
 
     * [Ziti al forno  \| Зити запеченные в томатном соусе с маленькими фрикадельками](https://mars9n9.github.io/Паста%20и%20ризотто/Лазанья/zitti-al-forno.html)
     * [Запеченная паста с курицей и шпинатом](https://mars9n9.github.io/Паста%20и%20ризотто/Лазанья/baked-pasta-chicken.html)
@@ -204,14 +213,17 @@
 
   * [Гратен с сардинами, рисом и шпинатом](https://mars9n9.github.io/Рыба/graten-rice.html)
   * [Картофельные котлеты с лососем](https://mars9n9.github.io/Рыба/potato-salmon-cutlet.html)
+  * [Лосось тикка-масала](https://mars9n9.github.io/Рыба/salmon-tikka-masala.html)
   * [Рыба в картофельной корочке](https://mars9n9.github.io/Рыба/fish-potato-crust.html)
   * [Стейки форели с вустерским соусом, мёдом и тимьяном](https://mars9n9.github.io/Рыба/salmon-honey.html)
+  * [Чираши с тунцом, авокадо и манго](https://mars9n9.github.io/Рыба/chirashi.html)
 * Салаты
 
   * [Весенний кобб салат](https://mars9n9.github.io/Салаты/spring-cobb.html)
   * [Греческий салат](https://mars9n9.github.io/Салаты/grecheskii_salat.html)
   * [Кобб салат](https://mars9n9.github.io/Салаты/cobb.html)
   * [Лимонный картофельный салат](https://mars9n9.github.io/Салаты/potato-lemon.html)
+  * [Помидоры с тунцовым соусом](https://mars9n9.github.io/Салаты/tomato-tuna.html)
   * [Салат "Нисуаз" с креветками и вонголе](https://mars9n9.github.io/Салаты/nicoise-vongole.html)
   * [Салат Нисуаз](https://mars9n9.github.io/Салаты/nicoise.html)
   * [Салат Цезарь](https://mars9n9.github.io/Салаты/cezar.html)
@@ -220,6 +232,7 @@
   * [Салат из курицы в карри-соусе на тостах](https://mars9n9.github.io/Салаты/coronation-salad.html)
   * [Салат с авокадо, свеклой и обжаренным козьим сыром](https://mars9n9.github.io/Салаты/beetroot-avocado.html)
   * [Салат с артишоком](https://mars9n9.github.io/Салаты/artichoke-herb-salad.html)
+  * [Салат с томатами, стручковой фасолью и нутом](https://mars9n9.github.io/Салаты/tomato-green-bean-salad.html)
   * [Салат с фасолью и креветками](https://mars9n9.github.io/Салаты/shrimp-bean.html)
   * [Салат с финиками и миндалем](https://mars9n9.github.io/Салаты/salad-dates-almonds.html)
 * Соусы
