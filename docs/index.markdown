@@ -75,6 +75,7 @@
   * [Сырная бриошь](https://mars9n9.github.io/Выпечка/cheese-brioche.html)
   * [Томатный чизкейк](https://mars9n9.github.io/Выпечка/tomato-cheesecake.html)
   * [Традиционный английский пирог с кроликом](https://mars9n9.github.io/Выпечка/rabbit-pie.html)
+  * [Чизкейк Сан-Себастьян](https://mars9n9.github.io/Выпечка/cheesecake-san.html)
   * [Энчилада \| Enchiladas](https://mars9n9.github.io/Выпечка/enchiladas.html)
 * Гарниры
 
