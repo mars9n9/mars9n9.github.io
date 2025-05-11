@@ -51,7 +51,6 @@
     * [Киш с инжиром, рокфором, грецкими орехами, кленовым сиропом и тимьяном](https://mars9n9.github.io/Выпечка/Киш-лорен/quiche-fig.html)
     * [Киш с козьим сыром, грецкими орехами, беконом и медом](https://mars9n9.github.io/Выпечка/Киш-лорен/quiche-goat-cheese-bacon.html)
     * [Киш со шпинатом, грибами и томатами](https://mars9n9.github.io/Выпечка/Киш-лорен/quiche-mushroom.html)
-    * [Пирог с корюшкой и соусом «путанеска»](https://mars9n9.github.io/Выпечка/Киш-лорен/pirog-s-koryushkoi-i-sousom-putaneska.html)
     * [Тарт с томатами, козьим сыром, розмарином и маскарпоне](https://mars9n9.github.io/Выпечка/Киш-лорен/tart-tomato.html)
   * Несладкие кексы
 
@@ -80,6 +79,7 @@
   * [Паскуалина \| Torta pasqualina](https://mars9n9.github.io/Выпечка/torta-pasculiana.html)
   * [Пирог из слоеного теста с грушей и сыром](https://mars9n9.github.io/Выпечка/pear-pie.html)
   * [Пирог из теста фило с бараниной и фетой](https://mars9n9.github.io/Выпечка/filo-meat-pie.html)
+  * [Пирог с корюшкой и соусом «путанеска»](https://mars9n9.github.io/Выпечка/tart-puttaneska.html)
   * [Пирожки из творожного теста с шампиньонами и улитками](https://mars9n9.github.io/Выпечка/escargot-pies.html)
   * [Пудинг из яблок, голубого сыра и хлеба](https://mars9n9.github.io/Выпечка/pudding.html)
   * [Сдобные сметанные булочки с семечками и сыром](https://mars9n9.github.io/Выпечка/cheese-seeds-buns.html)
