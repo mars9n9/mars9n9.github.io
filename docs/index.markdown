@@ -213,6 +213,7 @@
   * [Бланкет из телятины à l'ancienne \| Blanquette de veau à l'ancienne](https://mars9n9.github.io/Рагу/blanquette-de-veau.html)
   * [Говядина по-бургундски \| Boeuf bourguignon](https://mars9n9.github.io/Рагу/boeuf_bourguignon.html)
   * [Говяжьи ребрышки, тушеные в красном вине](https://mars9n9.github.io/Рагу/red-wine-braised-short-ribs.html)
+  * [Курица по-охотничьи \| Pollo alla cacciatora](https://mars9n9.github.io/Рагу/pollo-alla-cacciatora.html)
   * [Рагу по-ланкаширски](https://mars9n9.github.io/Рагу/lancashire-hotpot.html)
   * [Сaldeirada](https://mars9n9.github.io/Рагу/caldeira.html)
 * Рыба
