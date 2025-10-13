@@ -104,7 +104,6 @@
   * [Адобо](https://mars9n9.github.io/Курица%20и%20птица/adobo.html)
   * [Котлета по киевски](https://mars9n9.github.io/Курица%20и%20птица/kiiv.html)
   * [Крылья в азиатском рыбном соусе](https://mars9n9.github.io/Курица%20и%20птица/wings-fish-sauce.html)
-  * [Куриная грудка в пармезане с томатным соусом](https://mars9n9.github.io/Курица%20и%20птица/chicken-parmesan-tomato-sauce.html)
   * [Куриное филе в сливках с вялеными томатами и пармезаном](https://mars9n9.github.io/Курица%20и%20птица/creamy-chicken.html)
   * [Куриное филе, обжаренное с базиликом, томатами и стручковой фасолью](https://mars9n9.github.io/Курица%20и%20птица/chicken-tomato-beans.html)
   * [Куриные мини кебабы](https://mars9n9.github.io/Курица%20и%20птица/chicken-kebab.html)
@@ -118,7 +117,7 @@
   * [Суфле из курицы](https://mars9n9.github.io/Курица%20и%20птица/souffle.html)
   * [Тушеная в сидре курица с рисом](https://mars9n9.github.io/Курица%20и%20птица/cider-braised-chicken.html)
   * [Хрустящая острая курица с медом и фетой](https://mars9n9.github.io/Курица%20и%20птица/chicken-honey-feta.html)
-  * [Хрустящее куриное филе в сыре](https://mars9n9.github.io/Курица%20и%20птица/crusty-chicken.html)
+  * [Хрустящее куриное филе в сыре. Chicken Parmesan](https://mars9n9.github.io/Курица%20и%20птица/crusty-chicken.html)
   * [Хрустящие наггетсы](https://mars9n9.github.io/Курица%20и%20птица/nuggets.html)
 * Морепродукты
 
