@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/chicken-parmesan-tomato-sauce.jpg
+image: ../pics/chicken-parmesan-tomato-sauce.webp
 ---
 # Куриная грудка в пармезане с томатным соусом
 
-![Куриная грудка в пармезане с томатным соусом](../pics/chicken-parmesan-tomato-sauce.jpg)
+![Куриная грудка в пармезане с томатным соусом](../pics/chicken-parmesan-tomato-sauce.webp)
 
 #### Ингредиенты
 3-4 порции
