@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/pastorma.jpg
+image: ../pics/pastorma.png
 ---
 # Пасторма
 
-![Пасторма](../pics/pastorma.jpg)
+![Пасторма](../pics/pastorma.png)
 
 #### Ингредиенты
 
