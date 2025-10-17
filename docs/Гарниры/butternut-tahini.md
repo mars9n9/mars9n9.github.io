@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/butternut-tahini.webp
+image: ../pics/butternut-tahini.jpg
 ---
 # Тыква с тахини и заатаром
 
-![Тыква с тахини и заатаром](../pics/butternut-tahini.webp)
+![Тыква с тахини и заатаром](../pics/butternut-tahini.jpg)
 
 ###### Ингредиенты
 

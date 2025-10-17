@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/salmon-gnochi.png
+image: ../pics/salmon-gnochi.jpg
 ---
 # Лосось с ньокки
 
-![Лосось с ньокки](../pics/salmon-gnochi.png)
+![Лосось с ньокки](../pics/salmon-gnochi.jpg)
 
 #### Ингредиенты
 на 4 порции
