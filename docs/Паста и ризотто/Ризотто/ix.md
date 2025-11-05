@@ -1,4 +1,4 @@
-﻿---risotto-red
+﻿---
 image: ../../pics/risotto.jpg
 ---
 # Ризотто

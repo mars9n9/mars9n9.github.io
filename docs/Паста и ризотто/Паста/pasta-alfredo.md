@@ -1,9 +1,9 @@
 ﻿---
-image: ../pics/pasta-alfredo.jpg
+image: ../../pics/pasta-alfredo.jpeg
 ---
 # Паста Альфредо \(Alfredo Sauce\)
 
-![Соус Альфредо](../pics/pasta-alfredo.jpg)
+![Соус Альфредо](../../pics/pasta-alfredo.jpeg)
 
 #### Ингредиенты
 
