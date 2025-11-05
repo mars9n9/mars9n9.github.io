@@ -246,12 +246,12 @@
   * [Салат с финиками и миндалем](https://mars9n9.github.io/Салаты/salad-dates-almonds.html)
 * Соусы
 
+  * [### Ингредиенты](https://mars9n9.github.io/Соусы/mayonnaise.html)
   * [Cоус руй \| Rouille](https://mars9n9.github.io/Соусы/rouille.html)
   * [Бешамель](https://mars9n9.github.io/Соусы/besciamella.html)
   * [Голландский соус \| Sauce hollandaise](https://mars9n9.github.io/Соусы/sauce_hollandaise.html)
   * [Дзадзики](https://mars9n9.github.io/Соусы/dzadzyki.html)
   * [Креольский майонез](https://mars9n9.github.io/Соусы/kreol-mayonnaise.html)
-  * [Майонез \| La mayonnaise](https://mars9n9.github.io/Соусы/mayonnaise.html)
   * [Маринара \| Alla marinara](https://mars9n9.github.io/Соусы/marinara.html)
   * [Сырный соус](https://mars9n9.github.io/Соусы/cheese.html)
 * Субпродукты
