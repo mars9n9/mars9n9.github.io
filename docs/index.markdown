@@ -215,6 +215,7 @@
   * [Гамбо](https://mars9n9.github.io/Рагу/gumbo.html)
   * [Говядина по-бургундски \| Boeuf bourguignon](https://mars9n9.github.io/Рагу/boeuf_bourguignon.html)
   * [Говяжьи ребрышки, тушеные в красном вине](https://mars9n9.github.io/Рагу/red-wine-braised-short-ribs.html)
+  * [Кролик, запеченный в белом вине с овощами](https://mars9n9.github.io/Рагу/rabbit-veges.html)
   * [Курица по-охотничьи \| Pollo alla cacciatora](https://mars9n9.github.io/Рагу/pollo-alla-cacciatora.html)
   * [Рагу по-ланкаширски](https://mars9n9.github.io/Рагу/lancashire-hotpot.html)
   * [Сaldeirada](https://mars9n9.github.io/Рагу/caldeira.html)
@@ -246,12 +247,12 @@
   * [Салат с финиками и миндалем](https://mars9n9.github.io/Салаты/salad-dates-almonds.html)
 * Соусы
 
+  * [### Ингредиенты](https://mars9n9.github.io/Соусы/mayonnaise.html)
   * [Cоус руй \| Rouille](https://mars9n9.github.io/Соусы/rouille.html)
   * [Бешамель](https://mars9n9.github.io/Соусы/besciamella.html)
   * [Голландский соус \| Sauce hollandaise](https://mars9n9.github.io/Соусы/sauce_hollandaise.html)
   * [Дзадзики](https://mars9n9.github.io/Соусы/dzadzyki.html)
   * [Креольский майонез](https://mars9n9.github.io/Соусы/kreol-mayonnaise.html)
-  * [Майонез \| La mayonnaise](https://mars9n9.github.io/Соусы/mayonnaise.html)
   * [Маринара \| Alla marinara](https://mars9n9.github.io/Соусы/marinara.html)
   * [Сырный соус](https://mars9n9.github.io/Соусы/cheese.html)
 * Субпродукты
