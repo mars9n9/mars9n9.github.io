@@ -308,3 +308,6 @@
   * [Цельнозерновой лаваш](https://mars9n9.github.io/Хлеб/lavash.html)
   * [Яблочный хлеб на закваске](https://mars9n9.github.io/Хлеб/apple-cider-bread.html)
   * [Японский хлеб](https://mars9n9.github.io/Хлеб/jpn-bread.html)
+* Яйца
+
+  * [Жареные яйца с помидорами (西红柿炒蛋)](https://mars9n9.github.io/Яйца/chinese-egg.html)
