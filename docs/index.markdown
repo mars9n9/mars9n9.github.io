@@ -86,6 +86,7 @@
   * [Сдобные сметанные булочки с семечками и сыром](https://mars9n9.github.io/Выпечка/cheese-seeds-buns.html)
   * [Сливочные булочки с тимьяном, моцареллой и вялеными помидорами](https://mars9n9.github.io/Выпечка/cream-bun-mozarella.html)
   * [Сосиска в тесте](https://mars9n9.github.io/Выпечка/sosiska-testo.html)
+  * [Спанакопита](https://mars9n9.github.io/Выпечка/spanakopita.html)
   * [Сырная бриошь](https://mars9n9.github.io/Выпечка/cheese-brioche.html)
   * [Томатный чизкейк](https://mars9n9.github.io/Выпечка/tomato-cheesecake.html)
   * [Традиционный английский пирог с кроликом](https://mars9n9.github.io/Выпечка/rabbit-pie.html)
