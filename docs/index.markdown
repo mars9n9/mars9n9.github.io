@@ -225,6 +225,7 @@
   * [Гратен с сардинами, рисом и шпинатом](https://mars9n9.github.io/Рыба/graten-rice.html)
   * [Картофельные котлеты с лососем](https://mars9n9.github.io/Рыба/potato-salmon-cutlet.html)
   * [Лосось тикка-масала](https://mars9n9.github.io/Рыба/salmon-tikka-masala.html)
+  * [Онигири](https://mars9n9.github.io/Рыба/onigiri.html)
   * [Рыба в картофельной корочке](https://mars9n9.github.io/Рыба/fish-potato-crust.html)
   * [Стейки форели с вустерским соусом, мёдом и тимьяном](https://mars9n9.github.io/Рыба/salmon-honey.html)
   * [Чираши с тунцом, авокадо и манго](https://mars9n9.github.io/Рыба/chirashi.html)
