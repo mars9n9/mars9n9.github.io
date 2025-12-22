@@ -1,5 +1,5 @@
 ﻿---
-image: ..\pics\mimosa.jpg
+image: ../pics/mimosa.jpg
 ---
 # Мимоза с копченым лососем
 
