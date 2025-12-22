@@ -235,6 +235,7 @@
   * [Греческий салат](https://mars9n9.github.io/Салаты/grecheskii_salat.html)
   * [Кобб салат](https://mars9n9.github.io/Салаты/cobb.html)
   * [Лимонный картофельный салат](https://mars9n9.github.io/Салаты/potato-lemon.html)
+  * [Мимоза с копченым лососем](https://mars9n9.github.io/Салаты/mimosa.html)
   * [Помидоры с тунцовым соусом](https://mars9n9.github.io/Салаты/tomato-tuna.html)
   * [Салат "Нисуаз" с креветками и вонголе](https://mars9n9.github.io/Салаты/nicoise-vongole.html)
   * [Салат Нисуаз](https://mars9n9.github.io/Салаты/nicoise.html)
