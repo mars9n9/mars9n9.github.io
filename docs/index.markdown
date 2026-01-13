@@ -116,6 +116,7 @@
   * [Курица с помидорами и базиликом в соусе из марсалы](https://mars9n9.github.io/Курица%20и%20птица/chicken-marsala.html)
   * [Курица терияки](https://mars9n9.github.io/Курица%20и%20птица/chicken-teriyaki.html)
   * [Пасторма](https://mars9n9.github.io/Курица%20и%20птица/pastorma.html)
+  * [Пожарские котлеты](https://mars9n9.github.io/Курица%20и%20птица/pozarskie.html)
   * [Суфле из курицы](https://mars9n9.github.io/Курица%20и%20птица/souffle.html)
   * [Тушеная в сидре курица с рисом](https://mars9n9.github.io/Курица%20и%20птица/cider-braised-chicken.html)
   * [Хрустящая острая курица с медом и фетой](https://mars9n9.github.io/Курица%20и%20птица/chicken-honey-feta.html)
