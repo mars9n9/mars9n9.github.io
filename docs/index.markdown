@@ -44,6 +44,7 @@
     * [Сэндвич с яичницей, беконом и сыром](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/egg-bacon-sandwich.html)
     * [Тортильи на завтрак с омлетом, помидорами и сыром](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/tortilla-omelette-tomatoes.html)
     * [Тост с авокадо и яйцом \| The holy egg & avo](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/holy-avo-egg.html)
+  * [Брускетта с печенью трески](https://mars9n9.github.io/Бутерброды%20и%20бургеры/cod-liver.html)
 * Выпечка
   * [Киш-лорен](https://mars9n9.github.io/Выпечка/Киш-лорен/ix.html)
 
