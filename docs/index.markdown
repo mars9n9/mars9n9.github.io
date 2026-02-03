@@ -310,6 +310,7 @@
   * [Хычины](https://mars9n9.github.io/Хлеб/hichini.html)
   * [Цельнозерновой 100% на закваске](https://mars9n9.github.io/Хлеб/celnozernovoi-100.html)
   * [Цельнозерновой лаваш](https://mars9n9.github.io/Хлеб/lavash.html)
+  * [Чабатта на биге](https://mars9n9.github.io/Хлеб/chapata.html)
   * [Яблочный хлеб на закваске](https://mars9n9.github.io/Хлеб/apple-cider-bread.html)
   * [Японский хлеб](https://mars9n9.github.io/Хлеб/jpn-bread.html)
 * Яйца
