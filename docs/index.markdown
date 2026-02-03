@@ -79,7 +79,6 @@
   * [Охотничий пирог с курицей](https://mars9n9.github.io/Выпечка/hunters-chicken-pie.html)
   * [Панисс \| Panisse](https://mars9n9.github.io/Выпечка/panisse.html)
   * [Паскуалина \| Torta pasqualina](https://mars9n9.github.io/Выпечка/torta-pasculiana.html)
-  * [Пирог из слоеного теста с грушей и сыром](https://mars9n9.github.io/Выпечка/pear-pie.html)
   * [Пирог из теста фило с бараниной и фетой](https://mars9n9.github.io/Выпечка/filo-meat-pie.html)
   * [Пирог с корюшкой и соусом «путанеска»](https://mars9n9.github.io/Выпечка/tart-puttaneska.html)
   * [Пирожки из творожного теста с шампиньонами и улитками](https://mars9n9.github.io/Выпечка/escargot-pies.html)
