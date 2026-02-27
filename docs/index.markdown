@@ -29,6 +29,7 @@
   * [Креспелли с курицей и грибами](https://mars9n9.github.io/Блины/crespelle-chicken.html)
   * [Креспелли с лососем](https://mars9n9.github.io/Блины/crespelle-salmon.html)
   * [Нормандские гречневые галетт](https://mars9n9.github.io/Блины/galette.html)
+  * [Панкейки](https://mars9n9.github.io/Блины/pancake.html)
   * [Тесто для тонких блинчиков на молоке или пиве](https://mars9n9.github.io/Блины/crepes.html)
   * [Томатные блинчики](https://mars9n9.github.io/Блины/crespelle-tomato.html)
 * Бутерброды и бургеры
@@ -111,7 +112,6 @@
   * [Куриные мини кебабы](https://mars9n9.github.io/Курица%20и%20птица/chicken-kebab.html)
   * [Куриные ножки в сидре с беконом и яблоками](https://mars9n9.github.io/Курица%20и%20птица/creamy-cider-chicken-legs.html)
   * [Куриный шницель](https://mars9n9.github.io/Курица%20и%20птица/schnitzel.html)
-  * [Курица в шоколадном соусе \| Chicken Mole](https://mars9n9.github.io/Курица%20и%20птица/chicken-mole.html)
   * [Курица запеченная целиком с заатаром, лимоном и мятой](https://mars9n9.github.io/Курица%20и%20птица/chicken-zaatar.html)
   * [Курица с помидорами и базиликом в соусе из марсалы](https://mars9n9.github.io/Курица%20и%20птица/chicken-marsala.html)
   * [Курица терияки](https://mars9n9.github.io/Курица%20и%20птица/chicken-teriyaki.html)
@@ -254,8 +254,6 @@
 
   * [Cоус руй \| Rouille](https://mars9n9.github.io/Соусы/rouille.html)
   * [Бешамель](https://mars9n9.github.io/Соусы/besciamella.html)
-  * [Голландский соус \| Sauce hollandaise](https://mars9n9.github.io/Соусы/sauce_hollandaise.html)
-  * [Дзадзики](https://mars9n9.github.io/Соусы/dzadzyki.html)
   * [Креольский майонез](https://mars9n9.github.io/Соусы/kreol-mayonnaise.html)
   * [Майонез \| La mayonnaise](https://mars9n9.github.io/Соусы/mayonnaise.html)
   * [Маринара \| Alla marinara](https://mars9n9.github.io/Соусы/marinara.html)
