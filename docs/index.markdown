@@ -130,6 +130,7 @@
 
     * [Свиные фрикадельки с кунжутом и имбирем](https://mars9n9.github.io/Мясо/Митболлы/sesame-ginger-pork-meatballs.html)
     * [Фрикадельки в соусе с миндалем](https://mars9n9.github.io/Мясо/Митболлы/albondigas-en-salsa.html)
+    * [Фрикадельки из баранины в североафриканском стиле](https://mars9n9.github.io/Мясо/Митболлы/north-african-lamb.html)
     * [Фрикадельки с яблочным сидром](https://mars9n9.github.io/Мясо/Митболлы/apple-cider-maple-meatballs.html)
   * [Буженина](https://mars9n9.github.io/Мясо/buzhenina.html)
   * [Картофельная запеканка Пармантье \| Hachis Parmentier](https://mars9n9.github.io/Мясо/hachis_parmentier.html)
@@ -239,6 +240,7 @@
   * [Мимоза с копченым лососем](https://mars9n9.github.io/Салаты/mimosa.html)
   * [Оливье с говяжьим языком](https://mars9n9.github.io/Салаты/olivje.html)
   * [Помидоры с тунцовым соусом](https://mars9n9.github.io/Салаты/tomato-tuna.html)
+  * [Пряный томатный салат](https://mars9n9.github.io/Салаты/spicy-tomato.html)
   * [Салат "Нисуаз" с креветками и вонголе](https://mars9n9.github.io/Салаты/nicoise-vongole.html)
   * [Салат Нисуаз](https://mars9n9.github.io/Салаты/nicoise.html)
   * [Салат Цезарь](https://mars9n9.github.io/Салаты/cezar.html)
