@@ -301,6 +301,7 @@
   * [Манные лепешки с начинкой](https://mars9n9.github.io/Хлеб/semolina-lepeshka.html)
   * [Марокканская Ксра](https://mars9n9.github.io/Хлеб/marokkanskaya-ksra.html)
   * [Пампушки](https://mars9n9.github.io/Хлеб/pampushki.html)
+  * [Пита](https://mars9n9.github.io/Хлеб/pita.html)
   * [Серый хлеб с бергамотом на закваске](https://mars9n9.github.io/Хлеб/bergamot.html)
   * [Турецкие симиты](https://mars9n9.github.io/Хлеб/tureckie-simity.html)
   * [Узелки с черемшой](https://mars9n9.github.io/Хлеб/cheremsha.html)
