@@ -253,6 +253,7 @@
   * [Салат с томатами, стручковой фасолью и нутом](https://mars9n9.github.io/Салаты/tomato-green-bean-salad.html)
   * [Салат с фасолью и креветками](https://mars9n9.github.io/Салаты/shrimp-bean.html)
   * [Салат с финиками и миндалем](https://mars9n9.github.io/Салаты/salad-dates-almonds.html)
+  * [Теплый салат из спаржи с фетой и фисташками](https://mars9n9.github.io/Салаты/asparagus-feta-pistachio.html)
 * Соусы
 
   * [Cоус руй \| Rouille](https://mars9n9.github.io/Соусы/rouille.html)
