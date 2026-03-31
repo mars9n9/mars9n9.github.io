@@ -109,6 +109,7 @@
   * [Крылья в азиатском рыбном соусе](https://mars9n9.github.io/Курица%20и%20птица/wings-fish-sauce.html)
   * [Куриное филе в сливках с вялеными томатами и пармезаном](https://mars9n9.github.io/Курица%20и%20птица/creamy-chicken.html)
   * [Куриное филе, обжаренное с базиликом, томатами и стручковой фасолью](https://mars9n9.github.io/Курица%20и%20птица/chicken-tomato-beans.html)
+  * [Куриные бедра запеченные с финиками, оливками и каперсами](https://mars9n9.github.io/Курица%20и%20птица/chicken-dates.html)
   * [Куриные мини кебабы](https://mars9n9.github.io/Курица%20и%20птица/chicken-kebab.html)
   * [Куриные ножки в сидре с беконом и яблоками](https://mars9n9.github.io/Курица%20и%20птица/creamy-cider-chicken-legs.html)
   * [Куриный шницель](https://mars9n9.github.io/Курица%20и%20птица/schnitzel.html)
