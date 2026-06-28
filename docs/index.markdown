@@ -13,6 +13,7 @@
   * [Фасоль в томатном соусе](https://mars9n9.github.io/Simple%20dinners/tomato-beans.html)
 * Tips
 
+  * [Запекание свеклы](https://mars9n9.github.io/Tips/beetroot.html)
   * [Картошка в духовке](https://mars9n9.github.io/Tips/potato-baked.html)
   * [Копчение](https://mars9n9.github.io/Tips/Копчение.html)
   * [Котлеты](https://mars9n9.github.io/Tips/Котлеты.html)
