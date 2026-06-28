@@ -195,6 +195,7 @@
     * [Творожная паста](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/cottage-cheese-pasta.html)
   * [Ризотто](https://mars9n9.github.io/Паста%20и%20ризотто/Ризотто/ix.html)
 
+    * [Перлотто с маринованной фетой](https://mars9n9.github.io/Паста%20и%20ризотто/Ризотто/risotto-barley-feta.html)
     * [Ризотто из пшена с тыквой и креветками](https://mars9n9.github.io/Паста%20и%20ризотто/Ризотто/risotto-tikva-krevetka.html)
     * [Ризотто по-милански \| Risotto Milanese](https://mars9n9.github.io/Паста%20и%20ризотто/Ризотто/risotto-milanese.html)
     * [Ризотто с зелёным горошком и рукколой](https://mars9n9.github.io/Паста%20и%20ризотто/Ризотто/risotto-peas.html)
@@ -251,6 +252,7 @@
   * [Салат из курицы в карри-соусе на тостах](https://mars9n9.github.io/Салаты/coronation-salad.html)
   * [Салат с авокадо, свеклой и обжаренным козьим сыром](https://mars9n9.github.io/Салаты/beetroot-avocado.html)
   * [Салат с артишоком](https://mars9n9.github.io/Салаты/artichoke-herb-salad.html)
+  * [Салат с пряным нутом](https://mars9n9.github.io/Салаты/chickpea-salad.html)
   * [Салат с томатами, стручковой фасолью и нутом](https://mars9n9.github.io/Салаты/tomato-green-bean-salad.html)
   * [Салат с фасолью и креветками](https://mars9n9.github.io/Салаты/shrimp-bean.html)
   * [Салат с финиками и миндалем](https://mars9n9.github.io/Салаты/salad-dates-almonds.html)
