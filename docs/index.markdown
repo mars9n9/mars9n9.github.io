@@ -47,6 +47,9 @@
     * [Тост с авокадо и яйцом \| The holy egg & avo](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/holy-avo-egg.html)
   * [Брускетта с печенью трески](https://mars9n9.github.io/Бутерброды%20и%20бургеры/cod-liver.html)
 * Выпечка
+  * Вафли
+
+    * [Толстые вафли](https://mars9n9.github.io/Выпечка/Вафли/waffles.html)
   * [Киш-лорен](https://mars9n9.github.io/Выпечка/Киш-лорен/ix.html)
 
     * [Киш с грушей, голубым сыром и беконом](https://mars9n9.github.io/Выпечка/Киш-лорен/quiche-pear-bacon.html)
