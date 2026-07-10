@@ -1,9 +1,9 @@
 * Simple dinners
 
-  * [Голландский капсалон \| Kapsalon](https://mars9n9.github.io/Simple%20dinners/kapsalon.html)
   * [Грибы по строгановски](https://mars9n9.github.io/Simple%20dinners/mushroom-stroganov.html)
   * [Курица в медовой глазури](https://mars9n9.github.io/Simple%20dinners/chicken-honey.html)
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
+  * [Курица с грибами и картошкой](https://mars9n9.github.io/Simple%20dinners/kapsalon.html)
   * [Курица с грибами](https://mars9n9.github.io/Simple%20dinners/mushroom-chicken.html)
   * [Курица с имбирем и брюссельской капустой](https://mars9n9.github.io/Simple%20dinners/chicken-ginger-brussels.html)
   * [Лосось с ньокки](https://mars9n9.github.io/Simple%20dinners/SALMON-GNOCCHI.html)
