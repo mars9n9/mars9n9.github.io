@@ -1,6 +1,7 @@
 * Simple dinners
 
   * [Грибы по строгановски](https://mars9n9.github.io/Simple%20dinners/mushroom-stroganov.html)
+  * [Крамбл с яблоками, курицей и мёдом](https://mars9n9.github.io/Simple%20dinners/crumble-apple-chicken.html)
   * [Курица в медовой глазури](https://mars9n9.github.io/Simple%20dinners/chicken-honey.html)
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
   * [Курица с грибами и картошкой](https://mars9n9.github.io/Simple%20dinners/kapsalon.html)
@@ -77,7 +78,6 @@
   * [Венецианский пирог с грибами](https://mars9n9.github.io/Выпечка/venetian-pie.html)
   * [Иерусалимский пирог с травами](https://mars9n9.github.io/Выпечка/herb-pie.html)
   * [Крамбл с печенью и виноградом](https://mars9n9.github.io/Выпечка/crumble-lever.html)
-  * [Крамбл с яблоками, курицей и мёдом](https://mars9n9.github.io/Выпечка/crumble-apple-chicken.html)
   * [Кулебяка](https://mars9n9.github.io/Выпечка/kulebyaka.html)
   * [Курник](https://mars9n9.github.io/Выпечка/kurnik.html)
   * [Осетинский пирог](https://mars9n9.github.io/Выпечка/osetinsky-pirog.html)
