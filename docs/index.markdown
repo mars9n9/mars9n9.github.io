@@ -276,6 +276,7 @@
   * [Сациви из печени](https://mars9n9.github.io/Субпродукты/sacivi-lever.html)
 * [Супы](https://mars9n9.github.io/Супы/ix.html)
 
+  * [### Ингредиенты](https://mars9n9.github.io/Супы/mushroom-turnip.html)
   * [Авголемоно \| Avgolemono](https://mars9n9.github.io/Супы/avgolemono.html)
   * [Борщ](https://mars9n9.github.io/Супы/borshch.html)
   * [Буайбес](https://mars9n9.github.io/Супы/buaibes.html)
