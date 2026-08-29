@@ -48,8 +48,9 @@ generate_toc() {
         md_files=$(find "$dir" -maxdepth 1 -type f -name "$filetype_filter" ! -name "ix.md")
 
         for md in $md_files; do
-            file_name=$(grep -m 1 '^#' "$md" | sed 's|^#\s*||')
-            unset IFS
+            # Read file, remove possible UTF-8 BOM on the first line, find the first header
+            # and strip any leading hashes and surrounding whitespace so we get a clean title.
+            file_name=$(sed '1s/^\xEF\xBB\xBF//' "$md" | grep -m 1 '^[[:space:]]*#' | sed 's/^[[:space:]]*#\+ *//')
             if [[ -z "$file_name" ]]; then
                 file_name=$(basename "$md" .md) # If no header found, use the file name
             fi
