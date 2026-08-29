@@ -1,83 +1,99 @@
 #!/bin/bash
+set -euo pipefail
 
-# Function to recursively generate the table of contents
+# Fast, simple table-of-contents generator.
+# - Uses shell globbing instead of repeated `find` calls.
+# - Handles UTF-8 BOM and strips all leading `#` from the first header.
+
+nl=$'\n'
+
 generate_toc() {
     local base_folder="$1"
     local filetype_filter="$2"
     local level="$3"
     local toc=""
-    local nl=$'\n' # Define newline character
 
-    # List directories excluding specific patterns
-    local repo_folder_structure
-
-    local oIFS="$IFS"
-    IFS="$nl"
-    repo_folder_structure=$(find "$base_folder" -maxdepth 1 -mindepth 1 -type d ! -name "_site" ! -name "pics" ! -name "_posts" ! -name "styles" ! -name "_layouts" | sort)
-
-    for dir in $repo_folder_structure; do
-        local entry_name=$(basename "$dir")
-        local parent_dir="$(dirname "$base_folder")"
-        local indent=$((level * 2))
-        local relative_path=$(echo "$dir" | sed "s|$parent_dir||")
-        if [[ $level -eq 0 ]]; then
-            relative_path=$(echo "$dir" | sed "s|$base_folder||")
-        fi
-
-        local suffix="https://mars9n9.github.io$relative_path"
-
-        if [[ -f "$dir/ix.md" ]]; then
-            # Generate the URL
-
-            if [[ $level -eq 0 ]]; then
-                suffix="https://mars9n9.github.io/$entry_name"
-            fi
-            toc+=$(printf '%*s' $indent)$(printf '* [%s](%s/ix.html)' $entry_name $(echo "$suffix" | sed "s| |%20|g"))$nl
-        else
-            # If ix.md does not exist, show the folder name as plain text
-            toc+=$(printf '%*s' $indent)$(printf '* %s' $entry_name)$nl
-        fi
-
-        # Recursively call for subdirectories
-        toc+=$(generate_toc "$dir" "$filetype_filter" $((level + 1)))$nl
-
-        # Process Markdown files
-        local pages=()
-        local md_files
-        IFS="$nl"
-        md_files=$(find "$dir" -maxdepth 1 -type f -name "$filetype_filter" ! -name "ix.md")
-
-        for md in $md_files; do
-            # Read file, remove possible UTF-8 BOM on the first line, find the first header
-            # and strip any leading hashes and surrounding whitespace so we get a clean title.
-            file_name=$(sed '1s/^\xEF\xBB\xBF//' "$md" | grep -m 1 '^[[:space:]]*#' | sed 's/^[[:space:]]*#\+ *//')
-            if [[ -z "$file_name" ]]; then
-                file_name=$(basename "$md" .md) # If no header found, use the file name
-            fi
-
-            local suffix="https://mars9n9.github.io$relative_path"
-            page_link="($suffix/$(basename "$md" .md).html)"
-            pages+=("[$file_name]$(echo "$page_link" | sed "s| |%20|g")")
-        done
-
-        IFS="$nl" sorted_pages=($(sort <<<"${pages[*]}"))
-        for item in "${sorted_pages[@]}"; do
-            file_indent=$(((level + 1) * 2))
-            toc+=$(printf '%*s' $file_indent)$(printf '* %s' $item)$nl
-        done
+    # Collect immediate subdirectories, excluding common site folders.
+    local -a subdirs=()
+    for d in "$base_folder"/*; do
+        [ -d "$d" ] || continue
+        local name=$(basename "$d")
+        case "$name" in
+            _site|pics|_posts|styles|_layouts) continue ;;
+        esac
+        subdirs+=("$d")
     done
 
-    echo "$toc"
+    # Sort directories by name for stable output
+    if [ ${#subdirs[@]} -gt 0 ]; then
+        IFS=$'\n' subdirs=( $(printf '%s\n' "${subdirs[@]}" | sort) )
+        unset IFS
+    fi
+
+    for dir in "${subdirs[@]}"; do
+        local entry_name=$(basename "$dir")
+        local indent=$((level * 2))
+
+        # Compute relative path similarly to previous behaviour
+        local parent_dir="$(dirname "$base_folder")"
+        local relative_path=${dir#$parent_dir}
+        if [[ $level -eq 0 ]]; then
+            relative_path=${dir#$base_folder}
+        fi
+
+        local suffix="https://mars9n9.github.io${relative_path// /%20}"
+
+        if [[ -f "$dir/ix.md" ]]; then
+            if [[ $level -eq 0 ]]; then
+                suffix="https://mars9n9.github.io/${entry_name// /%20}"
+            fi
+            toc+=$(printf '%*s' $indent)$(printf '* [%s](%s/ix.html)' "$entry_name" "$suffix")$nl
+        else
+            toc+=$(printf '%*s' $indent)$(printf '* %s' "$entry_name")$nl
+        fi
+
+        # Recurse into subdirectories
+        toc+=$(generate_toc "$dir" "$filetype_filter" $((level + 1)))$nl
+
+        # Gather markdown pages in this directory (skip ix.md)
+        local -a pages=()
+        for md in "$dir"/*.md; do
+            [ -f "$md" ] || continue
+            [[ "$(basename "$md")" == "ix.md" ]] && continue
+
+            # Extract first heading, remove BOM and all leading hashes/spaces.
+            local file_name
+            file_name=$(sed '1s/^\xEF\xBB\xBF//' "$md" | grep -m1 '^[[:space:]]*#' || true)
+            if [[ -n "$file_name" ]]; then
+                file_name=$(printf '%s' "$file_name" | sed 's/^[[:space:]]*#\+ *//')
+            else
+                file_name=$(basename "$md" .md)
+            fi
+
+            local page_slug=$(basename "$md" .md)
+            local page_link="https://mars9n9.github.io${relative_path// /%20}/${page_slug// /%20}.html"
+            pages+=("* [$file_name]($page_link)")
+        done
+
+        # Sort pages alphabetically (by the whole markdown line) and append with correct indent
+        if [ ${#pages[@]} -gt 0 ]; then
+            IFS=$'\n' pages=( $(printf '%s\n' "${pages[@]}" | sort) )
+            unset IFS
+            for p in "${pages[@]}"; do
+                local file_indent=$(((level + 1) * 2))
+                toc+=$(printf '%*s' $file_indent)"$p"$nl
+            done
+        fi
+    done
+
+    printf '%s' "$toc"
 }
 
-# Get the current directory and check if it contains a 'docs' folder
 current_directory=$(pwd)
 docs_folder="$current_directory/docs"
 
 if [[ -d "$docs_folder" ]]; then
-    # Generate the Table of Contents
     toc=$(generate_toc "$docs_folder" "*.md" 0)
-    # Save the TOC to index.markdown
     echo "$toc" >"$docs_folder/index.markdown"
 else
     echo "No 'docs' folder found in the current directory."
