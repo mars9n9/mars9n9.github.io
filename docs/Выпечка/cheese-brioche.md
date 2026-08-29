@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/cheese-brioche.jpg
----
 # Сырная бриошь
 
 ![Сырная бриошь](../pics/cheese-brioche.jpg)

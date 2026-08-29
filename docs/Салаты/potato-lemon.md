@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/potato-lemon.jpg
----
 # Лимонный картофельный салат
 
 ![Лимонный картофельный салат](../pics/potato-lemon.jpg)

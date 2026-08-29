@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/spagetti-sardines.jpg
----
 # Спагетти с сардинами
 
 ![Спагетти с сардинами](../../pics/spagetti-sardines.jpg)

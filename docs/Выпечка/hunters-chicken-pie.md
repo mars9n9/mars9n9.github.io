@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/hunters-chicken-pie.jpg
----
 # Охотничий пирог с курицей
 
 ![Охотничий пирог с курицей](../pics/hunters-chicken-pie.jpg)

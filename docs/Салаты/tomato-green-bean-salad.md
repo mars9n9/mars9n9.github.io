@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tomato-green-bean-salad.jpg
----
 # Салат с томатами, стручковой фасолью и нутом
 
 ![Салат с томатами, стручковой фасолью и нутом](../pics/tomato-green-bean-salad.jpg)

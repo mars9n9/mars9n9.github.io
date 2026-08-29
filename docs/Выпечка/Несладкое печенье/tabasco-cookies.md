@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/tabasco-cookies.jpg
----
 # Сырное печенье с табаско
 
 ![Сырное печенье с табаско](../../pics/tabasco-cookies.jpg)

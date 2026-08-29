@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/blanquette-de-veau.avif
----
 # Бланкет из телятины à l'ancienne \| Blanquette de veau à l'ancienne
 
 Бланкет \(рагу из белого мяса под белым соусом\) - это французская классика

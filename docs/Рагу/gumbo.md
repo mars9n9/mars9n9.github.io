@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/gumbo.jpeg
----
 # Гамбо
 
 ![Гамбо](../pics/gumbo.jpeg)

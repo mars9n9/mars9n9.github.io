@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/avocado-shrimp.jpg
----
 # Креветки с авокадо
 
 ![Креветки с авокадо](../pics/avocado-shrimp.jpg)

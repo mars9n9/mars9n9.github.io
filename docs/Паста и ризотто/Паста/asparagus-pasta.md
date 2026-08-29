@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/asparagus-pasta.webp
----
 # Весенняя паста со спаржей
 
 ![Весенняя паста со спаржей](../../pics/asparagus-pasta.webp)

@@ -1,6 +1,3 @@
-﻿---
-image: ..\pics\blt-potato.jpg
----
 # Салат бекон, латук, томаты, картофель \| BLT Potato Salad
 
 ![BLT Potato Salad](..\pics\blt-potato.jpg)

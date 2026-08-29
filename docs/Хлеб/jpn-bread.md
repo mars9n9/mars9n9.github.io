@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/jpn-bread.webp
----
 # Японский хлеб
 
 ![Японский хлеб](../pics/jpn-bread.webp)

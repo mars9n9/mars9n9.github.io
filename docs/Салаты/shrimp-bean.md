@@ -1,6 +1,3 @@
----
-image: ../pics/shrimp-bean.jpg
----
 # Салат с фасолью и креветками
 
 ![Салат с фасолью и креветками](../pics/shrimp-bean.jpg)

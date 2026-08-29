@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/chicken-kebab.jpg
----
 # Куриные мини кебабы
 
 ![Куриные мини кебабы](../pics/chicken-kebab.jpg)

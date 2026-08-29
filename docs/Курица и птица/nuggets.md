@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/nuggets.jpg
----
 # Хрустящие наггетсы
 
 ![Хрустящие наггетсы](../pics/nuggets.jpg)

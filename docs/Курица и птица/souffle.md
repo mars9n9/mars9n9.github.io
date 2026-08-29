@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/souffle.jpg
----
 # Суфле из курицы
 
 ![Суфле из курицы](../pics/souffle.jpg)

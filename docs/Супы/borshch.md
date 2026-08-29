@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/borshch.jpg
----
 # Борщ
 
 ![Борщ](../pics/borshch.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/salmon-orzo.jpg
----
 # Лосось с орзо
 
 ![Лосось с орзо](../pics/salmon-orzo.jpg)

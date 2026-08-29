@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/risotto-barley-feta.jpg
----
 # Перлотто с маринованной фетой
 
 ![Перлотто с маринованной фетой](../../pics/risotto-barley-feta.jpg)

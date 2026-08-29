@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/spicy-tomato.jpg
----
 # Пряный томатный салат
 
 ![Пряный томатный салат](../pics/spicy-tomato.jpg)

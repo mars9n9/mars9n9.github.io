@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/gata-karabakhskaya.jpg
----
 # Гата карабахская
 
 ![Гата карабахская](../pics/gata-karabakhskaya.jpg)

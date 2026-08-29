@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/pasticio.jpg
----
 # Пастицио \| Παστίτσιο
 
 ![Пастицио](../../pics/pasticio.jpg)

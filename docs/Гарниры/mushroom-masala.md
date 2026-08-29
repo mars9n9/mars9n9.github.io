@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/mushroom-masala.jpg
----
 # Пряные жареные грибы
 
 ![Пряные жареные грибы](../pics/mushroom-masala.jpg)

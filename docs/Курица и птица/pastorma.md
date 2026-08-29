@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/pastorma.png
----
 # Пасторма
 
 ![Пасторма](../pics/pastorma.png)

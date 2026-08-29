@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/bagel-cottage-cheese.jpg
----
 # Творожные бейглы
 
 ![Творожные бейглы](../pics/bagel-cottage-cheese.jpg)

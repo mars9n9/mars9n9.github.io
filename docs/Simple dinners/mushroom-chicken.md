@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/mushroom-chicken.jpg
----
 # Курица с грибами
 
 ![Курица с грибами](../pics/mushroom-chicken.jpg)

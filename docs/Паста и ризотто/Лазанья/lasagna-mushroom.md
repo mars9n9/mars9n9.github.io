@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/lasagna-mushroom.jpg
----
 # Лазанья с грибами
 
 ![Лазанья с грибами](../../pics/lasagna-mushroom.jpg)

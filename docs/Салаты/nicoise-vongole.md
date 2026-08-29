@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/nicoise-vongole.jpg
----
 # Салат "Нисуаз" с креветками и вонголе
 
 ![Салат "Нисуаз" с креветками и вонголе](../pics/nicoise-vongole.jpg)

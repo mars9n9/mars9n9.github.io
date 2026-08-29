@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/miso-carbonara.jpg
----
 # Острая мисо карбонара
 
 ![Острая мисо карбонара](../../pics/miso-carbonara.jpg)

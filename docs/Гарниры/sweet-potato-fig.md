@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/sweet-potato-fig.jpg
----
 # Батат с инжиром
 
 ![Батат с инжиром](../pics/sweet-potato-fig.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/torta-pasculiana.jpg
----
 # Паскуалина \| Torta pasqualina
 
 ![Паскуалина](../pics/torta-pasculiana.jpg)

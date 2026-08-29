@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/borodinsky.jpg
----
 # Бородинский хлеб
 
 ![Бородинский хлеб](../pics/borodinsky.jpg)

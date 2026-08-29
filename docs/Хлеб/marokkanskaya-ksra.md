@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/marokkanskaya-ksra.jpg
----
 # Марокканская Ксра
 
 ![Марокканская Ксра](../pics/marokkanskaya-ksra.jpg)

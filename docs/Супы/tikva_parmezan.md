@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tikva_parmezan.jpg
----
 # Тыквенный суп с пармезаном и корицей
 
 ![Тыквенный суп с пармезаном и корицей](../pics/tikva_parmezan.jpg)

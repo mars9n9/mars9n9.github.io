@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/lancashire-hotpot.webp
----
 # Рагу по-ланкаширски
 
 ![Рагу по-ланкаширски](../pics/lancashire-hotpot.webp)

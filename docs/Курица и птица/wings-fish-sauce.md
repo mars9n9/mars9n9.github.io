@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/wings-fish-sauce.jpg
----
 # Крылья в азиатском рыбном соусе
 
 ![Крылья в азиатском рыбном соусе](../pics/wings-fish-sauce.jpg)

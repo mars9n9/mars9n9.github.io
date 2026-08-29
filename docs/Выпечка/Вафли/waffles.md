@@ -1,6 +1,3 @@
-﻿---
-image: ../cakes/pics/waffles.jpg
----
 # Толстые вафли
 
 ![Толстые вафли](../../pics/waffles.jpg)

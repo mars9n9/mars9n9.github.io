@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/shrimp-salami-pasta.webp
----
 # Паста с креветками и салями
 
 ![Паста с креветками и салями](../../pics/shrimp-salami-pasta.webp)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/pudina-aloo.jpg
----
 # Pudina Aloo \| Карри из картофеля с мятой
 
 ![Pudina Aloo](../pics/pudina-aloo.jpg)

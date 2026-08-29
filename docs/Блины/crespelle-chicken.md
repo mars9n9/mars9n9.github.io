@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/crespelle-chicken.jpeg
----
 # Креспелли с курицей и грибами
 
  ![Креспелли с курицей и грибами](../pics/crespelle-chicken.jpeg)

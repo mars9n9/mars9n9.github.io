@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/stuffed-sweet-potato.jpg
----
 # Фаршированный батат
 
 ![Фаршированный батат](../pics/stuffed-sweet-potato.jpg)

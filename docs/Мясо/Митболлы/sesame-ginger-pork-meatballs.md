@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/sesame-ginger-pork-meatballs.jpg
----
 # Свиные фрикадельки с кунжутом и имбирем
 
 ![Свиные фрикадельки с кунжутом и имбирем](../../pics/sesame-ginger-pork-meatballs.jpg)

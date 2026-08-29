@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/kurnik.jpg
----
 # Курник
 
 ![Курник](../pics/kurnik.jpg)

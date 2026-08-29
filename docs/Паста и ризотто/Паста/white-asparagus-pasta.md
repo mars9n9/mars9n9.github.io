@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/white-asparagus-pasta.webp
----
 # Паста с белой спаржей и беконом
 
 ![Паста с белой спаржей и беконом](../../pics/white-asparagus-pasta.webp)

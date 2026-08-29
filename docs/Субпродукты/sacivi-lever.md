@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/sacivi-lever.jpg
----
 # Сациви из печени
 
 ![Сациви из печени](../pics/sacivi-lever.jpg)

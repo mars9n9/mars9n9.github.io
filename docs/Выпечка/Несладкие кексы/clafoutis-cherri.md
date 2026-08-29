@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/clafoutis-cherri.jpg
----
 # Клафути с помидорами черри
 
 ![Клафути с помидорами черри](../../pics/clafoutis-cherri.jpg)

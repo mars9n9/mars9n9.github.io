@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/poppy-cookies.jpg
----
 # Сырное печенье с маком
 
 ![Сырное печенье с маком](../../pics/poppy-cookies.jpg)

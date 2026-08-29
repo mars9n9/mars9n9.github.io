@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/venetian-pie.jpg
----
 # Венецианский пирог с грибами
 
 ![Венецианский пирог с грибами](../pics/venetian-pie.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/caldeira.jpg
----
 # Сaldeirada
 
 ![Сaldeirada](../pics/caldeira.jpg)

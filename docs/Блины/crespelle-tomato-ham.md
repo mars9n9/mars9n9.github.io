@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/crespelle-tomato-ham.jpg
----
 # Креспелли с ветчиной и томатным соусом
 
  ![Креспелли с ветчиной и томатным соусом](../pics/crespelle-tomato-ham.jpg)

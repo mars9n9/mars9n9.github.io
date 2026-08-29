@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/confit-chickpeas.jpg
----
 # Конфи тандури из нута
 
 ![Конфи тандури из нута](../pics/confit-chickpeas.jpg)

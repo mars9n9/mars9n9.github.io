@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/cheremsha.jpg
----
 # Узелки с черемшой
 
 ![Узелки с черемшой](../pics/cheremsha.jpg)

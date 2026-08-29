@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/salmon-tikka-masala.webp
----
 # Лосось тикка-масала
 
 ![Лосось тикка-масала](../pics/salmon-tikka-masala.webp)

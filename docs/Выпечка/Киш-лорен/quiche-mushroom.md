@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/quiche-mushroom.jpg
----
 # Киш со шпинатом, грибами и томатами
 
 ![Киш со шпинатом, грибами и томатами](../../pics/quiche-mushroom.jpg)

@@ -1,6 +1,3 @@
----
-image: ../pics/buzhenina.webp
----
 # Буженина
 
 ![Буженина](../pics/buzhenina.webp)

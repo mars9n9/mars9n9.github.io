@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/chicken-ginger-brussels.jpg
----
 # Курица с имбирем и брюссельской капустой
 
 ![Курица с имбирем и брюссельской капустой](../pics/chicken-ginger-brussels.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/naan.jpg
----
 # Naan - индийские лепешки
 
 ![Naan](../pics/naan.jpg)

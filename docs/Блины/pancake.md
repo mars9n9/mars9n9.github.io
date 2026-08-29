@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/pancake.jpg
----
 # Панкейки
 
  ![Панкейки](../pics/pancake.jpg)

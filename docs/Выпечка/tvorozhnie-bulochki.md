@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tvorozhnie-bulochki.jpg
----
 # Быстрые творожные булочки
 
 ![Быстрые творожные булочки](../pics/tvorozhnie-bulochki.jpg)

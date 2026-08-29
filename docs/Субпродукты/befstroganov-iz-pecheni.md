@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/befstroganov-iz-pecheni.webp
----
 # Бефстроганов из печени
 
 ![Бефстроганов из печени](../pics/befstroganov-iz-pecheni.webp)

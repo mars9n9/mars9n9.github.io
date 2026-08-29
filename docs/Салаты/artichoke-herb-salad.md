@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/artichoke-herb-salad.jpg
----
 # Салат с артишоком
 
 ![Салат с артишоком](../pics/artichoke-herb-salad.jpg)

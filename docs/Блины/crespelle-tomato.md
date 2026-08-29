@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/crespelle-tomato.jpg
----
 # Томатные блинчики
 
  ![Томатные блинчики](../pics/crespelle-tomato.jpg)

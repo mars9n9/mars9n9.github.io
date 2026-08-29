@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/pasta-alfredo.jpeg
----
 # Паста Альфредо \(Alfredo Sauce\)
 
 ![Соус Альфредо](../../pics/pasta-alfredo.jpeg)

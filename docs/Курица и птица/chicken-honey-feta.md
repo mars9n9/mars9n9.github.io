@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/chicken-honey-feta.jpeg
----
 # Хрустящая острая курица с медом и фетой
 
 ![Хрустящая острая курица с медом и фетой](../pics/chicken-honey-feta.jpeg)

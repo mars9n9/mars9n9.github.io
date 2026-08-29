@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/syrniki.webp
----
 # Классические сырники
 
  ![Классические сырники](../pics/syrniki.webp)

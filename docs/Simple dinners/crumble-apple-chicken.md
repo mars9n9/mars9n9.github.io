@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/crumble-apple-chicken.jpg
----
 # Крамбл с яблоками, курицей и мёдом
 
 ![Крамбл с яблоками, курицей и мёдом](../pics/crumble-apple-chicken.jpg)

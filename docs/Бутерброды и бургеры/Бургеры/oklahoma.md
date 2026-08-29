@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/oklahoma.jpg
----
 # Бургер Оклахома
 
 ![Бургер Оклахома](../../pics/oklahoma.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/crumble-lever.jpg
----
 # Крамбл с печенью и виноградом
 
 ![Крамбл с печенью и виноградом](../pics/crumble-lever.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/pollo-alla-cacciatora.jpg
----
 # Курица по-охотничьи \| Pollo alla cacciatora
 
 ![Курица по-охотничьи](../pics/pollo-alla-cacciatora.jpg)

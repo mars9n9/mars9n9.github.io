@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/spring-cobb.jpg
----
 # Весенний кобб салат
 
 ![Весенний кобб салат](../pics/spring-cobb.jpg)

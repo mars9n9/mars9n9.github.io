@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/quiche-pear-bacon.png
----
 # Киш с грушей, голубым сыром и беконом
 
 ![Киш с грушей, голубым сыром и беконом](../../pics/quiche-pear-bacon.png)

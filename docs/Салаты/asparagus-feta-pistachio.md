@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/asparagus-feta-pistachio.jpg
----
 # Теплый салат из спаржи с фетой и фисташками
 
 ![Теплый салат из спаржи с фетой и фисташками](../pics/asparagus-feta-pistachio.jpg)

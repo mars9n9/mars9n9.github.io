@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/baked-pasta-chicken.jpg
----
 # Запеченная паста с курицей и шпинатом
 
 ![Запеченная паста с курицей и шпинатом](../../pics/baked-pasta-chicken.jpg)

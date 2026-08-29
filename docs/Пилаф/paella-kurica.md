@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/paella-kurica.jpg
----
 # Паэлья из куриных потрохов
 
 ![Паэлья из куриных потрохов](../pics/paella-kurica.jpg)

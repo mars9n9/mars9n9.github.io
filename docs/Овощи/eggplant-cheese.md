@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/eggplant-cheese.jpg
----
 # Баклажаны под сыром
 
 ![Баклажаны под сыром](../pics/eggplant-cheese.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/apple-cider-bread.jpg
----
 # Яблочный хлеб на закваске
 
 ![Яблочный хлеб на закваске](../pics/apple-cider-bread.jpg)

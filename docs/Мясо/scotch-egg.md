@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/scotch-egg.jpg
----
 # Яйцо по-шотландски
 
 ![Яйцо по-шотландски](../pics/scotch-egg.jpg)

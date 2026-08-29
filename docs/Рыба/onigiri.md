@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/onigiri.jpg
----
 # Онигири
 
 ![Онигири](../pics/onigiri.jpg)

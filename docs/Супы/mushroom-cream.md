@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/mushroom-cream.jpg
----
 # Крем-суп из шампиньонов
 
 ![Крем-суп из шампиньонов](../pics/mushroom-cream.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/mushroom-gnocchi.jpg
----
 # Ньокки с грибами и козьим сыром
 
 ![Ньокки с грибами и козьим сыром](../pics/mushroom-gnocchi.jpg)

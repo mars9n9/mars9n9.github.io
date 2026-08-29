@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/pasta-salmon.jpg
----
 # Паста с лососем \| Паста с 2 лососями \|\| Pâtes au saumon \| Pâtes aux deux saumons
 
 ![Паста с лососем](../../pics/pasta-salmon.jpg)

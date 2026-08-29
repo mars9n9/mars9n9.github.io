@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/quick-potato-bread.jpg
----
 # Быстрый картофельный хлеб
 
 ![Быстрый картофельный хлеб](../pics/quick-potato-bread.jpg)

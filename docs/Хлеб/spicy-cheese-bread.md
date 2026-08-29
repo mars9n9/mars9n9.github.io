@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/spicy-cheese-bread.jpg
----
 # Spicy Cheese Bread \| Пряный сырный хлеб
 
 ![Spicy Cheese Bread](../pics/spicy-cheese-bread.jpg)

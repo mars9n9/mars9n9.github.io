@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/albondigas-en-salsa.jpg
----
 # Фрикадельки в соусе с миндалем
 
 ![Фрикадельки в соусе с миндалем](../../pics/albondigas-en-salsa.jpg)

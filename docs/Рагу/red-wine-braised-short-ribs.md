@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/red-wine-braised-short-ribs.webp
----
 # Говяжьи ребрышки, тушеные в красном вине
 
 ![Говяжьи ребрышки, тушеные в красном вине](../pics/red-wine-braised-short-ribs.webp)

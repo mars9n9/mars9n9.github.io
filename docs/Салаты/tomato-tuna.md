@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tomato-tuna.jpg
----
 # Помидоры с тунцовым соусом
 
 ![Помидоры с тунцовым соусом](../pics/tomato-tuna.jpg)

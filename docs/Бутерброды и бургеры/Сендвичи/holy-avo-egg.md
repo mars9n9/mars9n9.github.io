@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/holy-avo-egg.png
----
 # Тост с авокадо и яйцом \| The holy egg & avo
 
 ![The holy egg & avo](../../pics/holy-avo-egg.png)

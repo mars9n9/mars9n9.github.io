@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/lasagna-cheese.jpg
----
 # Сырная лазанья
 
 ![Сырная лазанья](../../pics/lasagna-cheese.jpg)

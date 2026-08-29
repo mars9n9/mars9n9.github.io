@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/quiche-goat-cheese-bacon.jpg
----
 # Киш с козьим сыром, грецкими орехами, беконом и медом
 
 ![Киш с козьим сыром, грецкими орехами, беконом и медом](../../pics/quiche-goat-cheese-bacon.jpg)

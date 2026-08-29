@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/creme-brulee-lever.jpg
----
 # Крем-брюле из печенки с инжиром
 
 ![Крем-брюле из печенки с инжиром](../pics/creme-brulee-lever.jpg)

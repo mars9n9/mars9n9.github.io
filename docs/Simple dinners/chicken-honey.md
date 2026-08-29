@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/chicken-honey.webp
----
 # Курица в медовой глазури
 
 ![Курица в медовой глазури](../pics/chicken-honey.webp)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/mushroom-paprika.jpg
----
 # Грибной суп с паприкой
 
 ![Грибной суп с паприкой](../pics/mushroom-paprika.jpg)

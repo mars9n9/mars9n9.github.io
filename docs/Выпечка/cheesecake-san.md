@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/cheesecake-san.jpg
----
 # Чизкейк Сан-Себастьян
 
 ![Чизкейк Сан-Себастьян](../pics/cheesecake-san.jpg)

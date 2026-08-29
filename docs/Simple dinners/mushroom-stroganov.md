@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/mushroom-stroganov.jpg
----
 # Грибы по строгановски
 
 ![Грибы по строгановски](../pics/mushroom-stroganov.jpg)

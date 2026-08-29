@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/egg-bacon-sandwich.jpg
----
 # Сэндвич с яичницей, беконом и сыром
 
 ![Сэндвич с яичницей, беконом и сыром](../../pics/egg-bacon-sandwich.jpg)

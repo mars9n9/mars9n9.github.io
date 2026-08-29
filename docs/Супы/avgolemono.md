@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/avgolemono.jpg
----
 # Авголемоно \| Avgolemono
 
 ![Авголемоно](../pics/avgolemono.jpg)

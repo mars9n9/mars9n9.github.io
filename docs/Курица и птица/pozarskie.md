@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/pozarskie.jpg
----
 # Пожарские котлеты
 
 ![Пожарские котлеты](../pics/pozarskie.jpg)

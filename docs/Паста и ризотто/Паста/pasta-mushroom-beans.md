@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/pasta-mushroom-beans.jpg
----
 # Паста с лисичками и фасолью
 
 ![Паста с лисичками и фасолью](../../pics/pasta-mushroom-beans.jpg)

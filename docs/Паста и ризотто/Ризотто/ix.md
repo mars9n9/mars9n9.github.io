@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/risotto.jpg
----
 # Ризотто
 
 ![Ризотто](../../pics/risotto.jpg)

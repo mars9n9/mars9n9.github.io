@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/hychini.jpg
----
 # Хычины
 
 ![Хычины](../pics/hychini.jpg)

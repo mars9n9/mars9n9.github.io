@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/cottage-cheese-pasta.jpg
----
 # Творожная паста
 
 ![Творожная паста](../../pics/cottage-cheese-pasta.jpg)

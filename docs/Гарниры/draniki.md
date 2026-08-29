@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/draniki.jpg
----
 # Драники
 
 ![Драники](../pics/draniki.jpg)

@@ -1,6 +1,3 @@
----
-image: ../cakes/pics/fish.jpg
----
 
 # Подготовка рыбы
 

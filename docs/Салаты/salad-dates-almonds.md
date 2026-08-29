@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/salad-dates-almonds.webp
----
 # Салат с финиками и миндалем
 
 ![Салат с финиками и миндалем](../pics/salad-dates-almonds.webp)

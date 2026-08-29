@@ -1,6 +1,3 @@
-﻿---
-image: (../../pics/apple-cider-maple-meatballs.jpg
----
 # Фрикадельки с яблочным сидром
 
 ![Фрикадельки с яблочным сидром](../../pics/apple-cider-maple-meatballs.jpg)

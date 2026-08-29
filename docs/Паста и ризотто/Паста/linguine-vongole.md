@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/linguine-vongole.jpg
----
 # Лингвини с вонголе \| Linguine alle vongole
 
 ![Лингвини с вонголе](../../pics/linguine-vongole.jpg)

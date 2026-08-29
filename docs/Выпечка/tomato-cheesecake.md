@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tomato-cheesecake.jpg
----
 # Томатный чизкейк
 
 ![Томатный чизкейк](../pics/tomato-cheesecake.jpg)

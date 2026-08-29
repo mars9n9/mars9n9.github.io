@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/pasta-carbonara-kalmari.jpg
----
 # Паста карбонара с кальмарами
 
 ![Паста карбонара с кальмарами](../../pics/pasta-carbonara-kalmari.jpg)

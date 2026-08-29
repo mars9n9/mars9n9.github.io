@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/risotto-salmon-peas.jpg
----
 # Ризотто с лососем и зелёным горошком \| Risotto au saumon et petits pois
 
 ![Ризотто с лососем и зелёным горошком](../../pics/risotto-salmon-peas.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/cheese.jpg
----
 # Сырный соус
 
 ![Сырный соус](../pics/cheese.jpg)

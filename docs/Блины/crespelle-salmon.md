@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/crespelle-salmon.jpg
----
 # Креспелли с лососем
 
  ![Креспелли с лососем](../pics/crespelle-salmon.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/egg-pate.jpg
----
 # Паштет из яиц
 
 ![Паштет из яиц](../../pics/egg-pate.jpg)

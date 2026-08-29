@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/utrennie-bulki.jpg
----
 # Утренние булки на закваске
 
 ![Утренние булки на закваске](../pics/utrennie-bulki.jpg)

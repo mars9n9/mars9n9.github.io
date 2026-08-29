@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/pasta-zozzona.webp
----
 # Pasta alla Zozzona
 
 ![Pasta alla Zozzona](../../pics/pasta-zozzona.webp)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/creamy-tuscan-prawns.jpeg
----
 # Кремовые креветки по-тоскански
 
 ![Кремовые креветки по-тоскански](../pics/creamy-tuscan-prawns.jpeg)

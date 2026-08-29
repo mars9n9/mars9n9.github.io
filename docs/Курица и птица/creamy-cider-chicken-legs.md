@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/creamy-cider-chicken-legs.webp
----
 # Куриные ножки в сидре с беконом и яблоками
 
 ![Куриные ножки в сидре с беконом и яблоками](../pics/creamy-cider-chicken-legs.webp)

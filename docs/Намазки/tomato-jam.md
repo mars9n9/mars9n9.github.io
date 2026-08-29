@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tomato-jam.jpg
----
 # Томатный джем
 
 ![Томатный джем](../pics/tomato-jam.jpg)

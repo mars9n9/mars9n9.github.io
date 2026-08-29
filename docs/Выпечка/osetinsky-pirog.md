@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/osetinsky-pirog.jpg
----
 # Осетинский пирог
 
 ![Осетинский пирог](../pics/osetinsky-pirog.jpg)

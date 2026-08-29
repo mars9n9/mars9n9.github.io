@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/risotto-tikva-krevetka.jpg
----
 # Ризотто из пшена с тыквой и креветками
 
 ![Ризотто из пшена с тыквой и креветками](../../pics/risotto-tikva-krevetka.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/cannelloni-lever.jpg
----
 # Каннеллони с болоньезе из печени
 
 ![Каннеллони с болоньезе из печени](../../pics/cannelloni-lever.jpg)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/chicken_congee.jpg
----
 # Рисовый cуп с курицей \| Chicken Congee
 
 Chicken Congee - китайский рисовый суп или каша с курицей.

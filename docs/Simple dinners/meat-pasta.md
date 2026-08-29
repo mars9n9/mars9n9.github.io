@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/meat-pasta.jpg
----
 # Макароны с мясом
 
 ![Макароны с мясом](../pics/meat-pasta.jpg)

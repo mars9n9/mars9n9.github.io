@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/quesadilla-salmon.jpg
----
 # Кесадилья с лососем
 
 ![Кесадилья с лососем](../../pics/quesadilla-salmon.jpg)

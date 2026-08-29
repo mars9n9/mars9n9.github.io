@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/risotto-asparagus.jpg
----
 # Ризотто со спаржей и шпинатом
 
 ![Ризотто со спаржей и шпинатом](../../pics/risotto-asparagus.jpg)

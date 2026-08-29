@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/sosiska-testo.jpg
----
 # Сосиска в тесте
 
 ![Сосиска в тесте](../pics/sosiska-testo.jpg)

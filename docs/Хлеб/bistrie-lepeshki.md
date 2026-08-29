@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/bistrie-lepeshki.jpg
----
 # Быстрые лепешки
 
 ![Быстрые лепешки](../pics/bistrie-lepeshki.jpg)

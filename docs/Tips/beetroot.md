@@ -1,6 +1,3 @@
----
-image: ../pics/beetroot.jpg
----
 
 # Запекание свеклы
 

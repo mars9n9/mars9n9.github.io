@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/crusty-chicken.jpg
----
 # Хрустящее куриное филе в сыре. Chicken Parmesan
 
 ![Хрустящее куриное филе в сыре. Chicken Parmesan](../pics/crusty-chicken.jpg)

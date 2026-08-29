@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/potato-mushroom-casserole.jpg
----
 # Картофельная запеканка с грибами
 
 ![Картофельная запеканка с грибами](../pics/potato-mushroom-casserole.jpg)

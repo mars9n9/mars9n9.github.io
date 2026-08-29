@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/goroh.jpg
----
 # Гороховый суп
 
 ![Гороховый суп](../pics/goroh.jpg)

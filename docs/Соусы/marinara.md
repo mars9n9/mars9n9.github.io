@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/marinara.jpg
----
 # Маринара \| Alla marinara
 
 ![Маринара](../pics/marinara.jpg)

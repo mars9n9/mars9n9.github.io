@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/pasta-mushroom-peas.jpg
----
 # Паста с грибами и зеленым горошком
 
 ![Паста с грибами и зеленым горошком](../../pics/pasta-mushroom-peas.jpg)

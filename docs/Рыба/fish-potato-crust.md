@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/fish-potato-crust.jpg
----
 # Рыба в картофельной корочке
 
 ![Рыба в картофельной корочке](../pics/fish-potato-crust.jpg)

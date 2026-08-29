@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/Garlic-Mushroom-Spinach-Pizza-5.webp
----
 # Пицца с грибами, чесноком и шпинатом
 
 ![Пицца с грибами, чесноком и шпинатом](../pics/Garlic-Mushroom-Spinach-Pizza-5.webp)

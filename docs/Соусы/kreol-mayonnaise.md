@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/kreol-mayonnaise.jpg
----
 # Креольский майонез
 
 ![Креольский майонез](../pics/kreol-mayonnaise.jpg)

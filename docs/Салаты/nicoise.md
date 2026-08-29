@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/nicoise.webp
----
 # Салат Нисуаз
 
 ![Нисуаз](../pics/nicoise.webp)

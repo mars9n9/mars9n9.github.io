@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tureckie-simity.jpg
----
 # Турецкие симиты
 
 ![Турецкие симиты](../pics/tureckie-simity.jpg)

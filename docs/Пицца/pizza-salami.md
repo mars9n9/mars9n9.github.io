@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/picca-saljami-pikante_35394_photo_23767.jpg
----
 # Пицца «Салями пиканте»
 
 ![Пицца «Салями пиканте»](../pics/picca-saljami-pikante_35394_photo_23767.jpg)

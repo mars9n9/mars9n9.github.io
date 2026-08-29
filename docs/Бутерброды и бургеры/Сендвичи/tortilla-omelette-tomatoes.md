@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/tortilla-omelette-tomatoes.jpg
----
 # Тортильи на завтрак с омлетом, помидорами и сыром
 
 ![Тортильи на завтрак с омлетом, помидорами и сыром](../../pics/tortilla-omelette-tomatoes.jpg)

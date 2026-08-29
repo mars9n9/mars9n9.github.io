@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/chickpea-salad.jpg
----
 # Салат с пряным нутом
 
 ![Салат с пряным нутом](../pics/chickpea-salad.jpg)

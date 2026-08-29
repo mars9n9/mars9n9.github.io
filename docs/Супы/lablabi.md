@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/lablabi.jpg
----
 # Лаблаби
 
 ![Рисовый cуп с курицей](../pics/lablabi.jpg)

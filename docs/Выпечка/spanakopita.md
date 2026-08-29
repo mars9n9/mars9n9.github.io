@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/spanakopita.jpg
----
 # Спанакопита
 
 ![Спанакопита](../pics/spanakopita.jpg)

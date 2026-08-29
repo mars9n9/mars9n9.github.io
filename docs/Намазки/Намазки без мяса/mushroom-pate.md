@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/mushroom-pate.jpg
----
 # Паштет из грибов
 
 ![Паштет из грибов](../../pics/mushroom-pate.jpg)

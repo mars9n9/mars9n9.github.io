@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/buratta-chicken-milanese.jpeg
----
 # Курица с бураттой по-милански
 
 ![Курица с бураттой по-милански](../pics/buratta-chicken-milanese.jpeg)

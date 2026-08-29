@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tartiflette.jpg
----
 # Тартифлетт
 
 ![Тартифлетт](../pics/tartiflette.jpg)

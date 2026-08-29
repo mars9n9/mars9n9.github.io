@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/fried-tomatoes-cucumber-salsa.webp
----
 # Жареные помидоры с огуречной сальсой
 
 ![Жареные помидоры с огуречной сальсой](../pics/fried-tomatoes-cucumber-salsa.webp)

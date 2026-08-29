@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/lasagna-duck.jpg
----
 # Лазанья с хрустящей уткой
 
 ![Лазанья с хрустящей уткой](../../pics/lasagna-duck.jpg)

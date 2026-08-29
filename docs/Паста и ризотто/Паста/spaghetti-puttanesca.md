@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/spaghetti-puttanesca.jpg
----
 # Паста "путанеска" \| Spaghetti alla puttanesca
 
 ![Паста "путанеска"](../../pics/spaghetti-puttanesca.jpg)

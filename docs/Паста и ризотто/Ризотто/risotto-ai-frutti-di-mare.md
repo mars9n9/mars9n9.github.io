@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/risotto-ai-frutti-di-mare.jpg
----
 # Ризотто с морепродуктами
 
 ![Ризотто с морепродуктами](../../pics/risotto-ai-frutti-di-mare.jpg)

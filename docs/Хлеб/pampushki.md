@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/pampushki.jpg
----
 # Пампушки
 
 ![Пампушки](../pics/pampushki.jpg)

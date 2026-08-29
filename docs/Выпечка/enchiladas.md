@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/enchiladas.jpg
----
 # Энчилада \| Enchiladas
 
 ![Enchiladas](../pics/enchiladas.jpg)

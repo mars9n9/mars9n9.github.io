@@ -1,6 +1,3 @@
----
-image: ../pics/kurinaja-lapsha-s-potrohami.jpg
----
 
 # Куриный суп с потрохами
 

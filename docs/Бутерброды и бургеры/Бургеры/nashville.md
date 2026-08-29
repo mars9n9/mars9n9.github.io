@@ -1,6 +1,3 @@
-﻿---
-image: ../../pics/nashville.webp
----
 # Бургер Нешвилл
 
 ![Бургер Нешвилл](../../pics/nashville.webp)

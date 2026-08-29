@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/potato-salmon-cutlet.jpg
----
 # Картофельные котлеты с лососем
 
 ![Картофельные котлеты с лососем](../pics/potato-salmon-cutlet.jpg)

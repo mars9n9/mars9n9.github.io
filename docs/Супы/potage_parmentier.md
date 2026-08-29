@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/potage_parmentier.jpg
----
 # Крем-суп Пармантье \| Potage Parmentier
 
 ![Крем-суп Пармантье](../pics/potage_parmentier.jpg)

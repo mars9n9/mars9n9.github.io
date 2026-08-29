@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tart-puttaneska.jpg
----
 # Пирог с корюшкой и соусом «путанеска»
 
 ![Пирог с корюшкой и соусом «путанеска»](../pics/tart-puttaneska.jpg)

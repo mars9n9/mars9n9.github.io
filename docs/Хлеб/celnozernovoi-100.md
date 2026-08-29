@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/celnozernovoi-100.jpg
----
 # Цельнозерновой 100% на закваске
 
 ![Цельнозерновой 100% на закваске](../pics/celnozernovoi-100.jpg)

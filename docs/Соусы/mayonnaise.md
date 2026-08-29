@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/mayonnaise.jpg
----
 # Майонез \| La mayonnaise
 
 ![La mayonnaise](../pics/mayonnaise.jpg)

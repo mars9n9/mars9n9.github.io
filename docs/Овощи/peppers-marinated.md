@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/peppers-marinated.webp
----
 # Маринованные перцы
 
 ![Маринованные перцы](../pics/peppers-marinated.webp)

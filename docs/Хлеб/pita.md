@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/pita.jpg
----
 # Пита
 
 ![Пита](../pics/pita.jpg)

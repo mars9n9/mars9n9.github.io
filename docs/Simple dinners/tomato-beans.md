@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/tomato-beans.jpg
----
 # Фасоль в томатном соусе
 
 ![Фасоль в томатном соусе](../pics/tomato-beans.jpg)

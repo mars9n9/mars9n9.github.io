@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/ramen.jpg
----
 # Рамен \| Ramen
 
 ![Рамен](../pics/ramen.jpg)

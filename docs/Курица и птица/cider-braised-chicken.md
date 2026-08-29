@@ -1,6 +1,3 @@
----
-image: ../pics/cider-braised-chicken.jpg
----
 # Тушеная в сидре курица с рисом
 
 ![Тушеная в сидре курица с рисом](../pics/cider-braised-chicken.jpg)

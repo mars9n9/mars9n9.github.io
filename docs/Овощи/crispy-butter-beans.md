@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/crispy-butter-beans.png
----
 # Хрустящая фасоль с грибами и пармезаном
 
 ![Хрустящая фасоль с грибами и пармезаном](../pics/crispy-butter-beans.png)

@@ -1,6 +1,3 @@
-﻿---
-image: ../pics/chapata.jpg
----
 # Чабатта на биге
 
 ![Чабатта на биге](../pics/chapata.jpg)
