@@ -311,6 +311,7 @@
   * [Гриссини](https://mars9n9.github.io/Хлеб/grissini.html)
   * [Манные лепешки с начинкой](https://mars9n9.github.io/Хлеб/semolina-lepeshka.html)
   * [Марокканская Ксра](https://mars9n9.github.io/Хлеб/marokkanskaya-ksra.html)
+  * [Отрывной хлеб с базиликом, сыром и песто (Pull Apart Bread al basilico con formaggio e pesto)](https://mars9n9.github.io/Хлеб/pull_apart_bread.html)
   * [Пампушки](https://mars9n9.github.io/Хлеб/pampushki.html)
   * [Пита](https://mars9n9.github.io/Хлеб/pita.html)
   * [Серый хлеб с бергамотом на закваске](https://mars9n9.github.io/Хлеб/bergamot.html)
