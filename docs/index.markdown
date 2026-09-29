@@ -134,8 +134,10 @@
   * [Митболлы](https://mars9n9.github.io/Мясо/Митболлы/ix.html)
 
     * [Свиные фрикадельки с кунжутом и имбирем](https://mars9n9.github.io/Мясо/Митболлы/sesame-ginger-pork-meatballs.html)
+    * [Фрикадельки в винном соусе](https://mars9n9.github.io/Мясо/Митболлы/red-wine.html)
     * [Фрикадельки в соусе с миндалем](https://mars9n9.github.io/Мясо/Митболлы/albondigas-en-salsa.html)
     * [Фрикадельки из баранины в североафриканском стиле](https://mars9n9.github.io/Мясо/Митболлы/north-african-lamb.html)
+    * [Фрикадельки из курицы и лобстера](https://mars9n9.github.io/Мясо/Митболлы/jamaican-rooster.html)
     * [Фрикадельки из чоризо с оливками и сыром](https://mars9n9.github.io/Мясо/Митболлы/chorizo-olives.html)
     * [Фрикадельки с яблочным сидром](https://mars9n9.github.io/Мясо/Митболлы/apple-cider-maple-meatballs.html)
   * [Буженина](https://mars9n9.github.io/Мясо/buzhenina.html)
