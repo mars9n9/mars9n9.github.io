@@ -21,8 +21,8 @@
   * [Куриный бульон](https://mars9n9.github.io/Tips/chicken_broth.html)
   * [Подготовка рыбы](https://mars9n9.github.io/Tips/fish.html)
   * [Подготовка языка](https://mars9n9.github.io/Tips/preparation-tongue.html)
-  * [Рис для суши](https://mars9n9.github.io/Tips/rice.html)
   * [Чит-коды к молочному рису](https://mars9n9.github.io/Tips/milk-rice.html)
+  * [Японский рис](https://mars9n9.github.io/Tips/rice.html)
 * Блины
 
   * [Катаеф \(с сыром\)](https://mars9n9.github.io/Блины/kataef.html)
