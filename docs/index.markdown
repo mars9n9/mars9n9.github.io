@@ -294,6 +294,7 @@
   * [Рисовый cуп с курицей \| Chicken Congee](https://mars9n9.github.io/Супы/chicken-congee.html)
   * [Сальморехо из свеклы](https://mars9n9.github.io/Супы/salmorejo-beetroot.html)
   * [Суп из чечевицы с яйцом-пашот](https://mars9n9.github.io/Супы/lentil-egg.html)
+  * [Суп с морепродуктами и фенхелем](https://mars9n9.github.io/Супы/seafood-fennel.html)
   * [Суп с соевыми ростками и говядиной \(Beef Pho Noodle Soup, Phở bò tái\)](https://mars9n9.github.io/Супы/beef-pho-noodle.html)
   * [Том-ям-кунг](https://mars9n9.github.io/Супы/tomyam.html)
   * [Турецкий чечевичный суп с мятой (Mercimek Çorbasi)](https://mars9n9.github.io/Супы/mercimek_corbasi.html)
