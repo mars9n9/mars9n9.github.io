@@ -140,6 +140,7 @@
     * [Фрикадельки из курицы и лобстера](https://mars9n9.github.io/Мясо/Митболлы/jamaican-rooster.html)
     * [Фрикадельки из чоризо с оливками и сыром](https://mars9n9.github.io/Мясо/Митболлы/chorizo-olives.html)
     * [Фрикадельки с яблочным сидром](https://mars9n9.github.io/Мясо/Митболлы/apple-cider-maple-meatballs.html)
+    * [Хипстерские фрикадельки с лингвини](https://mars9n9.github.io/Мясо/Митболлы/hipster-meatballs.html)
   * [Буженина](https://mars9n9.github.io/Мясо/buzhenina.html)
   * [Картофельная запеканка Пармантье \| Hachis Parmentier](https://mars9n9.github.io/Мясо/hachis_parmentier.html)
   * [Картофельные котлетки с ветчиной](https://mars9n9.github.io/Мясо/potato-zrazi.html)
