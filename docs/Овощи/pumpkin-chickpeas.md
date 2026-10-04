@@ -1,4 +1,4 @@
-# Индийский нут в тыквенно-масляном соусе | 30 Minute Indian Pumpkin Butter Chickpeas
+# Индийский нут в тыквенно-масляном соусе \| 30 Minute Indian Pumpkin Butter Chickpeas
 
 ![Индийский нут в тыквенно-масляном соусе](../pics/pumpkin-chickpeas.jpg)
 
