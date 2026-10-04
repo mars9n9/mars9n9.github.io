@@ -161,6 +161,7 @@
   * [Баклажаны под сыром](https://mars9n9.github.io/Овощи/eggplant-cheese.html)
   * [Жареные помидоры с огуречной сальсой](https://mars9n9.github.io/Овощи/fried-tomatoes-cucumber-salsa.html)
   * [Запеченная цветная капуста в соусе харисса](https://mars9n9.github.io/Овощи/cauliflower.html)
+  * [Индийский нут в тыквенно-масляном соусе | 30 Minute Indian Pumpkin Butter Chickpeas](https://mars9n9.github.io/Овощи/pumpkin-chickpeas.html)
   * [Картофельная запеканка с грибами](https://mars9n9.github.io/Овощи/potato-mushroom-casserole.html)
   * [Маринованные перцы](https://mars9n9.github.io/Овощи/peppers-marinated.html)
   * [Пак-чой в устричном соусе](https://mars9n9.github.io/Овощи/bok-choy.html)
