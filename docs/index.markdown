@@ -76,6 +76,7 @@
   * [Булочки с начинкой из трех видов сыра](https://mars9n9.github.io/Выпечка/cheese-buns.html)
   * [Быстрые творожные булочки](https://mars9n9.github.io/Выпечка/tvorozhnie-bulochki.html)
   * [Венецианский пирог с грибами](https://mars9n9.github.io/Выпечка/venetian-pie.html)
+  * [Идеальные английские сконы к чаю \| Perfect English Tea Scone](https://mars9n9.github.io/Выпечка/scone.html)
   * [Иерусалимский пирог с травами](https://mars9n9.github.io/Выпечка/herb-pie.html)
   * [Крамбл с печенью и виноградом](https://mars9n9.github.io/Выпечка/crumble-lever.html)
   * [Кулебяка](https://mars9n9.github.io/Выпечка/kulebyaka.html)
