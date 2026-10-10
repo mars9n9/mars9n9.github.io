@@ -297,6 +297,7 @@
   * [Рамен \| Ramen](https://mars9n9.github.io/Супы/ramen.html)
   * [Рисовый cуп с курицей \| Chicken Congee](https://mars9n9.github.io/Супы/chicken-congee.html)
   * [Сальморехо из свеклы](https://mars9n9.github.io/Супы/salmorejo-beetroot.html)
+  * [Суп из репы с тыквой и голубым сыром](https://mars9n9.github.io/Супы/butternut_turnip.html)
   * [Суп из чечевицы с яйцом-пашот](https://mars9n9.github.io/Супы/lentil-egg.html)
   * [Суп с морепродуктами и фенхелем](https://mars9n9.github.io/Супы/seafood-fennel.html)
   * [Суп с соевыми ростками и говядиной \(Beef Pho Noodle Soup, Phở bò tái\)](https://mars9n9.github.io/Супы/beef-pho-noodle.html)
