@@ -265,6 +265,7 @@
   * [Салат с фасолью и креветками](https://mars9n9.github.io/Салаты/shrimp-bean.html)
   * [Салат с финиками и миндалем](https://mars9n9.github.io/Салаты/salad-dates-almonds.html)
   * [Теплый салат из спаржи с фетой и фисташками](https://mars9n9.github.io/Салаты/asparagus-feta-pistachio.html)
+  * [Теплый салат с лисичками и голубым сыром](https://mars9n9.github.io/Салаты/chanterelle-blue-cheese.html)
 * Соусы
 
   * [Cоус руй \| Rouille](https://mars9n9.github.io/Соусы/rouille.html)
@@ -287,6 +288,7 @@
   * [Грибной суп с паприкой](https://mars9n9.github.io/Супы/mushroom-paprika.html)
   * [Грибные щи с репой](https://mars9n9.github.io/Супы/mushroom-turnip.html)
   * [Крем-суп Пармантье \| Potage Parmentier](https://mars9n9.github.io/Супы/potage_parmentier.html)
+  * [Крем-суп из лисичек](https://mars9n9.github.io/Супы/chanterelle-cream.html)
   * [Крем-суп из топинамбура с морепродуктами](https://mars9n9.github.io/Супы/seafood-cream.html)
   * [Крем-суп из шампиньонов](https://mars9n9.github.io/Супы/mushroom-cream.html)
   * [Куриный суп с потрохами](https://mars9n9.github.io/Супы/kurinaja-lapsha-s-potrohami.html)
