@@ -325,6 +325,7 @@
   * [Серый хлеб с бергамотом на закваске](https://mars9n9.github.io/Хлеб/bergamot.html)
   * [Творожные бейглы](https://mars9n9.github.io/Хлеб/bagel-cottage-cheese.html)
   * [Турецкие симиты](https://mars9n9.github.io/Хлеб/tureckie-simity.html)
+  * [Тыквенный тартин с семечками](https://mars9n9.github.io/Хлеб/tartin-tykva.html)
   * [Узелки с черемшой](https://mars9n9.github.io/Хлеб/cheremsha.html)
   * [Утренние булки на закваске](https://mars9n9.github.io/Хлеб/utrennie-bulki.html)
   * [Фокачча по рецепту Ришара Бертине](https://mars9n9.github.io/Хлеб/focaccia.html)
