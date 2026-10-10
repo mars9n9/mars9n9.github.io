@@ -337,3 +337,4 @@
 * Яйца
 
   * [Жареные яйца с помидорами (西红柿炒蛋)](https://mars9n9.github.io/Яйца/chinese-egg.html)
+  * [Зеленая шакшука со шпинатом и сыром страчателла](https://mars9n9.github.io/Яйца/green-shakshouka.html)
