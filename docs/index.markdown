@@ -325,6 +325,7 @@
   * [Пампушки](https://mars9n9.github.io/Хлеб/pampushki.html)
   * [Пита](https://mars9n9.github.io/Хлеб/pita.html)
   * [Серый хлеб с бергамотом на закваске](https://mars9n9.github.io/Хлеб/bergamot.html)
+  * [Солодовый тартин с клюквой](https://mars9n9.github.io/Хлеб/tartin-klukva.html)
   * [Творожные бейглы](https://mars9n9.github.io/Хлеб/bagel-cottage-cheese.html)
   * [Турецкие симиты](https://mars9n9.github.io/Хлеб/tureckie-simity.html)
   * [Тыквенный тартин с семечками](https://mars9n9.github.io/Хлеб/tartin-tykva.html)
