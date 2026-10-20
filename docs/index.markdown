@@ -145,6 +145,7 @@
   * [Буженина](https://mars9n9.github.io/Мясо/buzhenina.html)
   * [Картофельная запеканка Пармантье \| Hachis Parmentier](https://mars9n9.github.io/Мясо/hachis_parmentier.html)
   * [Картофельные котлетки с ветчиной](https://mars9n9.github.io/Мясо/potato-zrazi.html)
+  * [Солсбери стейк \| Salisbury Steak](https://mars9n9.github.io/Мясо/salisbury-steak.html)
   * [Фаршированный батат](https://mars9n9.github.io/Мясо/stuffed-sweet-potato.html)
   * [Яйцо по-шотландски](https://mars9n9.github.io/Мясо/scotch-egg.html)
 * Намазки
