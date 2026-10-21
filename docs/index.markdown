@@ -217,6 +217,7 @@
 
   * [Паэлья из куриных потрохов](https://mars9n9.github.io/Пилаф/paella-kurica.html)
   * [Паэлья с морепродуктами](https://mars9n9.github.io/Пилаф/paella.html)
+  * [Плов узбекский](https://mars9n9.github.io/Пилаф/plov.html)
 * Пицца
 
   * [Базовый томатный соус для пиццы](https://mars9n9.github.io/Пицца/tomato-sauce.html)
