@@ -249,12 +249,13 @@
   * [Чираши с тунцом, авокадо и манго](https://mars9n9.github.io/Рыба/chirashi.html)
 * Салаты
 
+  * [Весенний картофельный салат](https://mars9n9.github.io/Салаты/spring-potato-salad.html)
   * [Весенний кобб салат](https://mars9n9.github.io/Салаты/spring-cobb.html)
   * [Греческий салат](https://mars9n9.github.io/Салаты/grecheskii_salat.html)
   * [Классический Уолдорфский салат \| Classic Waldorf Salad](https://mars9n9.github.io/Салаты/waldorf.html)
   * [Кобб салат](https://mars9n9.github.io/Салаты/cobb.html)
+  * [Креветки с кенийской фасолью и томатами](https://mars9n9.github.io/Салаты/green-bean-shrimp.html)
   * [Лимонный картофельный салат](https://mars9n9.github.io/Салаты/potato-lemon.html)
-  * [Лимонный картофельный салат](https://mars9n9.github.io/Салаты/spring-potato-salad.html)
   * [Мимоза с копченым лососем](https://mars9n9.github.io/Салаты/mimosa.html)
   * [Оливье с говяжьим языком](https://mars9n9.github.io/Салаты/olivje.html)
   * [Помидоры с тунцовым соусом](https://mars9n9.github.io/Салаты/tomato-tuna.html)
@@ -274,6 +275,7 @@
   * [Салат с томатами, стручковой фасолью и нутом](https://mars9n9.github.io/Салаты/tomato-green-bean-salad.html)
   * [Салат с фасолью и креветками](https://mars9n9.github.io/Салаты/shrimp-bean.html)
   * [Салат с финиками и миндалем](https://mars9n9.github.io/Салаты/salad-dates-almonds.html)
+  * [Сытный салат с грудкой цыплёнка под соусом авокадо-ранч](https://mars9n9.github.io/Салаты/chicken-avocado-ranch.html)
   * [Теплый салат из спаржи с фетой и фисташками](https://mars9n9.github.io/Салаты/asparagus-feta-pistachio.html)
   * [Теплый салат с лисичками и голубым сыром](https://mars9n9.github.io/Салаты/chanterelle-blue-cheese.html)
 * Соусы
