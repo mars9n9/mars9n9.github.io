@@ -278,6 +278,7 @@
   * [Сытный салат с грудкой цыплёнка под соусом авокадо-ранч](https://mars9n9.github.io/Салаты/chicken-avocado-ranch.html)
   * [Теплый салат из спаржи с фетой и фисташками](https://mars9n9.github.io/Салаты/asparagus-feta-pistachio.html)
   * [Теплый салат с лисичками и голубым сыром](https://mars9n9.github.io/Салаты/chanterelle-blue-cheese.html)
+  * [Фаттуш \| Fattoush](https://mars9n9.github.io/Салаты/fattoush.html)
 * Соусы
 
   * [Cоус руй \| Rouille](https://mars9n9.github.io/Соусы/rouille.html)
