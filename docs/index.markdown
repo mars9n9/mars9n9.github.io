@@ -266,6 +266,7 @@
   * [Салат бекон, латук, томаты, картофель \| BLT Potato Salad](https://mars9n9.github.io/Салаты/blt-potato.html)
   * [Салат из запеченной свеклы](https://mars9n9.github.io/Салаты/beetroot-salad.html)
   * [Салат из курицы в карри-соусе на тостах](https://mars9n9.github.io/Салаты/coronation-salad.html)
+  * [Салат из тунца и фасоли на тостах](https://mars9n9.github.io/Салаты/tuna-toast.html)
   * [Салат с авокадо, свеклой и обжаренным козьим сыром](https://mars9n9.github.io/Салаты/beetroot-avocado.html)
   * [Салат с артишоком](https://mars9n9.github.io/Салаты/artichoke-herb-salad.html)
   * [Салат с пряным нутом](https://mars9n9.github.io/Салаты/chickpea-salad.html)
