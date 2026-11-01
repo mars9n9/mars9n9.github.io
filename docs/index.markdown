@@ -234,6 +234,7 @@
   * [Гамбо](https://mars9n9.github.io/Рагу/gumbo.html)
   * [Говядина по-бургундски \| Boeuf bourguignon](https://mars9n9.github.io/Рагу/boeuf_bourguignon.html)
   * [Говяжьи ребрышки, тушеные в красном вине](https://mars9n9.github.io/Рагу/red-wine-braised-short-ribs.html)
+  * [Ирландское рагу с пивом \| Stobhach gaelach](https://mars9n9.github.io/Рагу/irish-stew.html)
   * [Кролик, запеченный в белом вине с овощами](https://mars9n9.github.io/Рагу/rabbit-veges.html)
   * [Курица по-охотничьи \| Pollo alla cacciatora](https://mars9n9.github.io/Рагу/pollo-alla-cacciatora.html)
   * [Рагу по-ланкаширски](https://mars9n9.github.io/Рагу/lancashire-hotpot.html)
