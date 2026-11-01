@@ -163,6 +163,7 @@
 
   * [Баклажаны под сыром](https://mars9n9.github.io/Овощи/eggplant-cheese.html)
   * [Жареные помидоры с огуречной сальсой](https://mars9n9.github.io/Овощи/fried-tomatoes-cucumber-salsa.html)
+  * [Запеченная фета с томатами \| Baked Feta & Tomatoes](https://mars9n9.github.io/Овощи/baked-feta-tomatoes.html)
   * [Запеченная цветная капуста в соусе харисса](https://mars9n9.github.io/Овощи/cauliflower.html)
   * [Индийский нут в тыквенно-масляном соусе \| 30 Minute Indian Pumpkin Butter Chickpeas](https://mars9n9.github.io/Овощи/pumpkin-chickpeas.html)
   * [Картофельная запеканка с грибами](https://mars9n9.github.io/Овощи/potato-mushroom-casserole.html)
@@ -250,6 +251,7 @@
 
   * [Весенний кобб салат](https://mars9n9.github.io/Салаты/spring-cobb.html)
   * [Греческий салат](https://mars9n9.github.io/Салаты/grecheskii_salat.html)
+  * [Классический Уолдорфский салат \| Classic Waldorf Salad](https://mars9n9.github.io/Салаты/waldorf.html)
   * [Кобб салат](https://mars9n9.github.io/Салаты/cobb.html)
   * [Лимонный картофельный салат](https://mars9n9.github.io/Салаты/potato-lemon.html)
   * [Мимоза с копченым лососем](https://mars9n9.github.io/Салаты/mimosa.html)
@@ -257,6 +259,8 @@
   * [Помидоры с тунцовым соусом](https://mars9n9.github.io/Салаты/tomato-tuna.html)
   * [Пряный томатный салат](https://mars9n9.github.io/Салаты/spicy-tomato.html)
   * [Салат "Нисуаз" с креветками и вонголе](https://mars9n9.github.io/Салаты/nicoise-vongole.html)
+  * [Салат «Сан-Исидро» \| Ensalada de San Isidro](https://mars9n9.github.io/Салаты/san-isidro.html)
+  * [Салат Лионнез \| Salade Lyonnaise](https://mars9n9.github.io/Салаты/lyonnaise.html)
   * [Салат Нисуаз](https://mars9n9.github.io/Салаты/nicoise.html)
   * [Салат Цезарь](https://mars9n9.github.io/Салаты/cezar.html)
   * [Салат бекон, латук, томаты, картофель \| BLT Potato Salad](https://mars9n9.github.io/Салаты/blt-potato.html)
