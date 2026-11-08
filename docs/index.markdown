@@ -201,7 +201,7 @@
     * [Паста с лисичками и фасолью](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-mushroom-beans.html)
     * [Паста с лососем \| Паста с 2 лососями \|\| Pâtes au saumon \| Pâtes aux deux saumons](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-salmon.html)
     * [Паста фарфалле с тунцом и помидорами черри](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-tuna.html)
-    * [Сливочная лимонная паста с хрустящими крошками](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/creamy-lemon-pasta.html)
+    * [Сливочная лимонная паста с хрустящими крошками и артишоком](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/creamy-lemon-pasta.html)
     * [Спагетти с сардинами](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/spagetti-sardines.html)
     * [Спагетти с чесноком и фундуком и запеченным шампиньоном](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-hazelnut-mushroom.html)
     * [Творожная паста](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/cottage-cheese-pasta.html)
