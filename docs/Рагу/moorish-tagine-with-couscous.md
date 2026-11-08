@@ -1,4 +1,4 @@
-# Мавританский тажин с кускусом | Moorish Tagine with Couscous
+# Мавританский тажин с кускусом \| Moorish Tagine with Couscous
 
 ![Moorish Tagine with Couscous](../pics/moorish-tagine-with-couscous.jpg)
 
