@@ -238,6 +238,7 @@
   * [Карбонад по-фламандски \| Carbonade flamande](https://mars9n9.github.io/Рагу/carbonade-flamande.html)
   * [Кролик, запеченный в белом вине с овощами](https://mars9n9.github.io/Рагу/rabbit-veges.html)
   * [Курица по-охотничьи \| Pollo alla cacciatora](https://mars9n9.github.io/Рагу/pollo-alla-cacciatora.html)
+  * [Мавританский тажин с кускусом | Moorish Tagine with Couscous](https://mars9n9.github.io/Рагу/moorish-tagine-with-couscous.html)
   * [Рагу по-ланкаширски](https://mars9n9.github.io/Рагу/lancashire-hotpot.html)
   * [Сaldeirada](https://mars9n9.github.io/Рагу/caldeira.html)
 * Рыба
