@@ -128,6 +128,8 @@
   * [Хрустящая острая курица с медом и фетой](https://mars9n9.github.io/Курица%20и%20птица/chicken-honey-feta.html)
   * [Хрустящее куриное филе в сыре. Chicken Parmesan](https://mars9n9.github.io/Курица%20и%20птица/crusty-chicken.html)
   * [Хрустящие наггетсы](https://mars9n9.github.io/Курица%20и%20птица/nuggets.html)
+  * [Хрустящие наггетсы](https://mars9n9.github.io/Курица%20и%20птица/sweet-sour-chicken.html)
+  * [Цыпленок с заатаром и рисом в одной кастрюле \| One Pot Za’atar Chicken and Rice](https://mars9n9.github.io/Курица%20и%20птица/one-pot-zaatar-chicken.html)
 * Морепродукты
 
   * [Кремовые креветки по-тоскански](https://mars9n9.github.io/Морепродукты/creamy-tuscan-prawns.html)
@@ -188,6 +190,7 @@
     * [Pasta alla Zozzona](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-zozzona.html)
     * [Весенняя паста со спаржей](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/asparagus-pasta.html)
     * [Лингвини с вонголе \| Linguine alle vongole](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/linguine-vongole.html)
+    * [Ореккьетте по-позитански | Orecchiette alla positanese](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-positanese.html)
     * [Острая мисо карбонара](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/miso-carbonara.html)
     * [Паста "путанеска" \| Spaghetti alla puttanesca](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/spaghetti-puttanesca.html)
     * [Паста Альфредо \(Alfredo Sauce\)](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-alfredo.html)
@@ -238,7 +241,7 @@
   * [Карбонад по-фламандски \| Carbonade flamande](https://mars9n9.github.io/Рагу/carbonade-flamande.html)
   * [Кролик, запеченный в белом вине с овощами](https://mars9n9.github.io/Рагу/rabbit-veges.html)
   * [Курица по-охотничьи \| Pollo alla cacciatora](https://mars9n9.github.io/Рагу/pollo-alla-cacciatora.html)
-  * [Мавританский тажин с кускусом | Moorish Tagine with Couscous](https://mars9n9.github.io/Рагу/moorish-tagine-with-couscous.html)
+  * [Мавританский тажин с кускусом \| Moorish Tagine with Couscous](https://mars9n9.github.io/Рагу/moorish-tagine-with-couscous.html)
   * [Рагу по-ланкаширски](https://mars9n9.github.io/Рагу/lancashire-hotpot.html)
   * [Сaldeirada](https://mars9n9.github.io/Рагу/caldeira.html)
 * Рыба
