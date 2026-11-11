@@ -190,7 +190,7 @@
     * [Pasta alla Zozzona](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-zozzona.html)
     * [Весенняя паста со спаржей](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/asparagus-pasta.html)
     * [Лингвини с вонголе \| Linguine alle vongole](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/linguine-vongole.html)
-    * [Ореккьетте по-позитански | Orecchiette alla positanese](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-positanese.html)
+    * [Ореккьетте по-позитански \| Orecchiette alla positanese](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-positanese.html)
     * [Острая мисо карбонара](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/miso-carbonara.html)
     * [Паста "путанеска" \| Spaghetti alla puttanesca](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/spaghetti-puttanesca.html)
     * [Паста Альфредо \(Alfredo Sauce\)](https://mars9n9.github.io/Паста%20и%20ризотто/Паста/pasta-alfredo.html)
