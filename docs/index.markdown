@@ -1,5 +1,6 @@
 * Simple dinners
 
+  * [Быстрые гиросы с курицей и соусом дзадзики](https://mars9n9.github.io/Simple%20dinners/easy-chicken-gyros-tzatziki-sauce.html)
   * [Грибы по строгановски](https://mars9n9.github.io/Simple%20dinners/mushroom-stroganov.html)
   * [Крамбл с яблоками, курицей и мёдом](https://mars9n9.github.io/Simple%20dinners/crumble-apple-chicken.html)
   * [Курица в медовой глазури](https://mars9n9.github.io/Simple%20dinners/chicken-honey.html)
@@ -110,6 +111,7 @@
 
   * [General Tso's Chicken](https://mars9n9.github.io/Курица%20и%20птица/general-tsos-chicken.html)
   * [Адобо](https://mars9n9.github.io/Курица%20и%20птица/adobo.html)
+  * [Кисло-сладкая курица](https://mars9n9.github.io/Курица%20и%20птица/sweet-sour-chicken.html)
   * [Котлета по киевски](https://mars9n9.github.io/Курица%20и%20птица/kiiv.html)
   * [Крылья в азиатском рыбном соусе](https://mars9n9.github.io/Курица%20и%20птица/wings-fish-sauce.html)
   * [Куриное филе в сливках с вялеными томатами и пармезаном](https://mars9n9.github.io/Курица%20и%20птица/creamy-chicken.html)
@@ -128,7 +130,6 @@
   * [Хрустящая острая курица с медом и фетой](https://mars9n9.github.io/Курица%20и%20птица/chicken-honey-feta.html)
   * [Хрустящее куриное филе в сыре. Chicken Parmesan](https://mars9n9.github.io/Курица%20и%20птица/crusty-chicken.html)
   * [Хрустящие наггетсы](https://mars9n9.github.io/Курица%20и%20птица/nuggets.html)
-  * [Хрустящие наггетсы](https://mars9n9.github.io/Курица%20и%20птица/sweet-sour-chicken.html)
   * [Цыпленок с заатаром и рисом в одной кастрюле \| One Pot Za’atar Chicken and Rice](https://mars9n9.github.io/Курица%20и%20птица/one-pot-zaatar-chicken.html)
 * Морепродукты
 
