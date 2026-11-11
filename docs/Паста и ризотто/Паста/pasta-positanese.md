@@ -1,8 +1,6 @@
-# Ореккьетте по-позитански | Orecchiette alla positanese
+# Ореккьетте по-позитански \| Orecchiette alla positanese
 
 ![Orecchiette alla positanese](../../pics/pasta-positanese.jpg)
-
-# Ореккьетте по-позитански | Orecchiette alla positanese
 
 #### Ингредиенты
 * ореккьетте 160 г
