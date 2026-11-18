@@ -2,6 +2,7 @@
 
   * [Быстрые гиросы с курицей и соусом дзадзики](https://mars9n9.github.io/Simple%20dinners/easy-chicken-gyros-tzatziki-sauce.html)
   * [Грибы по строгановски](https://mars9n9.github.io/Simple%20dinners/mushroom-stroganov.html)
+  * [Картофельная лепёшка с лососем](https://mars9n9.github.io/Simple%20dinners/potato-gravlax.html)
   * [Крамбл с яблоками, курицей и мёдом](https://mars9n9.github.io/Simple%20dinners/crumble-apple-chicken.html)
   * [Курица в медовой глазури](https://mars9n9.github.io/Simple%20dinners/chicken-honey.html)
   * [Курица с бураттой по-милански](https://mars9n9.github.io/Simple%20dinners/buratta-chicken-milanese.html)
@@ -12,6 +13,7 @@
   * [Лосось с орзо](https://mars9n9.github.io/Simple%20dinners/salmon-orzo.html)
   * [Макароны с мясом](https://mars9n9.github.io/Simple%20dinners/meat-pasta.html)
   * [Ньокки с грибами и козьим сыром](https://mars9n9.github.io/Simple%20dinners/mushroom-gnocchi.html)
+  * [Птитим с креветками, песто и миндалём](https://mars9n9.github.io/Simple%20dinners/shrimp-orzo.html)
   * [Фасоль в томатном соусе](https://mars9n9.github.io/Simple%20dinners/tomato-beans.html)
 * Tips
 
@@ -41,6 +43,7 @@
     * [Бургер Нешвилл](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Бургеры/nashville.html)
     * [Бургер Оклахома](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Бургеры/oklahoma.html)
     * [Бургер из баранины с яйцом](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Бургеры/egg-burger.html)
+    * [Филе-о-Фиш с икрой](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Бургеры/filet-o-fish.html)
   * Сендвичи
 
     * [Бейгл с яйцом на завтрак](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/bagel-egg.html)
@@ -48,6 +51,7 @@
     * [Сэндвич с яичницей, беконом и сыром](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/egg-bacon-sandwich.html)
     * [Тортильи на завтрак с омлетом, помидорами и сыром](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/tortilla-omelette-tomatoes.html)
     * [Тост с авокадо и яйцом \| The holy egg & avo](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/holy-avo-egg.html)
+    * [Халуми сендвич](https://mars9n9.github.io/Бутерброды%20и%20бургеры/Сендвичи/haloumi-bun.html)
   * [Брускетта с печенью трески](https://mars9n9.github.io/Бутерброды%20и%20бургеры/cod-liver.html)
 * Выпечка
   * Вафли
@@ -68,6 +72,7 @@
     * [Клафути с помидорами черри](https://mars9n9.github.io/Выпечка/Несладкие%20кексы/clafoutis-cherri.html)
     * [Мадлен с грецким орехом и сыром с голубой плесенью](https://mars9n9.github.io/Выпечка/Несладкие%20кексы/madeleine-blue-cheese.html)
     * [Маффины с беконом и яйцом](https://mars9n9.github.io/Выпечка/Несладкие%20кексы/bacon-egg-breakfast-muffins.html)
+    * [Томатные мадлен с оливками и табаско](https://mars9n9.github.io/Выпечка/Несладкие%20кексы/madeleine-tabasco.html)
   * Несладкое печенье
 
     * [Печенье с чоризо и вялеными томатами](https://mars9n9.github.io/Выпечка/Несладкое%20печенье/chorizo-cookies.html)
@@ -97,6 +102,7 @@
   * [Сырная бриошь](https://mars9n9.github.io/Выпечка/cheese-brioche.html)
   * [Томатный чизкейк](https://mars9n9.github.io/Выпечка/tomato-cheesecake.html)
   * [Традиционный английский пирог с кроликом](https://mars9n9.github.io/Выпечка/rabbit-pie.html)
+  * [Чебуреки](https://mars9n9.github.io/Выпечка/chebureki.html)
   * [Чизкейк Сан-Себастьян](https://mars9n9.github.io/Выпечка/cheesecake-san.html)
   * [Энчилада \| Enchiladas](https://mars9n9.github.io/Выпечка/enchiladas.html)
 * Гарниры
@@ -134,6 +140,7 @@
 * Морепродукты
 
   * [Кремовые креветки по-тоскански](https://mars9n9.github.io/Морепродукты/creamy-tuscan-prawns.html)
+  * [Пад Тай \| Pad Thai](https://mars9n9.github.io/Морепродукты/pad-thai.html)
 * Мясо
   * [Митболлы](https://mars9n9.github.io/Мясо/Митболлы/ix.html)
 
