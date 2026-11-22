@@ -17,6 +17,7 @@
   * [Фасоль в томатном соусе](https://mars9n9.github.io/Simple%20dinners/tomato-beans.html)
 * Tips
 
+  * [Глинтвейн](https://mars9n9.github.io/Tips/glintwine.html)
   * [Запекание свеклы](https://mars9n9.github.io/Tips/beetroot.html)
   * [Картошка в духовке](https://mars9n9.github.io/Tips/potato-baked.html)
   * [Копчение](https://mars9n9.github.io/Tips/Копчение.html)
